@@ -1,0 +1,12 @@
+Tags: #forschungsmethoden,#einfuehrung,#theorieforschung
+Authors: Sandra Schön, Martin Ebner
+
+Chapters:
+{0_Forschungszugaenge_und_-methoden.md} {Forschungszugänge und -methoden}
+{1_Einleitung.md} {Einleitung}
+{2_Unterschiedliches_Verstaendnis_von_Forschung_und_Forschungsmethoden.md} {Unterschiedliches Verständnis von Forschung und Forschungsmethoden}
+{3_Drei_unterschiedliche_Forschungszugaenge.md} {Drei unterschiedliche Forschungszugänge}
+{4_Qualitative_quantitative_und_Methodenmix-Verfahren.md} {Qualitative, quantitative und Methodenmix-Verfahren}
+{5_Ausgewaehlte_Forschungsmethoden_im_Forschungsprozess.md} {Ausgewählte Forschungsmethoden im Forschungsprozess}
+{6_Zur_Wahl_geeigneter_Forschungsmethode.md} {Zur Wahl geeigneter Forschungsmethode}
+{7_Ausblick_Typische_Herausforderungen.md} {Ausblick: Typische Herausforderungen}

@@ -1,0 +1,9 @@
+Tags: #internet,#einfuehrung,#geschichte
+Authors: Hermann Maurer
+
+Chapters:
+{0_Die_Geschichte_des_WWW.md} {Die Geschichte des WWW}
+{1_Robnett_Licklider_Ted_Nelson_und_Sam_Fedida.md} {Robnett Licklider, Ted Nelson und Sam Fedida}
+{2_Die_Grundidee_des_BTX.md} {Die Grundidee des BTX}
+{3_Erweiterungen_des_BTX.md} {Erweiterungen des BTX}
+{4_Der_Durchbruch_des_WWW_und_wie_die_USA_die_Fuehrung_uebernehmen.md} {Der Durchbruch des WWW und wie die USA die Führung übernehmen}

@@ -1,0 +1,9 @@
+Tags: #ant,#spezial,#theorieforschung
+Authors: Andréa Belliger, David Krieger, Erich Herber, Stephan Waba
+
+Chapters:
+{0_Die_Akteur-Netzwerk-Theorie.md} {Die Akteur-Netzwerk-Theorie}
+{1_Einleitung.md} {Einleitung}
+{2_Techniktheorien_in_Bildungsprozessen.md} {Techniktheorien in Bildungsprozessen}
+{3_Die_Akteur-Netzwerk-Theorie.md} {Die Akteur-Netzwerk-Theorie}
+{4_Die_Akteur-Netzwerk-Theorie_am_Beispiel_von_Netbooks_im_Unterricht.md} {Die Akteur-Netzwerk-Theorie am Beispiel von Netbooks im Unterricht}

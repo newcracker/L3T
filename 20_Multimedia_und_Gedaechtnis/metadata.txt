@@ -1,0 +1,9 @@
+Tags: #gedaechtnis,#vertiefung,#theorieforschung
+Authors: Tanja Jadin
+
+Chapters:
+{0_Multimedia_und_Gedaechtnis.md} {Multimedia und Gedächtnis}
+{1_Einleitung.md} {Einleitung}
+{2_Gedaechtnisprozesse.md} {Gedächtnisprozesse}
+{3_Begrenzte_kognitive_Ressourcen.md} {Begrenzte kognitive Ressourcen}
+{4_Instruktionale_Prinzipien_zum_multimedialen_Lernen.md} {Instruktionale Prinzipien zum multimedialen Lernen}

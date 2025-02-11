@@ -1,0 +1,9 @@
+Tags: #mathematik,#spezial,#fachgegenstand
+Authors: Steffen Schaal, Christian Spannagel, Markus Vogel
+
+Chapters:
+{0_Mehr_als_eine_Rechenmaschine.md} {Mehr als eine Rechenmaschine}
+{1_Einleitung.md} {Einleitung}
+{2_Funktionen_des_Computers.md} {Funktionen des Computers}
+{3_Gefahren_und_Probleme.md} {Gefahren und Probleme}
+{4_Fazit.md} {Fazit}

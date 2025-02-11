@@ -1,0 +1,12 @@
+Tags: #educast,#vertiefung,#werkzeugmethode
+Authors: Isabel Zorn, Heike Seehagen-Marx, Andreas Auwärter, Marc Krüger
+
+Chapters:
+{0_Educasting.md} {Educasting}
+{1_Was_sind_Educasts.md} {Was sind Educasts?}
+{2_Vorgehen_bei_der_Erstellung_von_Educasts.md} {Vorgehen bei der Erstellung von Educasts}
+{3_Lern--Lehrtheoretische_Verortung.md} {Lern-/Lehrtheoretische Verortung}
+{4_Didaktische_Gestaltungsmoeglichkeiten_fuer_den_Einsatz_von_Educasts.md} {Didaktische Gestaltungsmöglichkeiten für den Einsatz von Educasts}
+{5_Projekte_und_Beispiele.md} {Projekte und Beispiele}
+{6_Bildungskontexte_fuer_den_Einsatz_von_Educasts.md} {Bildungskontexte für den Einsatz von Educasts}
+{7_Fazit.md} {Fazit}

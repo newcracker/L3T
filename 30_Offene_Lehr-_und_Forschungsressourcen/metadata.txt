@@ -1,0 +1,11 @@
+Tags: #openness,#vertiefung,#werkzeugmethode
+Authors: Katja Mruck, Günter Mey, Sandra Schön, Heiko Idensen, Peter Purgathofer
+
+Chapters:
+{0_Offene_Lehr-_und_Forschungsressourcen.md} {Offene Lehr- und Forschungsressourcen}
+{1_Einleitung.md} {Einleitung}
+{2_Traditionelle_wissenschaftliche_Publikationen_und_der_Einfluss_der_Digitalisierung.md} {Traditionelle wissenschaftliche Publikationen und der Einfluss der Digitalisierung}
+{3_Die_Open-Access-Bewegung.md} {Die Open-Access-Bewegung}
+{4_Bildungsressourcen_und_der_Einfluss_von_Internet_und_Digitalisierung.md} {Bildungsressourcen und der Einfluss von Internet und Digitalisierung}
+{5_Open_Educational_Resources_Frei_verwendbare_Lern-_und_Lehrmaterialien.md} {Open Educational Resources: Frei verwendbare Lern- und Lehrmaterialien}
+{6_Offenheit_von_Lehr-_und_Forschungsressourcen_nur_ein_Trend_oder_ein_neues_Paradigma.md} {Offenheit von Lehr- und Forschungsressourcen: nur ein Trend oder ein neues Paradigma?}

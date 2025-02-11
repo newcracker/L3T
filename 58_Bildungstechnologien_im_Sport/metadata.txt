@@ -1,0 +1,9 @@
+Tags: #sport,#spezial,#fachgegenstand
+Authors: Andreas Hebbel-Seeger, Rolf Kretschmann, Frank Vohle
+
+Chapters:
+{0_Bildungstechnologien_im_Sport.md} {Bildungstechnologien im Sport}
+{1_Einleitung_Gegenstand_Sport_und_die_ambivalente_Stellung_von_Bildungstechnologien.md} {Einleitung: Gegenstand ‚Sport‘ und die ambivalente Stellung von Bildungstechnologien}
+{2_Forschungsstand.md} {Forschungsstand}
+{3_Einsatzmoeglichkeiten_und_Praxisbeispiele_Selbstreflexion_Wissensproduktion_und_Kollaboration_mit_digitalen_Medien.md} {Einsatzmöglichkeiten und Praxisbeispiele: Selbstreflexion, Wissensproduktion und Kollaboration mit digitalen Medien}
+{4_Forschungsdefizite_und_Entwicklungsperspektiven.md} {Forschungsdefizite und Entwicklungsperspektiven}

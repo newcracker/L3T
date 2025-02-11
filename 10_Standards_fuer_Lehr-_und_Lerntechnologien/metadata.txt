@@ -1,0 +1,10 @@
+Tags: #metadaten,#einführung,#informatik
+Authors: Christoph Rensing
+
+Chapters:
+{0_Standards_fuer_Lehr-_und_Lerntechnologien.md} {Standards für Lehr- und Lerntechnologien}
+{1_Einfuehrung.md} {Einführung}
+{2_Metadaten.md} {Metadaten}
+{3_Standards_fuer_Inhaltsformate.md} {Standards für Inhaltsformate}
+{4_Standards_zur_Beschreibung_von_Lehr-_und_Lernprozessen.md} {Standards zur Beschreibung von Lehr- und Lernprozessen}
+{5_Zusammenfassung_und_Ausblick.md} {Zusammenfassung und Ausblick}

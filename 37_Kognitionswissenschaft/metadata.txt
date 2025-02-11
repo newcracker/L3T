@@ -1,0 +1,12 @@
+Tags: #kognition,#spezial,#theorieforschung
+Authors: Brigitte Römmer-Nossek, Markus F. Peschl, Elisabeth Zimmermann
+
+Chapters:
+{0_Kognitionswissenschaft.md} {Kognitionswissenschaft}
+{1_Einleitung.md} {Einleitung}
+{2_Das_Entstehen_eines_neuen_Forschungsfeldes.md} {Das Entstehen eines neuen Forschungsfeldes}
+{3_Klassische_Kognitionswissenschaft.md} {Klassische Kognitionswissenschaft}
+{4_Konsequenzen_fuer_Lernen_und_Lehren_mit_Technologien_Die_Frage_des_adaequaten_Wissensbegriffs.md} {Konsequenzen für Lernen und Lehren mit Technologien: Die Frage des adäquaten Wissensbegriffs}
+{5_Der_Uebergang_zu_einer_neuen_Sicht_auf_Kognition_Der_Konnektionismus_und_die_Simulation_neuronaler_Prozesse.md} {Der Übergang zu einer neuen Sicht auf Kognition: Der Konnektionismus und die Simulation neuronaler Prozesse}
+{6_Embodied_and_Situated_Cognition_Enactivism.md} {Embodied and Situated Cognition, Enactivism}
+{7_Konsequenzen_fuer_unsere_Sicht_auf_Wissen_Lernen_und_Technologien.md} {Konsequenzen für unsere Sicht auf Wissen, Lernen und Technologien}

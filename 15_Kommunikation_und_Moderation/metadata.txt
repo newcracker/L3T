@@ -1,0 +1,10 @@
+Tags: #kommunikation,#einfuehrung,#paedagogikpsychologie
+Authors: Martin Ebner, Sandra Schön, Gabriela Bäuml-Westebbe, Ilona Buchem, Christian Lehr, Marc Egloffstein
+
+Chapters:
+{0_Kommunikation_und_Moderation.md} {Kommunikation und Moderation}
+{1_Die_Bedeutung_von_Kommunikation_im_Lernprozess.md} {Die Bedeutung von Kommunikation im Lernprozess}
+{2_Computervermittelte_Kommunikation.md} {Computervermittelte Kommunikation}
+{3_Lerngemeinschaften_im_Web.md} {Lerngemeinschaften im Web}
+{4_Kommunikationsformen_beim_Online-Lernen_und_Moderation_von_Online-Lerngemeinschaften.md} {Kommunikationsformen beim Online-Lernen und Moderation von Online-Lerngemeinschaften}
+{5_Fazit.md} {Fazit}

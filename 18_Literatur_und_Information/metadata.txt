@@ -1,0 +1,13 @@
+Tags: #literatur,#einfuehrung,#forschungsfeld
+Authors: Rolf Kretschmann, Markus Linten, Lambert Heller
+
+Chapters:
+{0_Literatur_und_Information.md} {Literatur und Information}
+{1_Einleitung.md} {Einleitung}
+{2_Vorbereitung.md} {Vorbereitung}
+{3_Online-_Recherche.md} {(Online-) Recherche}
+{4_Evaluation_der_Ergebnisse.md} {Evaluation der Ergebnisse}
+{5_Weiterverarbeitung.md} {Weiterverarbeitung}
+{6_Digitale_Werkzeuge_zum_Speichern_und_Wiederfinden_gefundener_Informationen.md} {Digitale Werkzeuge zum Speichern und Wiederfinden gefundener Informationen}
+{7_Nutzen_und_Grenzen_von_Suchmaschinen.md} {Nutzen und Grenzen von Suchmaschinen}
+{8_Fazit.md} {Fazit}

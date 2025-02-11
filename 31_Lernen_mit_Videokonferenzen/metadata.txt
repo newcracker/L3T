@@ -1,0 +1,11 @@
+Tags: #videokonferenz,#vertiefung,#werkzeugmethode
+Authors: Bernhard Ertl, Kathrin Helling, Ilona Herbst, Manuela Paechter, Gergely Rakoczi
+
+Chapters:
+{0_Lernen_mit_Videokonferenzen.md} {Lernen mit Videokonferenzen}
+{1_Entwicklung_von_Videokonferenzen.md} {Entwicklung von Videokonferenzen}
+{2_Szenarien_des_Lernens_in_Videokonferenzen.md} {Szenarien des Lernens in Videokonferenzen}
+{3_Kommunikation_in_Videokonferenzen.md} {Kommunikation in Videokonferenzen}
+{4_Unterstuetzung_des_Lernens_in_Videokonferenzen.md} {Unterstützung des Lernens in Videokonferenzen}
+{5_Anwendung_von_Videokonferenzen.md} {Anwendung von Videokonferenzen}
+{6_Fazit.md} {Fazit}

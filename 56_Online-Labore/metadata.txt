@@ -1,0 +1,13 @@
+Tags: #labor,#spezial,#fachgegenstand
+Authors: Andreas Pester, Michael E. Auer
+
+Chapters:
+{0_Online-Labore.md} {Online-Labore}
+{1_Einfuehrung.md} {Einführung}
+{2_Was_sind_Online-Labore.md} {Was sind Online-Labore?}
+{3_Stand_der_Technik.md} {Stand der Technik}
+{4_Online-Labore_in_der_Lehre.md} {Online-Labore in der Lehre}
+{5_Gute_Online-Labore.md} {Gute Online-Labore}
+{6_Foerderorganisationen.md} {Förderorganisationen}
+{7_Entwicklungstrends.md} {Entwicklungstrends}
+{8_Zusammenfassung.md} {Zusammenfassung}

@@ -1,0 +1,10 @@
+Tags: #offenes lernen,#vertiefung,#werkzeugmethode
+Authors: Timo van Treeck, Klaus Himpsl-Gutermann, Jochen Robes
+
+Chapters:
+{0_Offene_und_partizipative_Lernkonzepte.md} {Offene und partizipative Lernkonzepte}
+{1_Charakteristik_von_offenen_und_partizipativen_Lernarrangements.md} {Charakteristik von offenen und partizipativen Lernarrangements}
+{2_E-Portfolios.md} {E-Portfolios}
+{3_MOOCs_Massive_Open_Online_Courses.md} {MOOCs (‚Massive Open Online Courses’)}
+{4_Flipped_Classroom.md} {Flipped Classroom}
+{5_Fazit.md} {Fazit}

@@ -1,0 +1,9 @@
+Tags: #hochschule,#spezial,#bildungssektor
+Authors: Michael Kopp, Martin Ebner, Walther Nagler, Elke Lackner
+
+Chapters:
+{0_Technologie_in_der_Hochschullehre.md} {Technologie in der Hochschullehre}
+{1_Einleitung.md} {Einleitung}
+{2_Rahmenbedingungen.md} {Rahmenbedingungen}
+{3_Herausforderung_Praesenz-Massenlehrveranstaltungen.md} {Herausforderung: Präsenz-Massenlehrveranstaltungen}
+{4_Didaktische_Modelle.md} {Didaktische Modelle}

@@ -1,0 +1,9 @@
+## Internetgestützte Kommunikation zur Lernunterstützung
+
+Mobiltelefone und Internet gehören mehr und mehr zu unserem Arbeits- und Lebensalltag. Computervermittelte Kommunikationsmöglichkeiten werden auch zunehmend zum Lernen und Lehren genutzt, also im Schulunterricht, im Studium oder in der berufsbegleitenden Weiterbildung. Dieses Kapitel beschäftigt sich mit computervermittelter Kommunikation und Moderation als Grundlage für Lernprozesse in Online-Lerngemeinschaften. Zunächst werden die Besonderheiten computervermittelter Kommunikation (CMC, kurz für engl. „Computer-mediated communication“) dargestellt sowie verschiedene Parameter zur Beschreibung von Online-Kommunikationsprozessen erläutert. Anschließend wird die Umsetzung von CMC in Online-Lerngemeinschaften im Modell und in der Praxis gezeigt.
+
+
+Version 2013
+
+CC BY-SA L3T | http://l3t.eu  
+http://creativecommons.org/licenses/by-sa/3.0/de/

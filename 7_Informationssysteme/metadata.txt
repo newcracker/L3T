@@ -1,0 +1,10 @@
+Tags: #infosysteme,#einfuehrung,#informatik
+Authors: Anja Lorenz, Christian Safran, Martin Ebner
+
+Chapters:
+{0_Informationssysteme.md} {Informationssysteme}
+{1_Grundlagen.md} {Grundlagen}
+{2_Werkzeuge_zum_Lernen_und_Lehren.md} {Werkzeuge zum Lernen und Lehren}
+{3_Autorinnen-_und_Autorenwerkzeuge_und_Lerncontentmanagementsysteme_Was_wird_zur_Erstellung_von_Lernmaterialien_benoetigt.md} {Autorinnen- und Autorenwerkzeuge und Lerncontentmanagementsysteme: Was wird zur Erstellung von Lernmaterialien benötigt?}
+{4_Lernmanagementsysteme_Lernende_und_Kurse_verwalten.md} {Lernmanagementsysteme: Lernende und Kurse verwalten}
+{5_Lernen_mit_Informationssystemen_Zusammenspiel_und_Problempunkte.md} {Lernen mit Informationssystemen: Zusammenspiel und Problempunkte}

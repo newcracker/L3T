@@ -1,0 +1,10 @@
+Tags: #multimedia,#einfuehrung,#informatik
+Authors: Michael Tesar, Kerstin Stöckelmayr, Robert Pucher, Martin Ebner, Johannes Metscher, Frank Vohle
+
+Chapters:
+{0_Multimediale_und_interaktive_Materialien.md} {Multimediale und interaktive Materialien}
+{1_Die_Mischung_machts_-_Ueberlegungen_zu_Beginn.md} {Die Mischung macht’s – Überlegungen zu Beginn}
+{2_Ueber_Bilder_Audio_Video_und_Animationen_zu_interaktiven_Lernmaterialien.md} {Über Bilder, Audio, Video und Animationen zu interaktiven Lernmaterialien}
+{3_Datenkompression_bei_multimedialen_Materialien.md} {Datenkompression bei multimedialen Materialien}
+{4_Aktuelle_Programme_zur_Erstellung_von_Lernmaterialien_und_deren_Einbindung_in_Lernmanagementsysteme.md} {Aktuelle Programme zur Erstellung von Lernmaterialien und deren Einbindung in Lernmanagementsysteme}
+{5_Fazit_und_Kontrollfragen.md} {Fazit und Kontrollfragen}

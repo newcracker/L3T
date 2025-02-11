@@ -1,0 +1,12 @@
+Tags: #mobil,#vertiefung,#theorieforschung
+Authors: Marcus Specht, Martin Ebner, Clemens Löcker
+
+Chapters:
+{0_Mobiles_und_ubiquitaeres_Lernen.md} {Mobiles und ubiquitäres Lernen}
+{1_Definitionen.md} {Definitionen}
+{2_Mobile_Lerntechnologie.md} {Mobile Lerntechnologie}
+{3_Mit_mobiler_Technologie_lernen.md} {Mit mobiler Technologie lernen}
+{4_Allgegenwaertige_Lernunterstuetzung.md} {Allgegenwärtige Lernunterstützung}
+{5_Didaktische_Aspekte_Lernen_im_Kontext.md} {Didaktische Aspekte: Lernen im Kontext}
+{6_Klassifikation_und_Anwendungsbeispiele.md} {Klassifikation und Anwendungsbeispiele}
+{7_Zentrale_Erkenntnisse.md} {Zentrale Erkenntnisse}

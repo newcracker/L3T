@@ -1,0 +1,10 @@
+Tags: #game,#vertiefung,#werkzeugmethode
+Authors: Son Le, Peter Weber, Martin Ebner
+
+Chapters:
+{0_Game-Based_Learning.md} {Game-Based Learning}
+{1_Begriff_und_Geschichte.md} {Begriff und Geschichte}
+{2_Grundueberlegungen.md} {Grundüberlegungen}
+{3_Potenziale_und_Herausforderungen.md} {Potenziale und Herausforderungen}
+{4_Zusammenfassung_und_zentrale_Erkenntnisse.md} {Zusammenfassung und zentrale Erkenntnisse}
+{5_Ausblick_Durchdringt_uns_die_Gamification.md} {Ausblick: Durchdringt uns die Gamification?}

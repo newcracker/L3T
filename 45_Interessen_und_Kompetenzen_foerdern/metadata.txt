@@ -1,0 +1,10 @@
+Tags: #nachwuchs,#spezial,#werkzeugmethoden
+Authors: Isabel Zorn, Christoph Trappe, Kerstin Stöckelmayr, Tanja Kohn, Christoph Derndorfer
+
+Chapters:
+{0_Interessen_und_Kompetenzen_foerdern.md} {Interessen und Kompetenzen fördern}
+{1_Einleitung.md} {Einleitung}
+{2_Lernmoeglichkeiten_und_Bildungspotenziale.md} {Lernmöglichkeiten und Bildungspotenziale}
+{3_Hinweise_zur_Gestaltung_von_Angeboten.md} {Hinweise zur Gestaltung von Angeboten}
+{4_Beispiele_fuer_Bildungsangebote.md} {Beispiele für Bildungsangebote}
+{5_Fazit.md} {Fazit}

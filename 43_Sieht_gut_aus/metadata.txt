@@ -1,0 +1,9 @@
+Tags: #visuell,#spezial,#paedagogikpsychologie
+Authors: Gergely Rakoczi, Yves Etienne Bochud, Marc Garbely, Andreas Hediger, Margit Pohl
+
+Chapters:
+{0_Sieht_gut_aus.md} {Sieht gut aus}
+{1_Einleitung.md} {Einleitung}
+{2_Grundlagen_der_visuellen_Wahrnehmung.md} {Grundlagen der visuellen Wahrnehmung}
+{3_Visuelle_Gestaltung_in_der_Praxis.md} {Visuelle Gestaltung in der Praxis}
+{4_Limitierung_Konklusion.md} {Limitierung, Konklusion}

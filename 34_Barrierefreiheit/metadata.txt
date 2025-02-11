@@ -1,0 +1,13 @@
+Tags: #barrierefrei,#spezial
+Authors: \# theorieforschung
+
+Chapters:
+{0_Barrierefreiheit.md} {Barrierefreiheit}
+{1_Grundsaetzliches_Verstaendnis_von_Barrierefreiheit_equality_=_e-quality.md} {Grundsätzliches Verständnis von Barrierefreiheit: „equality = e-quality“}
+{2_Zahl_der_Menschen_mit_Behinderung.md} {Zahl der Menschen mit Behinderung}
+{3_Arten_der_Behinderung_und_spezielle_Beduerfnisse_hinsichtlich_Barrierefreiheit.md} {Arten der Behinderung und spezielle Bedürfnisse hinsichtlich Barrierefreiheit}
+{4_Gesetzliche_Rahmenbedingungen_und_Richtlinien_-_Standards_zur_Umsetzung.md} {Gesetzliche Rahmenbedingungen und Richtlinien / Standards zur Umsetzung}
+{5_Grundlegende_Anforderungen_-_Zugangsrichtlinien.md} {Grundlegende Anforderungen – Zugangsrichtlinien}
+{6_Zentrale_Problematiken_hinsichtlich_webgestuetzten_Lehrens_und_Lernens.md} {Zentrale Problematiken hinsichtlich webgestützten Lehrens und Lernens}
+{7_Werkzeuge_und_Methoden_zur_Ueberpruefung_und_Optimierung.md} {Werkzeuge und Methoden zur Überprüfung und Optimierung}
+{8_Ausblick.md} {Ausblick}
