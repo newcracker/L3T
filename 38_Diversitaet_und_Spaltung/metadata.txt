@@ -1,9 +1,0 @@
-Tags: #diversitaet,#vertiefung,#theorieforschung
-Authors: Ilona Buchem
-
-Chapters:
-{0_Diversitaet_und_Spaltung.md} {Diversität und Spaltung}
-{1_Einfuehrung.md} {Einführung}
-{2_Diversitaet.md} {Diversität}
-{3_Spaltung.md} {Spaltung}
-{4_Fazit.md} {Fazit}

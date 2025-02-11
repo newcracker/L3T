@@ -1,9 +1,0 @@
-Tags: #lerntheorie,#einfuehrung,#paedagogikpsychologie,#theorieforschung
-Authors: Gabi Reinmann
-
-Chapters:
-{0_Didaktisches_Handeln.md} {Didaktisches Handeln}
-{1_Lerntheorien_-_vom_Lernen_zum_Lehren.md} {Lerntheorien – vom Lernen zum Lehren?}
-{2_Didaktisches_Design_-_vom_Lehren_zum_Lernen.md} {Didaktisches Design – vom Lehren zum Lernen?}
-{3_Eine_Handlungslogik_fuer_die_Gestaltung_didaktischer_Szenarien.md} {Eine Handlungslogik für die Gestaltung didaktischer Szenarien}
-{4_Lerntheorien_und_Didaktisches_Design_-_ein_Fazit.md} {Lerntheorien und Didaktisches Design – ein Fazit}

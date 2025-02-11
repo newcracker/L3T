@@ -1,8 +1,0 @@
-Tags: #sozialarbeit,#spezial,#fachgegenstand
-Authors: Jessica Euler, Denise Paschen
-
-Chapters:
-{0_Sozialarbeit.md} {Sozialarbeit}
-{1_Einleitung.md} {Einleitung}
-{2_Medienpaedagogik_in_der_Sozialen_Arbeit.md} {Medienpädagogik in der Sozialen Arbeit}
-{3_Soziale_Arbeit_im_Netz.md} {Soziale Arbeit im Netz}

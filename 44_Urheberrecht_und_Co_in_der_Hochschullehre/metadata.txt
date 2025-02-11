@@ -1,9 +1,0 @@
-Tags: #recht,#spezial,#hochschule
-Authors: Jan Hansen, Heike Seehagen-Marx
-
-Chapters:
-{0_Urheberrecht_undamp_Co_in_der_Hochschullehre.md} {Urheberrecht &amp; Co. in der Hochschullehre}
-{1_Digitale_Lehre_im_Visier.md} {Digitale Lehre im Visier}
-{2_Urheberrecht.md} {Urheberrecht}
-{3_Erlaubte_Nutzung_von_urheberrechtlich_geschuetzten_Werken.md} {Erlaubte Nutzung von urheberrechtlich geschützten Werken}
-{4_Datenschutz.md} {Datenschutz}

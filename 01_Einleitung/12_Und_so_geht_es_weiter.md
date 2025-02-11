@@ -1,3 +1,6 @@
+<!-- filename: 12_Und_so_geht_es_weiter.md -->
+<!-- title: Und so geht es weiter -->
+
 Was soll man an dieser Stelle schreiben. Wir haben es nach der ersten Version nicht gewusst und wissen es genauso wenig bei der zweiten Version. Klar scheint uns, dass wir weiter an der Front der freien Bildungsressourcen kämpfen werden. Wir sind felsenfest davon überzeugt, dass dies ein wesentlicher und notwendiger Schritt in die richtige Richtung ist. Bildung muss frei zugänglich sein, denn das Ziel unserer und jeder Gesellschaft kann nur sein, die höchstmögliche Bildung dieser zu erreichen.
 
 Natürlich muss es weitergehen, müssen auch die Kapitel verbessert, erneuert und einzelne Artikel ergänzt werden. Trotzdem sehen wir auch nach der zweiten L3T-Runde, dass hierzu nicht nur viel (private) Zeit notwendig ist, sondern, um es nachhaltig gestalten zu können, auch finanzielle Grundlagen geschaffen werden müssen.

@@ -1,9 +1,0 @@
-Tags: #sekundarunterricht,#schule,#spezial,#bildungssektor
-Authors: Peter Babnik, Johannes Dorfinger, Klaus Meschede, Stephan Waba, Marc Widmer, Ursula Mulley
-
-Chapters:
-{0_Technologieeinsatz_in_der_Schule.md} {Technologieeinsatz in der Schule}
-{1_Rahmenbedingungen_Medieneinsatz_an_Schulen.md} {Rahmenbedingungen: Medieneinsatz an Schulen}
-{2_Einsatz_von_Technologien_-_didaktische_Moeglichkeiten.md} {Einsatz von Technologien – didaktische Möglichkeiten}
-{3_Weitere_Aspekte_der_Medienbildung_in_der_Schule.md} {Weitere Aspekte der Medienbildung in der Schule}
-{4_Zusammenfassung.md} {Zusammenfassung}

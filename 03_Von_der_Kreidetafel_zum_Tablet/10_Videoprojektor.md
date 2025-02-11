@@ -1,3 +1,6 @@
+<!-- filename: 10_Videoprojektor.md -->
+<!-- title: Videoprojektor -->
+
 Bei Videoprojektoren, umgangssprachlich als Beamer bezeichnet, wird ein Videosignal, zum Beispiel von einem Computer oder DVD-Player, auf eine Leinwand projiziert. Am Beginn der Projektion stand die von Christiaan Huygens 1656 erfundene **Laterna Magica** (lat. Zauberlaterne). Bis hinein in das 20. Jahrhundert galt sie als das Projektionsgerät. Es projizierte mit Hilfe einer internen Lichtquelle und spezieller Linsensysteme in schneller Reihenfolge Bilder durch das ausfallende Licht.
 
 <center><figure>

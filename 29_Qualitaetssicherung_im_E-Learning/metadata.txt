@@ -1,9 +1,0 @@
-Tags: #qualitaet,#vertiefung,#werkzeugmethode
-Authors: Ulf-Daniel Ehlers
-
-Chapters:
-{0_Qualitaetssicherung_im_E-Learning.md} {Qualitätssicherung im E-Learning}
-{1_Qualitaet_fuer_digitale_Lernwelten_Von_der_Kontrolle_zur_Partizipation_und_Reflexion.md} {Qualität für digitale Lernwelten: Von der Kontrolle zur Partizipation und Reflexion}
-{2_Konzepte_und_Methoden_zur_Qualitaetsentwicklung_in_digitalen_Lernwelten.md} {Konzepte und Methoden zur Qualitätsentwicklung in digitalen Lernwelten}
-{3_Loecher_in_der_Gartenmauer_Neue_Lern-_und_Qualitaetskultur_fuer_E-Learning.md} {„Löcher in der Gartenmauer“: Neue Lern- und Qualitätskultur für E-Learning}
-{4_Einleitung.md} {Einleitung}

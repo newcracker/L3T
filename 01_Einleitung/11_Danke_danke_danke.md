@@ -1,3 +1,6 @@
+<!-- filename: 11_Danke_danke_danke.md -->
+<!-- title: Danke, danke, danke! -->
+
 ´Natürlich muss so ein Projekt, das im Verlauf ständig wuchs und größere Ausmaße als geplant annahm, von zahlreichen Mitstreiterinnen und Mitstreitern mitgetragen und unterstützt werden. Wir möchten versuchen alle Beteiligten namentlich zu nennen und entschuldigen uns bei allen, die wir dann doch im Eifer des Gefechts übersehen haben. Es ist schwierig, bei ungefähr 250 Mitwirkenden den Überblick zu behalten (siehe Box „Dankeschön!“).
 
 Aber nachdem wir alles updaten können, bitten wir im Falle eines Versehens, dies umgehend mitzuteilen, wir fügen euch gerne hinzu.

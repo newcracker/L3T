@@ -1,3 +1,6 @@
+<!-- filename: 15_Tablet.md -->
+<!-- title: Tablet -->
+
 Eine der wichtigsten Zukunftstechnologien unserer Zeit sind die Tablet-Computer. Es werden pro Jahr ca. 200 Millionen Stück verkauft, davon entfallen ca. 31% auf Apple, der Rest ist zumeist Android. Tablets eignen sich ideal für den Unterricht, da sie nicht hochfahren müssen, keine Lüfter besitzen und die Tastatur lautlos ist. Mittels Adapter lässt sich das Tablet für Präsentationen an einen Beamer anschließen. Durch spezielle Bildungs-Apps werden diverse didaktische und technische Szenarien unterstützt.
 
 <center><figure>

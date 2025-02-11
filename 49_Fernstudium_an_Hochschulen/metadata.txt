@@ -1,9 +1,0 @@
-Tags: #fernunterricht,#spezial,#bildungssektor
-Authors: Brigitte Kreplin, Heike Seehagen-Marx, Nicole Engelhardt
-
-Chapters:
-{0_Fernstudium_an_Hochschulen.md} {Fernstudium an Hochschulen}
-{1_Einleitung.md} {Einleitung}
-{2_IT-Infrastruktur_im_heutigen_Fernstudium.md} {IT-Infrastruktur im heutigen Fernstudium}
-{3_Hochschullehre_im_Wandel.md} {Hochschullehre im Wandel}
-{4_Exemplarische_Lehrkonzepte_von_Fernuniversitaeten.md} {Exemplarische Lehrkonzepte von Fernuniversitäten}

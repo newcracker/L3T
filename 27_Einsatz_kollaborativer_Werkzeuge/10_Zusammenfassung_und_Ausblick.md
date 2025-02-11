@@ -1,3 +1,6 @@
+<!-- filename: 10_Zusammenfassung_und_Ausblick.md -->
+<!-- title: Zusammenfassung und Ausblick -->
+
 In diesem Kapitel haben wir Werkzeuge vorgestellt, die kollaborative Lehr- und Lernprozesse unterstützen sollen. Selbstverständlich ist das Verfügbarhaben praktischer Werkzeuge alleine kein Garant für erfolgreiches Lernen. Vielmehr müssen Ge­stal­ter/innen von Lehr- und Lernprozessen über entsprechendes Hintergrundwissen, praktische Theorien und didaktische Strategien verfügen. Entsprechende Informationen werden in diesem Lehrbuch an anderer Stelle angeboten:
 
 - Lernprozesse lassen sich ganz wesentlich über die Definition von Lernzielen und die entsprechende Gestaltung von Aufgaben steuern. Diese Aspekte werden im Kapitel #lerntheorien behandelt.

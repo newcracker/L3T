@@ -1,3 +1,6 @@
+<!-- filename: 16_Fazit.md -->
+<!-- title: Fazit -->
+
 Dieses Kapitel zeigt die Vielfalt an Technologien in den heutigen Unterrichtsräumen auf und auch, was man von ihr erwarten kann. Gemein ist ihnen, dass jede Einführung immer mit großen Schwierigkeiten verbunden war, ihrer Verwendung viel Skepsis entgegengebracht wurde und sie trotzdem letztendlich nicht aufzuhalten waren.
 
 <blockquote style="background: #FFEBEE; border-left: 10px solid #F44336">

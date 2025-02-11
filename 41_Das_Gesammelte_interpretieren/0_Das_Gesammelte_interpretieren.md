@@ -1,9 +1,0 @@
-## Educational Data Mining und Learning Analytics
-
-In den allgemeinen Prozess der Digitalisierung sind zunehmend auch die Pädagogik und ihre mediennahen Forschungsbereiche involviert. Dabei entstehen, bei immer mehr Aktionen und Abläufen, zunehmend Bestände maschinenlesbarer Dokumentationen, also eine große Anzahl an Daten. Diese werden nicht nur immer umfangreicheren, sondern darüber hinaus auch rein automatischen Analysen, Steuerungen und Handhabungen überlassen. Völlig neue Einsichten zur Optimierung von Bildungsangeboten können hier unter Einbezug zweier Perspektiven gewonnen werden: einerseits unter der umfassenderen Perspektive von Educational Datamining (EDM) und andererseits unter der stärker auf das individuelle Lernen konzentrierten Sicht von Learning Analytics (LA). Hier zeigen sich ungeahnte Chancen und große Herausforderungen. Dieser Artikel führt in das Themenfeld ein und stellt das Potentiale, aber auch potentielle Gefahren von Datenanalysen im Lehr- und Lernbereich dar.
-
-
-Version 2013
-
-CC BY-SA L3T | http://l3t.eu  
-http://creativecommons.org/licenses/by-sa/3.0/de/

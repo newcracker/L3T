@@ -1,8 +1,0 @@
-Tags: #fernunterrichtsgeschichte,#einfuehrung,#geschichte
-Authors: Olaf Zawacki-Richter
-
-Chapters:
-{0_Geschichte_des_Fernunterrichts.md} {Geschichte des Fernunterrichts}
-{1_Einfuehrung_Mediengestuetzes_Lernen_und_Fernlernen.md} {Einführung: Mediengestützes Lernen und Fernlernen}
-{2_Generationen_technologischer_Innovationen.md} {Generationen technologischer Innovationen}
-{3_Zur_Entwicklung_des_technologiegestuetzen_Lernens_heute.md} {Zur Entwicklung des technologiegestützen Lernens heute}

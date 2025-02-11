@@ -1,9 +1,0 @@
-Tags: #usability,#einfuehrung,#informatik
-Authors: Andreas Holzinger
-
-Chapters:
-{0_Human-Computer-Interaction.md} {Human-Computer-Interaction}
-{1_Einfuehrung.md} {Einführung}
-{2_Interaktion_und_Interaktivitaet.md} {Interaktion und Interaktivität}
-{3_Grundregeln_fuer_benutzergerechte_HCI.md} {Grundregeln für benutzergerechte HCI}
-{4_Ausblick.md} {Ausblick}

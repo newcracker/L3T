@@ -1,9 +1,0 @@
-Tags: #strategie,#spezial,#bildungssektor
-Authors: Sabine Seufert, Christoph Meier
-
-Chapters:
-{0_E-Learning_in_Organisationen.md} {E-Learning in Organisationen}
-{1_Ausgangspunkt_E-Learning_als_Bildungsinnovation_einfuehren.md} {Ausgangspunkt: E-Learning als Bildungsinnovation einführen}
-{2_Strategische_Einfuehrung_E-Learning_als_Bildungsinnovation_nachhaltig_integrieren.md} {Strategische Einführung: E-Learning als Bildungsinnovation nachhaltig integrieren}
-{3_Entwicklung_innovativer_Massnahmen_zur_Kompetenzentwicklung_Integration_und_Gestaltung_von_E-Learning_als_Bildungsinnovation.md} {Entwicklung innovativer Maßnahmen zur Kompetenzentwicklung: Integration und Gestaltung von E-Learning als Bildungsinnovation}
-{4_Gestaltung_lern-_und_innovationsfoerderlicher_Rahmenbedingungen_E-Learning_nachhaltig_implementieren.md} {Gestaltung lern- und innovationsförderlicher Rahmenbedingungen: E-Learning nachhaltig implementieren}

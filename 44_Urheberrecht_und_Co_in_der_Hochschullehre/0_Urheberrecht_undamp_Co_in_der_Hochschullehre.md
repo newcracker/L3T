@@ -1,9 +1,0 @@
-## Rechtliche Aspekte des Technologieeinsatzes beim Lehren und Lernen
-
-Beim Erstellen von Lehrmaterial und bei der Verwaltung von Kursen mit Material, das durch Studierende erstellt wird, bekommen Rechtsfragen eine zunehmende Bedeutung. Die digitale Lehre ist kein rechtsfreier Raum. Besonders das Urheberrecht und das Datenschutzrecht bestimmen, was erlaubt und was verboten ist. Dabei kommt es nicht selten zu Unsicherheiten bei allen Anwenderinnen und Anwendern. Was darf ich, was darf ich nicht? In diesem Kapitel werden das deutsche Urheberrecht und das deutsche Datenschutzrecht näher betrachtet. Anhand von Beispielen aus dem E-Learning-Alltag an Hochschulen werden wesentliche Rechtsfragen diskutiert und pragmatische Lösungen vorgestellt.
-
-
-Version 2013
-
-CC BY-SA L3T | http://l3t.eu  
-http://creativecommons.org/licenses/by-sa/3.0/de/

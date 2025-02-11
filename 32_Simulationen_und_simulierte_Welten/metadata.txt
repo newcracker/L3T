@@ -1,9 +1,0 @@
-Tags: #virtuellewelt,#vertiefung,#werkzeugmethode
-Authors: Susan Höntzsch (Jolie), Uwe Katzky, Klaus Bredl, Frank Kappe, Dirk Krause
-
-Chapters:
-{0_Simulationen_und_simulierte_Welten.md} {Simulationen und simulierte Welten}
-{1_Einfuehrung.md} {Einführung}
-{2_Grundlage_des_Lernens_mit_Simulationen_und_simulierten_Welten.md} {Grundlage des Lernens mit Simulationen und simulierten Welten}
-{3_Der_Einsatz_von_Simulationen_und_simulierten_Welten_als_Lernumgebung.md} {Der Einsatz von Simulationen und simulierten Welten als Lernumgebung}
-{4_Zentrale_Erkenntnisse.md} {Zentrale Erkenntnisse}
