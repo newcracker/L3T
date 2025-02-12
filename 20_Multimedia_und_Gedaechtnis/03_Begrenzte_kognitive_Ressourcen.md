@@ -13,9 +13,11 @@ Wenn wir mit Informationen überfrachtet werden, diese nur schwer oder nicht meh
 
 In Abbildung 2 auf dieser Seite sind das Arbeitsgedächtnis und zwei Varianten der kognitiven Belastung dargestellt. Einmal führt die ungünstige mediale Präsentation zu einer kognitiven Belastung und lenkt somit vom eigentlichen Lerninhalt ab. Im zweiten Fall führen die schwer zu erlernenden Inhalte zu einer Überlastung des Arbeitsgedächtnisses. Die Theorie der kognitiven Belastung spielt daher eine wichtige Rolle bei der Gestaltung von Lernmaterialien, und zwar nicht nur bezüglich des Lerninhalts, sondern auch bei der Präsentation in multimedialen Lernumgebungen
 
-Abbildung 2: Kognitive Belastung des Arbeitsgedächtnisses: inhaltsbedingt und medienbedingt
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/20_Multimedia_und_Gedaechtnis/img/02_Kognitive_Belastung_des_Arbeitsgedächtnisses_inhaltsbedingt_und_medienbedingt.png" alt="Abb. 2: Kognitive Belastung des Arbeitsgedächtnisses: inhaltsbedingt und medienbedingt">
+  <figcaption>Abb. 2: Kognitive Belastung des Arbeitsgedächtnisses: inhaltsbedingt und medienbedingt</figcaption>
+</figure></center>
 
-![](img/9576349990_1acd965113_o.png)
 
 Eine kognitive Belastung findet auch beim **Effekt der geteilten Aufmerksamkeit** (engl. ‚split attention‘) statt (Chandler &amp; Sweller, 1992). Und zwar dann, wenn zusammenhängende Abbildungen und Text räumlich und zeitlich voneinander getrennt dargestellt werden, so dass ein Teil der Information während des Suchprozesses im Arbeitsgedächtnis bleiben muss, bis die relevante Information gefunden und verknüpft werden kann. Durch diese geteilte Aufmerksamkeit entsteht eine unnötige kognitive Belastung. Stellen Sie sich zum Beispiel vor, wenn in der Abbildung 2 nicht die Begriffe ‚Inhaltsbedingte Belastung‘ und ‚Medienbedingte Belastung‘ stehen würden, sondern nur ‚Variante A‘ und ‚Variante B‘, und Sie müssen sich dann erst im Text heraussuchen, was denn nun die Variante A oder B bedeutet. Optimal wäre hier, wenn es eine visuelle Darstellung mit einer auditiven Erklärung dazu gibt und Sie optional den erklärenden Text einblenden können.
 

@@ -14,7 +14,7 @@ Der bewusste Einsatz diverser Materialien kann den Zugang zu Technologie auch f�
 ‚*Smart Textiles*‘ beispielsweise sind leitfähige Stoffe und Garne in Verbindung mit programmierbaren Bauteilen, die ein ähnliches Lernen wie Robotertechnologien ermöglichen. Diese ‚intelligenten Materialien‘ können in Verbindung mit Komponenten wie Leuchtdioden und Geschwindigkeitssensoren beispielsweise im Modedesign, in der Gestaltung von Schmuck oder beim Bau von Musikinstrumenten Verwendung finden (Trappe, 2012).
 
 <center><figure>
-  <img src="img/2_Zwei_Mädchen_entwickeln_und_programmieren_technologisch_angereicherte_Kleidung.jpg" alt="Abb. 2: Zwei Mädchen entwickeln und programmieren technologisch angereicherte Kleidung.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/45_Interessen_und_Kompetenzen_foerdern/img/02_Zwei_Mädchen_entwickeln_und_programmieren_technologisch_angereicherte_Kleidung.jpg" alt="Abb. 2: Zwei Mädchen entwickeln und programmieren technologisch angereicherte Kleidung.">
   <figcaption>Abb. 2: Zwei Mädchen entwickeln und programmieren technologisch angereicherte Kleidung.</figcaption>
 </figure></center>
 

@@ -26,7 +26,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 Mit Memex hatte Bush eine Analogie zwischen dem „assoziativen“ Arbeiten des menschlichen Gehirns und dem assoziativen Vernetzen von Texten im Auge. Heute finden sich viele Dokumente zu Bush im Internet mit den Originalzeichnungen des Memex und Fotos des von Bush 1931 entwickelten „Differential Analyzer“, einer analog arbeitenden Maschine für die Lösung von Differentialgleichungen.
 
 <center><figure>
-  <img src="img/4_Der_MemexTisch_von_Vannevar_BushQuelle_httpiaslunimuenchendelinksGCAVI2htmlThink.jpg" alt="Abb. 4: Der Memex-Tisch von Vannevar Bush.Quelle: [http://iasl.uni-muenchen.de/links/GCA-VI.2.html#Think](http://iasl.uni-muenchen.de/links/GCA-VI.2.html#Think)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/05_Hypertext/img/04_Der_MemexTisch_von_Vannevar_BushQuelle_httpiaslunimuenchendelinksGCAVI2htmlThink.jpg" alt="Abb. 4: Der Memex-Tisch von Vannevar Bush.Quelle: [http://iasl.uni-muenchen.de/links/GCA-VI.2.html#Think](http://iasl.uni-muenchen.de/links/GCA-VI.2.html#Think)">
   <figcaption>Abb. 4: Der Memex-Tisch von Vannevar Bush.Quelle: [http://iasl.uni-muenchen.de/links/GCA-VI.2.html#Think](http://iasl.uni-muenchen.de/links/GCA-VI.2.html#Think)</figcaption>
 </figure></center>
 
@@ -73,7 +73,7 @@ Knowledge Systems’ KMS (1983) für SUN- und Apollo-Rechner (Akscyn &amp; McCra
 Mit der Entwicklung von **Ben Shneidermans** HyperTIES wurde bereits 1983 an der University of Maryland begonnen. HyperTIES wurde ab 1987 von Cognetics Corporation weiterentwickelt und vertrieben (Shneiderman et al., 1991). HyperTIES erscheint unter DOS als Textsystem mit alphanumerischem Interface im typischen DOS-Zeichensatz. Die Artikel fungieren als Knoten und die Hervorhebungen im Text als Verknüpfungen. Hervorhebungen erscheinen in Fettdruck auf dem Bildschirm. Die puritanische Philosophie der Entwickler/innen drückt sich in der sparsamen Verwendung von Verknüpfungen aus, die auf Überschriften beschränkt wurden: „We strongly believe that the use of the article titles as navigation landmarks is an important factor to limit the disorientation of the user in the database. It is only with caution that we introduced what we call 'opaque links' or 'blind links' (a link where the highlighted word is not the title of the referred article), to satisfy what should remain as special cases“ (Plaisant, 1991, 20). HyperTIES kennt nur unidirektionale Verknüpfungen, „because bidirectional links can be very confusing“ (Ebd., 21).
 
 <center><figure>
-  <img src="img/5_Ausschnitt_aus_HyperTIES.jpg" alt="Abb. 5: Ausschnitt aus HyperTIES">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/05_Hypertext/img/05_Ausschnitt_aus_HyperTIES.jpg" alt="Abb. 5: Ausschnitt aus HyperTIES">
   <figcaption>Abb. 5: Ausschnitt aus HyperTIES</figcaption>
 </figure></center>
 
@@ -99,7 +99,7 @@ Xerox PARC’s NoteCards (1985) ist ein unter InterLisp geschriebenes Mehrfenste
 Intermedia (1985) von **Andries van Dam** und dem Institute for Research in Intermedia Information and Scholarship (IRIS) der Brown University ist bereits ein System, das im Alltag einer Universität und in mehreren Fächern (Biologie, Englische Literatur) für die kooperative Entwicklung von Unterrichtsmaterialien und zum Lernen am Bildschirm eingesetzt wird. Yankelovich et al. (1985) schildern die Entwicklung, die elektronische Dokumentensysteme an der Brown University genommen haben. Nach dem rein textorientierten System FRESS (1968; vgl. Nielsen, 1995, 40) und dem Electronic Document System, das bereits Bilder und grafische Repräsentationen der Knoten-Struktur darstellen sowie Animationssequenzen spielen konnte, und BALSA (Brown Algorithm Simulator and Animator) wurde erst mit Intermedia ein echter Durchbruch erzielt. Yankelovich et al. (1988) beschreiben das System anschaulich anhand von 12 Bildschirmabbildungen einer Sitzung. Intermedia besteht aus fünf integrierten Editoren: InterText (ähnlich MacWrite), InterPix (zum Zeigen von Bitmaps), InterDraw (ähnlich MacDraw), InterSpect (Darstellen und Rotieren dreidimensionaler Objekte) und InterVal (Editor für chronologische Zeitleisten). Zusätzlich können direkt aus Intermedia heraus „Houghton-Mifflin’s American Heritage Dictionary“ oder „Roget’s Thesaurus“ aufgerufen werden. Intermedia operiert mit variablen Fenstern als Basiseinheit. Alle Links sind bidirektionale Verknüpfungen von zwei Ankern. Intermedia arbeitet mit globalen und lokalen Maps als Ausgangspunkt für Browser, das WebView-Fenster stellt die Dokumente und die Links durch mit Linien verbundene Mini-Icons dar (Conklin, 1987, 28ff.; Kuhlen 1991, 198ff.; Gloor, 1990, 20ff., 59ff.; Nielsen, 1995, 51ff.).
 
 <center><figure>
-  <img src="img/6_Die_Anwendung_Perseus_realisiert_unter_Intermedia.jpg" alt="Abb. 6: Die Anwendung „Perseus“ realisiert unter Intermedia">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/05_Hypertext/img/06_Die_Anwendung_Perseus_realisiert_unter_Intermedia.jpg" alt="Abb. 6: Die Anwendung „Perseus“ realisiert unter Intermedia">
   <figcaption>Abb. 6: Die Anwendung „Perseus“ realisiert unter Intermedia</figcaption>
 </figure></center>
 

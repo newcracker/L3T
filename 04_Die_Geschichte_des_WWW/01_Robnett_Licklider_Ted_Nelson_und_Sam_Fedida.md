@@ -17,9 +17,11 @@ Der PDP-1 (Programmed Data Processor 1) war der erste von der Firma DEC im Jahr 
 
 Im Vergleich dazu erscheint mir die Betonung von Vannevar Bush (1890-1974) mit seinem Memex immer als überzeichnete Darstellung, da zumeist im englischen Sprachraum nicht bekannt ist, dass in vielen europäischen Bibliotheken bereits im 16. Jahrhundert mit mechanischen Buchautomaten experimentiert wurde, die ein automatisches Umblättern zu einer zugeordneten Seite eines anderen Buches ermöglichten. Abbildung 1 zeigt das ‚Buchrad‘ von Agostino Ramelli (1531-1610) aus dem Jahr 1588: Man konnte, während man eine Seite las, auf einer Tastatur beispielsweise 12378 tippen, wodurch dann automatisch die Seite 378 des Buches 12 aufgeschlagen wurde. Es gab viele, zum Teil sehr ausgefeilte Versionen solcher Buchräder: Trotz aller Einschränkungen (etwa die Anzahl der Bücher, die man verlinken konnte, und dass man sinnvollerweise bei Verweisen gleich die richtige Ziffernfolge, also hier 12378, in die Seite, von der man ‚verzweigen‘ wollte, eintrug) ist hier eine Informationsverlinkung gegeben, wie sie heute anstatt der Eingabe von einigen Ziffern durch einen Mausklick erledigt wird. Dies lässt Memex dann plötzlich nur noch als eine Neuaufwärmung einer uralten Idee mit etwas moderneren Mitteln erscheinen.
 
-Abb. 1.: Buchrad von Ramelli 1588 (Keil, G. (1990). Foto aus seiner Habilitationsschrift. Paderborn)
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/01_Buchrad_von_Ramelli_1588_Keil_G_1990_Foto_aus_seiner_Habilitationsschrift_Paderb.png" alt="Abb. 1: Buchrad von Ramelli 1588 (Keil, G. (1990). Foto aus seiner Habilitationsschrift. Paderborn)">
+  <figcaption>Abb. 1: Buchrad von Ramelli 1588 (Keil, G. (1990). Foto aus seiner Habilitationsschrift. Paderborn)</figcaption>
+</figure></center>
 
-![](img/internet_abb1-gdrive.png)
 
 Die Vision von Ted Nelson (geb. 1937) im Jahr 1960 hingegen scheint sehr bedeutungsvoll. Sein Xanadu-Projekt wird oft als konzeptionell wegbereitend für späterere Hypertext-Systeme gesehen (Nelson prägte auch den Begriff Hypertext), doch werden zahlreiche besonders wesentliche Aspekte seiner Vision selten erwähnt. Drei dieser Aspekte sind:
 

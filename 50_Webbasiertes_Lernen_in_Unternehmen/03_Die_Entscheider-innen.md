@@ -26,7 +26,7 @@ Die Geschäftsführung, das Personalmanagement bzw. die Personalentwicklung, IT-
 Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
 <center><figure>
-  <img src="img/1_ELearningFormen_in_der_betrieblichen_Weiterbildung.jpg" alt="Abb. 1: E-Learning-Formen in der betrieblichen Weiterbildung">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/50_Webbasiertes_Lernen_in_Unternehmen/img/01_ELearningFormen_in_der_betrieblichen_Weiterbildung.jpg" alt="Abb. 1: E-Learning-Formen in der betrieblichen Weiterbildung">
   <figcaption>Abb. 1: E-Learning-Formen in der betrieblichen Weiterbildung</figcaption>
 </figure></center>
 

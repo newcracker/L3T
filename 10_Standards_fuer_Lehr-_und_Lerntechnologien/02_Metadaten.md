@@ -20,7 +20,7 @@ Auch elektronische Dokumente werden mit Metadaten beschrieben, um sie zielgerich
 Zur Beschreibung von Lehr- und Lernressourcen dienen die *Learning Object Metadata* (LOM). Der LOM-Standard IEEE 1484.12.1 (IEEE, 2002) wurde 2002 vom IEEE LTSC veröffentlicht. Er definiert ein Datenmodell, bestehend aus verschiedenen Attributen zur Beschreibung von Lehr- und Lernressourcen sowie einem bei der Beschreibung zu verwendenden Vokabular. Die mehr als 80 Attribute sind in neun inhaltlich zusammengehörigen Kategorien gegliedert (vgl. Abbildung 2).
 
 <center><figure>
-  <img src="img/2_Attribute_von_Learning_Object_Metadata.jpg" alt="Abb. 2: Attribute von Learning Object Metadata">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/10_Standards_fuer_Lehr-_und_Lerntechnologien/img/02_Attribute_von_Learning_Object_Metadata.jpg" alt="Abb. 2: Attribute von Learning Object Metadata">
   <figcaption>Abb. 2: Attribute von Learning Object Metadata</figcaption>
 </figure></center>
 
@@ -30,7 +30,7 @@ Unter anderem gibt es eine Kategorie *Educational*, die beispielsweise die Attri
 Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
 <center><figure>
-  <img src="img/3_Metadateneditor_der_OpenLearningContentPlattform_docendo.jpg" alt="Abb. 3: Metadateneditor der Open-Learning-Content-Plattform docendo">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/10_Standards_fuer_Lehr-_und_Lerntechnologien/img/03_Metadateneditor_der_OpenLearningContentPlattform_docendo.jpg" alt="Abb. 3: Metadateneditor der Open-Learning-Content-Plattform docendo">
   <figcaption>Abb. 3: Metadateneditor der Open-Learning-Content-Plattform docendo</figcaption>
 </figure></center>
 

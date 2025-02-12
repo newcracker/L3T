@@ -6,7 +6,7 @@
 Wenn wir uns mit der Interaktion, Perzeption und Kognition von Information durch den Menschen beschäftigen,müssen wir einige wesentliche Unterschiede zwischen Mensch und Computer kennen. Während Menschen die Fähigkeit zum induktiven, flexiblen Denken und komplexen Problemlösen auszeichnet, zeigen Computer bei deduktiven Operationen und logischen Aufgaben ermüdungsfreie Performanz (Bild 2).
 
 <center><figure>
-  <img src="img/2_Grober_Vergleich_Mensch__Computer_Holzinger_2000c.png" alt="Abb. 2: Grober Vergleich Mensch – Computer (Holzinger, 2000c)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/12_Didaktisches_Handeln/img/02_Grober_Vergleich_Mensch__Computer_Holzinger_2000c.png" alt="Abb. 2: Grober Vergleich Mensch – Computer (Holzinger, 2000c)">
   <figcaption>Abb. 2: Grober Vergleich Mensch – Computer (Holzinger, 2000c)</figcaption>
 </figure></center>
 

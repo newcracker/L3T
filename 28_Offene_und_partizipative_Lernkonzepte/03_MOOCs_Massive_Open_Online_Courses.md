@@ -32,7 +32,7 @@ Während cMOOCs vor allem auf die Vernetzung der Teilnehmenden und Informationen
 </blockquote>
 
 <center><figure>
-  <img src="img/2_Vernetzungen_und_vernetztes_Lernen_am_Beispiel_des_CCK08_Quelle_Matthias_Melcher.png" alt="Abb. 2: Vernetzungen und vernetztes Lernen am Beispiel des CCK08. Quelle: Matthias Melcher ([http://www.flickr.com/photos/37794987@N00/2843707657/](http://www.flickr.com/photos/37794987@N00/2843707657/)) \[2013-08-24]">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/28_Offene_und_partizipative_Lernkonzepte/img/02_Vernetzungen_und_vernetztes_Lernen_am_Beispiel_des_CCK08_Quelle_Matthias_Melcher.png" alt="Abb. 2: Vernetzungen und vernetztes Lernen am Beispiel des CCK08. Quelle: Matthias Melcher ([http://www.flickr.com/photos/37794987@N00/2843707657/](http://www.flickr.com/photos/37794987@N00/2843707657/)) \[2013-08-24]">
   <figcaption>Abb. 2: Vernetzungen und vernetztes Lernen am Beispiel des CCK08. Quelle: Matthias Melcher ([http://www.flickr.com/photos/37794987@N00/2843707657/](http://www.flickr.com/photos/37794987@N00/2843707657/)) \[2013-08-24]</figcaption>
 </figure></center>
 

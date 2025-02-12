@@ -26,7 +26,7 @@ Beispielsweise wurde in einer Studie von Campione, Brown und Jay (1992) die Grup
 Bezeichnend für Online-Lerngemeinschaften ist, dass sie in der Regel nur **„auf Zeit“** gegründet werden. Gerade bei für Bildungszwecke initiierten Online-Lerngemeinschaften steht für die stattfindenden Lern- und Kommunikationsprozesse meist ein vorab klar definierter Zeitrahmen zu Verfügung. Als Erfolgsfaktoren für Lerngemeinschaften werden dabei der von allen Teilnehmenden erkannte Zweck, das Vorhandensein einer Netiquette und die Gestaltung der Partizipation genannt (Johnson et al., 2009, 1172).
 
 <center><figure>
-  <img src="img/3_Kommunikationsarten_in_Lehr_und_Lernumgebungen_aus_Perspektive_Lehrender.jpg" alt="Abb. 3: Kommunikationsarten in Lehr- und Lernumgebungen aus Perspektive Lehrender">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/15_Kommunikation_und_Moderation/img/03_Kommunikationsarten_in_Lehr_und_Lernumgebungen_aus_Perspektive_Lehrender.jpg" alt="Abb. 3: Kommunikationsarten in Lehr- und Lernumgebungen aus Perspektive Lehrender">
   <figcaption>Abb. 3: Kommunikationsarten in Lehr- und Lernumgebungen aus Perspektive Lehrender</figcaption>
 </figure></center>
 

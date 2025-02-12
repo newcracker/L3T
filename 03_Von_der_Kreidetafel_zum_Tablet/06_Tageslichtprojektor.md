@@ -4,7 +4,7 @@
 Der Tageslichtprojektor, auch Overhead-Projektor (Österreich, Westdeutschland), Polylux (Ostdeutschland) oder Hellraumprojektor (Schweiz) genannt, wurde 1960 von der Firma 3M entwickelt. Er projiziert mittels eines Bildwerfers den Inhalt transparenter Folien auf eine Projektionsfläche, ohne dass der Raum stark verdunkelt werden muss.
 
 <center><figure>
-  <img src="img/4_Tageslichtprojektor.jpg" alt="Abb. 4: Tageslichtprojektor">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/04_Tageslichtprojektor.jpg" alt="Abb. 4: Tageslichtprojektor">
   <figcaption>Abb. 4: Tageslichtprojektor</figcaption>
 </figure></center>
 

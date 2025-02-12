@@ -8,7 +8,7 @@ Nicht nur für Metadaten zur Beschreibung von Lehr- und Lernressourcen sind Stan
 Das Sharable Content Object Reference Model (SCORM) ist eine Sammlung von Standards zur Beschreibung von web-basierten Lehr- und Lernressourcen, also solchen Ressourcen, die den Lernenden im Web in der Regel über Lernmanagementsysteme zur Verfügung gestellt werden. Diese Sammlung wurde von der Advanced Distributed Learning Initiative veröffentlicht. Aktuell liegt der Standard in der Version 2004 vor (ADL, 2004); in Informationssystemen häufig realisiert ist zumeist die Version 1.2 (ADL, 2002).
 
 <center><figure>
-  <img src="img/4_Bestandteile_des_SCORMStandards.jpg" alt="Abb. 4: Bestandteile des SCORM-Standards">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/10_Standards_fuer_Lehr-_und_Lerntechnologien/img/04_Bestandteile_des_SCORMStandards.jpg" alt="Abb. 4: Bestandteile des SCORM-Standards">
   <figcaption>Abb. 4: Bestandteile des SCORM-Standards</figcaption>
 </figure></center>
 
@@ -24,7 +24,7 @@ Wie das Content Aggregation Model von SCORM, so definiert auch die *Question &am
 QTI erlaubt die Beschreibung von Aufgaben verschiedenster Typen. Über Einfach- und Mehrfachauswahl hinaus sind dies beispielsweise Zuordnungsaufgaben, Reihenfolgeaufgaben, Lückentexte, Freitexte oder die Bestimmung von Textteilmengen. In QTI lassen sich aber nicht nur Aufgaben definieren, sondern es lässt sich auch detailliert spezifizieren, wie und wie viele Punkte vergeben werden und wie das Informationssystem nach einer richtigen bzw. falschen Antwort agieren soll. Die Aufgaben werden, wie in Abbildung 5 dargestellt, mittels eines Autorenwerkzeuges erstellt. Mehrere Aufgaben lassen sich zu einem Test kombinieren. Ein solcher Test kann dann wiederum in eine Lerneinheit integriert werden oder in einem Prüfungssystem (E-Assessment-System) zur Durchführung einer Prüfung genutzt werden. Die Erstellung von Aufgaben und Test gehört häufig auch zu den Funktionalitäten eines Lernmanagementsystems oder eines Prüfungssystems, wobei erstere oftmals nur eine beschränkte Anzahl von Aufgabentypen unterstützen.
 
 <center><figure>
-  <img src="img/5_An_der_Erstellung_und_Nutzung_von_Aufgaben_und_Tests_beteiligte_Systeme.jpg" alt="Abb. 5: An der Erstellung und Nutzung von Aufgaben und Tests beteiligte Systeme">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/10_Standards_fuer_Lehr-_und_Lerntechnologien/img/05_An_der_Erstellung_und_Nutzung_von_Aufgaben_und_Tests_beteiligte_Systeme.jpg" alt="Abb. 5: An der Erstellung und Nutzung von Aufgaben und Tests beteiligte Systeme">
   <figcaption>Abb. 5: An der Erstellung und Nutzung von Aufgaben und Tests beteiligte Systeme</figcaption>
 </figure></center>
 

@@ -10,7 +10,7 @@ Im Rahmen von Stationsarbeit in der Sporthalle wird an einer Station ein softwar
 Die Software ermöglicht die Videowiedergabe mit einer 60 Sekunden-Verzögerung, sodass unmittelbar nach einer Übungszeit von 60 Sekunden das übende Tandem am Laptop die Videoaufzeichnung analysieren kann. Selbstreflexion des Pritschenden und Fremdreflexion des Zuspielpartners bereichern somit den Technikschulungsprozess. Im Sinne eines Kontinuums kann das nächste Tandem aus der Warteposition die Pritschen-Zuspielübung beginnen, sobald das übende Tandem zum Laptop gewechselt ist.
 
 <center><figure>
-  <img src="img/1_Übungsaufbau_in_Anlehnung_an_Bredel_et_al_2005.png" alt="Abb. 1: Übungsaufbau (in Anlehnung an Bredel et al., 2005)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/58_Bildungstechnologien_im_Sport/img/01_Übungsaufbau_in_Anlehnung_an_Bredel_et_al_2005.png" alt="Abb. 1: Übungsaufbau (in Anlehnung an Bredel et al., 2005)">
   <figcaption>Abb. 1: Übungsaufbau (in Anlehnung an Bredel et al., 2005)</figcaption>
 </figure></center>
 
@@ -34,7 +34,7 @@ Interventionen durch Lehrende sind in diesem Umfeld dadurch erschwert, dass in d
 Hier setzt die interaktive Simulation und Lernhilfe ‚e-Törn‘ an, indem die zentralen Übungsformen der Segelpraxis jeweils digital adaptiert sind (vgl. Abb. 2). Die Reflexion der Segelpraxis wird damit über die Simulation des zuvor auf dem Wasser Erlebten unterstützt. Die auf dem Wasser beispielsweise angebahnte subjektive Theorie, welchen Einfluss der Einsatz des eigenen Körpergewichtes auf die Fahrtrichtung des Bootes hat, lässt sich damit eigenaktiv rekonstruieren und validieren (vgl. Hebbel-Seeger, 2009a).
 
 <center><figure>
-  <img src="img/2_User_Interface_von_eTörn_mit_dem_in_dieser_Übung_exklusiv_definierbaren_Steuerel.png" alt="Abb. 2: User Interface von "e-Törn" mit dem in dieser Übung exklusiv definierbaren Steuerelement "Gewicht"">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/58_Bildungstechnologien_im_Sport/img/02_User_Interface_von_eTörn_mit_dem_in_dieser_Übung_exklusiv_definierbaren_Steuerel.png" alt="Abb. 2: User Interface von "e-Törn" mit dem in dieser Übung exklusiv definierbaren Steuerelement "Gewicht"">
   <figcaption>Abb. 2: User Interface von "e-Törn" mit dem in dieser Übung exklusiv definierbaren Steuerelement "Gewicht"</figcaption>
 </figure></center>
 

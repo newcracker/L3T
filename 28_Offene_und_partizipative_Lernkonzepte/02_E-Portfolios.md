@@ -42,7 +42,7 @@ Das kostenlos downloadbare E-Book von Mark Buzinkay ([www.buzinkay.net/eportfoli
 </blockquote>
 
 <center><figure>
-  <img src="img/1_Der_prototypische_EPortfolioProzess_in_Bereichen_formalen_Lernens_nach_HimpslGut.png" alt="Abb. 1: Der prototypische E-Portfolio-Prozess in Bereichen formalen Lernens nach Himpsl-Gutermann (2012, 262)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/28_Offene_und_partizipative_Lernkonzepte/img/01_Der_prototypische_EPortfolioProzess_in_Bereichen_formalen_Lernens_nach_HimpslGut.png" alt="Abb. 1: Der prototypische E-Portfolio-Prozess in Bereichen formalen Lernens nach Himpsl-Gutermann (2012, 262)">
   <figcaption>Abb. 1: Der prototypische E-Portfolio-Prozess in Bereichen formalen Lernens nach Himpsl-Gutermann (2012, 262)</figcaption>
 </figure></center>
 

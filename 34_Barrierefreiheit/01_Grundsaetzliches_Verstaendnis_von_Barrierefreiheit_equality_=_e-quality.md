@@ -8,7 +8,7 @@ Informations- und Kommunikationstechnologien (IKT) zeichnen sich durch die Multi
 Auch Sehbeeinträchtigte und Blinde können Beiträge aus dem Internet lesen. Dazu wird der Text in einem Online-Forenbeitrag mittels einer Braillezeile, also einem Computerausgabegerät für Blinde, in Brailleschrift umgewandelt. Die auf der Braillezeile erzeugten Erhöhungen in Blindenschrift können dann mit den Fingerspitzen abgegriffen werden. Der gleiche Text könnte durch ein ‚Screenreader-Programm’ alternativ laut vorgelesen oder mittels Vergrößerungssoftware größer dargestellt werden. </blockquote>
 
 <center><figure>
-  <img src="img/1_Benutzung_einer_Braillezeile.jpg" alt="Abb. 1: Benutzung einer Braillezeile">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/34_Barrierefreiheit/img/01_Benutzung_einer_Braillezeile.jpg" alt="Abb. 1: Benutzung einer Braillezeile">
   <figcaption>Abb. 1: Benutzung einer Braillezeile</figcaption>
 </figure></center>
 

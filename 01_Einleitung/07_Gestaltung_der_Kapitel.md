@@ -6,7 +6,7 @@ Allen Kapiteln ist gemein, dass sie neben einer Zusammenfassung, einer kurzen Ei
 Fast alle Kapitel haben abschließend auch eine oder mehrere graue Kästen, die mit „### In der Praxis“ überschrieben werden. Hier wird versucht, die konkrete Praxis zu beschreiben und Einblick in die tägliche Arbeit zu geben. In Forschungskapiteln kann dies auch als „Forschungspraxis“ zur Beschreibung von einzelnen Untersuchungen und Experimenten ausgewiesen sein.
 
 <center><figure>
-  <img src="img/1_Die_L3TLandkarte.jpg" alt="Abb. 1: Die L3T-Landkarte">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/01_Einleitung/img/01_Die_L3TLandkarte.jpg" alt="Abb. 1: Die L3T-Landkarte">
   <figcaption>Abb. 1: Die L3T-Landkarte</figcaption>
 </figure></center>
 

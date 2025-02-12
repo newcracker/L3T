@@ -14,7 +14,7 @@ Welche Kompetenzen können durch die Arbeit mit den neuen Medien von den Kindern
 </blockquote>
 
 <center><figure>
-  <img src="img/2_Kreative_Fotobearbeitung_mit_Paint_Malarbeit_mit_Tuxpaint_Quelle_Elisabeth_Schal.jpg" alt="Abb. 2: Kreative Fotobearbeitung mit „Paint“, Malarbeit mit „Tuxpaint“ Quelle: Elisabeth Schallhart, Kindergarten Maurach a. Achensee.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/46_Spielend_Lernen_im_Kindergarten/img/02_Kreative_Fotobearbeitung_mit_Paint_Malarbeit_mit_Tuxpaint_Quelle_Elisabeth_Schal.jpg" alt="Abb. 2: Kreative Fotobearbeitung mit „Paint“, Malarbeit mit „Tuxpaint“ Quelle: Elisabeth Schallhart, Kindergarten Maurach a. Achensee.">
   <figcaption>Abb. 2: Kreative Fotobearbeitung mit „Paint“, Malarbeit mit „Tuxpaint“ Quelle: Elisabeth Schallhart, Kindergarten Maurach a. Achensee.</figcaption>
 </figure></center>
 

@@ -38,7 +38,7 @@ Vielfältige Lernsituationen mit Technologien sind bekannt, ohne dass sich dafü
 - Und weil es auch Arrangements ohne Präsenzunterricht gibt, also bildlich gesprochen keine Wurst vorhanden ist, wird reines Online-Lernen schlussendlich mit einem Gemüsespieß dargestellt.
 
 <center><figure>
-  <img src="img/2_BarbecueTypologie.png" alt="Abb. 2: Barbecue-Typologie">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/02_Einfuehrung/img/02_BarbecueTypologie.png" alt="Abb. 2: Barbecue-Typologie">
   <figcaption>Abb. 2: Barbecue-Typologie</figcaption>
 </figure></center>
 

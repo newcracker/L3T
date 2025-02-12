@@ -12,7 +12,7 @@ Aktives Lernen und Arbeiten mit Online-Laboren ist vor allem beim technologieges
 Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
 <center><figure>
-  <img src="img/1_RemoteMikroelektronikEntwurfs_und_Messplatz_an_der_FH_Kärnten.jpg" alt="Abb. 1: Remote-Mikroelektronik-Entwurfs- und Messplatz an der FH Kärnten">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/56_Online-Labore/img/01_RemoteMikroelektronikEntwurfs_und_Messplatz_an_der_FH_Kärnten.jpg" alt="Abb. 1: Remote-Mikroelektronik-Entwurfs- und Messplatz an der FH Kärnten">
   <figcaption>Abb. 1: Remote-Mikroelektronik-Entwurfs- und Messplatz an der FH Kärnten</figcaption>
 </figure></center>
 

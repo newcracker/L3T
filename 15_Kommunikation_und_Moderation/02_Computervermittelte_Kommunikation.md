@@ -29,9 +29,13 @@ Die Nutzung von computervermittelter Kommunikation bringt – nicht nur in Bildu
 
 Der Mangel an sozialen Hinweisreizen über andere Wahrnehmungskanäle wird in textbasierter computervermittelter Kommunikation durch Verwendung von speziellen Zeichenkürzeln und Symbolen kompensiert.
 
-</blockquote> Abb. 1: Emoticons und Abkürzungen
+</blockquote>
 
-![](img/9562650698_e3aca343b2_o.png)
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/15_Kommunikation_und_Moderation/img/01_Emoticons_und_Abkürzungen.png" alt="Abb. 1: Emoticons und Abkürzungen">
+  <figcaption>Abb. 1: Emoticons und Abkürzungen</figcaption>
+</figure></center>
+
 
 ## Kommunikation von und mit Vielen
 
@@ -66,7 +70,7 @@ Samanthanet bildet auch Trainer/innen aus, die über den deutschsprachigen Raum 
 Durch Inhouse-Schulungen für Unternehmen hat sich ein weiterer wichtiger Bereich für Samanthanet.de eröffnet.
 
 <center><figure>
-  <img src="img/2_Startseite_von_Samanthanetde.jpg" alt="Abb. 2: Startseite von Samanthanet.de">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/15_Kommunikation_und_Moderation/img/02_Startseite_von_Samanthanetde.jpg" alt="Abb. 2: Startseite von Samanthanet.de">
   <figcaption>Abb. 2: Startseite von Samanthanet.de</figcaption>
 </figure></center>
 

@@ -26,7 +26,7 @@ Die Entscheidung für den Einsatz einer bestimmten Lerntechnologie bzw. -form un
 </blockquote>
 
 <center><figure>
-  <img src="img/3_Themen_in_der_Weiterbildung_bei_denen_ELearning_in_Unternehmen_eingesetzt_wird_n.jpg" alt="Abb. 3: Themen in der Weiterbildung, bei denen E-Learning in Unternehmen eingesetzt wird (n=51, Angaben in Prozent). Quelle: MMB, 2010">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/50_Webbasiertes_Lernen_in_Unternehmen/img/03_Themen_in_der_Weiterbildung_bei_denen_ELearning_in_Unternehmen_eingesetzt_wird_n.jpg" alt="Abb. 3: Themen in der Weiterbildung, bei denen E-Learning in Unternehmen eingesetzt wird (n=51, Angaben in Prozent). Quelle: MMB, 2010">
   <figcaption>Abb. 3: Themen in der Weiterbildung, bei denen E-Learning in Unternehmen eingesetzt wird (n=51, Angaben in Prozent). Quelle: MMB, 2010</figcaption>
 </figure></center>
 

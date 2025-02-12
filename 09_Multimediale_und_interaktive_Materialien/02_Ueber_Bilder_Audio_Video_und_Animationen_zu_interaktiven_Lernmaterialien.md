@@ -20,7 +20,7 @@ Bilder können zur Veranschaulichung (Beschreibung und Ergänzung des Textes), S
 Audio kann in unterschiedlichen Formen in multimedialen Lernszenarien zum Einsatz kommen: als Hörspiel, als Vorlesehilfe, als Podcast (kurzes Audiofile) für mobile Endgeräte oder auch als komplexes Hörgebilde, welches durch Musik und Sprache kombiniert Lerninhalte vermittelt (siehe Kapitel #educast).
 
 <center><figure>
-  <img src="img/2_Screenshot_der_freien_Audiobearbeitungssoftware_Audacity.png" alt="Abb. 2: Screenshot der freien Audiobearbeitungssoftware Audacity">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/09_Multimediale_und_interaktive_Materialien/img/02_Screenshot_der_freien_Audiobearbeitungssoftware_Audacity.png" alt="Abb. 2: Screenshot der freien Audiobearbeitungssoftware Audacity">
   <figcaption>Abb. 2: Screenshot der freien Audiobearbeitungssoftware Audacity</figcaption>
 </figure></center>
 

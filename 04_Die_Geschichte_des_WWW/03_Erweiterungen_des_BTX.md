@@ -45,7 +45,7 @@ Natürlich wurde mit der Kombination MUPID/ BTX auch erstmals (landesweit) verne
 Es gab Kurse in Deutsch und Englisch, einige von hochrangigen Wissenschaftlern wie Arto Salomaa, Thomas Ottmann oder Ian Witten verfasst.
 
 <center><figure>
-  <img src="img/4_MUPID_vorgestellt_am_1541982_in_Wien.png" alt="Abb. 4: MUPID, vorgestellt am 15.4.1982 in Wien">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/04_MUPID_vorgestellt_am_1541982_in_Wien.png" alt="Abb. 4: MUPID, vorgestellt am 15.4.1982 in Wien">
   <figcaption>Abb. 4: MUPID, vorgestellt am 15.4.1982 in Wien</figcaption>
 </figure></center>
 
@@ -61,7 +61,7 @@ Bildmaterial und andere Informationen zu MUPID, COSTOC, BTX, Autool (dem Editier
 Mit MUPID waren auch schon Pixelbilder leicht generierbar und anzeigbar. Die fehlenden guten Bildkomprimierungsmethoden und langsamen Leitungen führten jedoch dazu, dass der Einsatz anfangs recht beschränkt war. Abbildung 5 zeigt, dass man BTX sogar verwendete, um den Prozess der Digitalisierung zu erklären.
 
 <center><figure>
-  <img src="img/5_Mit_MUPID_und_Videokamera_war_eine_direkte_Bildabspeicherung_möglich.png" alt="Abb. 5: Mit MUPID und Videokamera war eine direkte Bildabspeicherung möglich.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/05_Mit_MUPID_und_Videokamera_war_eine_direkte_Bildabspeicherung_möglich.png" alt="Abb. 5: Mit MUPID und Videokamera war eine direkte Bildabspeicherung möglich.">
   <figcaption>Abb. 5: Mit MUPID und Videokamera war eine direkte Bildabspeicherung möglich.</figcaption>
 </figure></center>
 
@@ -69,7 +69,7 @@ Mit MUPID waren auch schon Pixelbilder leicht generierbar und anzeigbar. Die feh
 Abbildung 6 zeigt die Anwendung MUPID-Teleschach. Damit konnte man synchron und asynchron mit mehreren Personen Schach spielen. Selbst eine Chat-Komponente war implementiert. Selbst wenn kein Spieler am System war, konnte man (ohne das vielleicht zu wissen) gegen ein Schachprogramm spielen, das sogar mit Eliza-ähnlichen Methoden am Chat teilnahm.
 
 <center><figure>
-  <img src="img/6_Teleschach_Der_Eintrag_2_KOMM_für_Kommunikation_aktivierte_einen_Chat.png" alt="Abb. 6: Teleschach. Der Eintrag ‚2 KOMM.‘ für Kommunikation aktivierte einen Chat.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/06_Teleschach_Der_Eintrag_2_KOMM_für_Kommunikation_aktivierte_einen_Chat.png" alt="Abb. 6: Teleschach. Der Eintrag ‚2 KOMM.‘ für Kommunikation aktivierte einen Chat.">
   <figcaption>Abb. 6: Teleschach. Der Eintrag ‚2 KOMM.‘ für Kommunikation aktivierte einen Chat.</figcaption>
 </figure></center>
 
@@ -93,7 +93,7 @@ Im selben Jahr erschien der erste Zeitschriftenartikel über Hyper-G (Maurer &am
 Es ist ein eigentümlicher Zufall, dass im selben Jahr am CERN der Vorschlag gemacht wird, ein System für wissenschaftliche Artikel anzulegen, welche für die ganze Welt über das Internet abrufbar sind. Es ist dabei zu beachten, dass Interaktivität jenseits von Abrufen und E-Mails nicht als wesentlich oder vorrangig betrachtet wurde, denn neben Suchfunktionen würden Links und Menüs für den Zugriff voll ausreichen. Ein Auszug der Originalmail ist in Abbildung 7 zu sehen:
 
 <center><figure>
-  <img src="img/7_Der_Vorschlag_eine_erste_Version_eines_vernetzten_Hypertextsystems_zu_implementi.png" alt="Abb. 7: Der Vorschlag, eine erste Version eines vernetzten Hypertextsystems zu implementieren.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/07_Der_Vorschlag_eine_erste_Version_eines_vernetzten_Hypertextsystems_zu_implementi.png" alt="Abb. 7: Der Vorschlag, eine erste Version eines vernetzten Hypertextsystems zu implementieren.">
   <figcaption>Abb. 7: Der Vorschlag, eine erste Version eines vernetzten Hypertextsystems zu implementieren.</figcaption>
 </figure></center>
 
@@ -109,7 +109,7 @@ Mehr zur Abbildung 7, nämlich der gesamte Vorschlag, kann auf https://www.diigo
 </blockquote>
 
 <center><figure>
-  <img src="img/8_Das_Editiersystem_Harmony_in_Hyperwave_mit_einer_viel_mächtigeren_Markupsprache_.png" alt="Abb. 8: Das Editiersystem Harmony in Hyperwave mit einer viel mächtigeren Markupsprache als HTML, die aus Kompatibilitätsgründen aufgegeben werden musste.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/08_Das_Editiersystem_Harmony_in_Hyperwave_mit_einer_viel_mächtigeren_Markupsprache_.png" alt="Abb. 8: Das Editiersystem Harmony in Hyperwave mit einer viel mächtigeren Markupsprache als HTML, die aus Kompatibilitätsgründen aufgegeben werden musste.">
   <figcaption>Abb. 8: Das Editiersystem Harmony in Hyperwave mit einer viel mächtigeren Markupsprache als HTML, die aus Kompatibilitätsgründen aufgegeben werden musste.</figcaption>
 </figure></center>
 

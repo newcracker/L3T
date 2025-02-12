@@ -6,7 +6,7 @@
 Technologieunterstützte Lehr-Lern-Aktivitäten können in verschiedenen Kontexten stehen. Sie können ein Element von formal organisierten Kursen und Lehrgängen sein. Sie können ein Element von moderierten Lern- und Reflexionsprozessen am Arbeitsplatz/im Studienverlauf sein (zum Beispiel Action-Learning-Projekte oder Pflege eines Kompetenzportfolios), oder sie können ein Element von informellen, selbstgesteuerten Aktivitäten des Lernens und Wissensaustauschs sein (vgl. Abb. 3). Das Bildungsmanagement hat die Aufgabe, Lernprozesse auf individueller, betrieblicher und überbetrieblicher Ebene zu initiieren, zu implementieren, zu begleiten und zu evaluieren (Diettrich &amp; Vonken, 2009). Mit der Einführung von E-Learning treten neue Angebote an Bildungsmaßnahmen neben bereits etablierte: zum Beispiel rein online durchgeführte und auf WBT basierende Trainings; Blended-Learning-Angebote; unterstützende E-Services im Rahmen der Kompetenzentwicklung wie etwa E-Kompetenzportfolios oder Online-Lerngemeinschaften. Damit verändert sich die ‚Lernarchitektur‘ (vgl. Detecon International GmbH, 2006) und das Portfolio an Bildungsdienstleistungen (vgl. Abb. 3).
 
 <center><figure>
-  <img src="img/3_Kontexte_von_technologieunterstützten_Lehr_bzw_Lernaktivitäten_und_Service_Portf.png" alt="Abb. 3: Kontexte von technologieunterstützten Lehr- bzw. Lernaktivitäten und Service- Portfolio">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/51_E-Learning_in_Organisationen/img/03_Kontexte_von_technologieunterstützten_Lehr_bzw_Lernaktivitäten_und_Service_Portf.png" alt="Abb. 3: Kontexte von technologieunterstützten Lehr- bzw. Lernaktivitäten und Service- Portfolio">
   <figcaption>Abb. 3: Kontexte von technologieunterstützten Lehr- bzw. Lernaktivitäten und Service- Portfolio</figcaption>
 </figure></center>
 
@@ -20,7 +20,7 @@ Im Rahmen formal organisierter Lehr-/Lern-Prozesse stehen nicht technische Werkz
 Erst danach können in einem nächsten Schritt die geeigneten Materialien und Werkzeuge ausgewählt werden: Texte, Grafiken, Bilder und audiovisuelle Aufzeichnungen; Werkzeuge zur Kommunikation und Zusammenarbeit; Hilfsmittel zur Abfrage, Dokumentation und Darstellung/Visualisierung etc.
 
 <center><figure>
-  <img src="img/4_Von_den_Zielen_zu_den_Werkzeugen.png" alt="Abb. 4: Von den Zielen zu den Werkzeugen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/51_E-Learning_in_Organisationen/img/04_Von_den_Zielen_zu_den_Werkzeugen.png" alt="Abb. 4: Von den Zielen zu den Werkzeugen">
   <figcaption>Abb. 4: Von den Zielen zu den Werkzeugen</figcaption>
 </figure></center>
 

@@ -20,7 +20,7 @@ Für Jugendliche im Alter von 10-19 Jahren bietet die internationale Bildungsini
 Für Kinder im Kindergarten-, Vorschul- und Primarstufenalter werden allgemein immer mehr sogenannte Bodenroboter zum spielerischen Programmieren verwendet. Einer der bekanntesten Hersteller in diesem Bereich ist die *TTS Group* mit ihren Bodenrobotern *Bee-Bot* und *Pro-Bot*. Während der *Bee-Bot* einfache Befehlsabfolgen (mit Tastendruck – vorwärts, rückwärts, Links- und Rechtsdrehung) beherrscht, kann der *Pro-Bot* direkt per Tastendruck oder über USB-Kabel mit PC-Software programmiert werden. Basis ist die Programmiersprache Logo, die von Papert entwickelt wurde (Stöckelmayr et al., 2011). Eine Alternative ist zum Beispiel der *Roamer*, welcher ebenfalls auf der Programmiersprache Logo basiert. (Nähere Informationen unter: [http://www.valiant-technology.com/uk/pages/roamer\_diversity.php](http://www.valiant-technology.com/uk/pages/roamer_diversity.php))
 
 <center><figure>
-  <img src="img/3_Der_programmierbare_Mikrocontroller_Arduino_kann_in_Workshops_vielseitig_Verwend.jpg" alt="Abb. 3: Der programmierbare Mikrocontroller Arduino kann in Workshops vielseitig Verwendung finden. Es können zum Beispiel Lichter oder Motoren gesteuert und durch angeschlossene Sensoren unterschiedliche Aspekte der Umwelt gemessen werden.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/45_Interessen_und_Kompetenzen_foerdern/img/03_Der_programmierbare_Mikrocontroller_Arduino_kann_in_Workshops_vielseitig_Verwend.jpg" alt="Abb. 3: Der programmierbare Mikrocontroller Arduino kann in Workshops vielseitig Verwendung finden. Es können zum Beispiel Lichter oder Motoren gesteuert und durch angeschlossene Sensoren unterschiedliche Aspekte der Umwelt gemessen werden.">
   <figcaption>Abb. 3: Der programmierbare Mikrocontroller Arduino kann in Workshops vielseitig Verwendung finden. Es können zum Beispiel Lichter oder Motoren gesteuert und durch angeschlossene Sensoren unterschiedliche Aspekte der Umwelt gemessen werden.</figcaption>
 </figure></center>
 
@@ -74,7 +74,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 </blockquote>
 
 <center><figure>
-  <img src="img/4_Visuelle_Programmiersprache_mit_DragampDropFunktionalität.jpg" alt="Abb. 4: Visuelle Programmiersprache mit Drag-&amp;-Drop-Funktionalität">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/45_Interessen_und_Kompetenzen_foerdern/img/04_Visuelle_Programmiersprache_mit_DragampDropFunktionalität.jpg" alt="Abb. 4: Visuelle Programmiersprache mit Drag-&amp;-Drop-Funktionalität">
   <figcaption>Abb. 4: Visuelle Programmiersprache mit Drag-&amp;-Drop-Funktionalität</figcaption>
 </figure></center>
 

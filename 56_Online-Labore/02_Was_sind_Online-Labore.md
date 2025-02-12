@@ -16,7 +16,7 @@ An der Fachhochschule Kärnten ist ein solcher kompletter Zyklus mikroelektronis
 Abbildung 2 zeigt die grundlegende Einteilung **unterschiedlicher Formen von Laboren** (Garbi Zuti et al., 2009). Betrachtet man jeweils den Standort eines Laborexperiments und den Aufenthaltsort der Benutzer/innen, dann ergeben sich die insgesamt vier gezeigten Labortypen.
 
 <center><figure>
-  <img src="img/2_Klassifizierung_von_Laboren.jpg" alt="Abb. 2: Klassifizierung von Laboren">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/56_Online-Labore/img/02_Klassifizierung_von_Laboren.jpg" alt="Abb. 2: Klassifizierung von Laboren">
   <figcaption>Abb. 2: Klassifizierung von Laboren</figcaption>
 </figure></center>
 

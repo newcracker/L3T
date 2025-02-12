@@ -31,9 +31,11 @@ Denen, die nicht wissen, welche Ziele sie verfolgen wollen, fehlt der Richtungsw
 
 Je nach Zielsetzung können diese drei Komponenten des Lehrens unterschiedliches Gewicht haben und entsprechend unterschiedliche (auch zeitliche) Anforderungen an den Planungs- und Entwurfsprozess stellen. Diese Überlegungen entlang der Logik didaktischen Handelns können eine Art Grundfigur für das Didaktische Design bilden (siehe Abb. 1).
 
-Abb.1: Grundfigur für das Didaktische Design
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/11_Human-Computer-Interaction/img/01_Grundfigur_für_das_Didaktische_Design.jpg" alt="Abb. 1: Grundfigur für das Didaktische Design">
+  <figcaption>Abb. 1: Grundfigur für das Didaktische Design</figcaption>
+</figure></center>
 
-![](img/3.2-pic.jpg)
 
 **Vermittlung.** Inhalte zu *vermitteln* bedeutet, bestehendes Wissen in irgendeiner Form darzustellen und weiterzugeben – und das in allen denkbaren Formaten: als gesprochenes und geschriebenes Wort, als Audio und Video, als Bild und Animation etc. Speziell für technologiegestütztes Lehren und Lernen sind der Gestaltung (auch der interaktiven) nur mehr wenige Grenzen gesetzt (vgl. z.B. Niegemann, Domag, Hessel, Hein, Hupfer &amp; Zobel, 2008). Für die Gestaltung medialer Inhalte sind lernpsychologische Erkenntnisse brauchbar: unter anderem solche, die (nicht nur, aber besonders) unter dem Dach kognitivistischer Lerntheorien entstanden sind. Lehrende produzieren für ihren Unterricht in der Regel nicht alle medialen Inhalte selbst. Unter Umständen bedienen sie sich sogar komplett bereits bestehender Ressourcen; doch auch für diese Entscheidungen sind sowohl lerntheoretische als auch didaktische Kenntnisse nützlich. Bei der *Gestaltung der materialen Seite* eines didaktischen Szenarios geht es um die Bestimmung der Art und des Anteils der Vermittlung: Der Vermittlungsanteil kann groß, aber auch klein sein – in Abhängigkeit von den Lehrzielen und sonstigen Bedingungen. So wird man sich z.B. in Projektveranstaltungen auf ein paar Texte oder Videos beschränken – möglicherweise auf solche, die authentische Informationen zum Projektgegenstand liefern. Dagegen wird man in einer Produktschulung einen hohen Vermittlungsanteil im didaktischen Szenario haben und diesen womöglich auch aufwändig interaktiv und anschaulich gestalten.
 

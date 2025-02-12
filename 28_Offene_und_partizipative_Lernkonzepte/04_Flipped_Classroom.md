@@ -6,7 +6,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 Das Prinzip des Flipped Classroom ist es, ‚etwas umzudrehen’ (engl. ,to flip something’). Eine Lehrveranstaltung wird ‚umgedreht’. Das bedeutet, dass in der Präsenzzeit der Lehrveranstaltung die Aktivitäten stattfinden, die die Studierenden sonst zu Hause als Vor- oder Nachbereitung durchführen würden. Der Input der Vorlesung, des Schulunterrichts oder der Weiterbildungsveranstaltung (Vorträge, Material) wird aus dem Hörsaal oder Klassenzimmer ausgelagert. Wozu ist das gut? In Vorlesungen halten Lehrende in der Regel einen (wissenschaftlichen) Vortrag. Gegebenenfalls sind Rückfragen erlaubt oder es werden kurze Arbeitsphasen für Studierende eingebaut. Meist erfolgt die vertiefende Auseinandersetzung mit dem Stoff der Vorlesung aber in der Selbstlernphase, wenn Lehrende nicht direkt für Rückfragen verfügbar sind.
 
 <center><figure>
-  <img src="img/1_Cartoon_Das_ist_Hochschulunterricht.png" alt="Abb. 1: Cartoon: "Das ist Hochschulunterricht"">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/28_Offene_und_partizipative_Lernkonzepte/img/01_Cartoon_Das_ist_Hochschulunterricht.png" alt="Abb. 1: Cartoon: "Das ist Hochschulunterricht"">
   <figcaption>Abb. 1: Cartoon: "Das ist Hochschulunterricht"</figcaption>
 </figure></center>
 

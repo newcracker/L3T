@@ -50,7 +50,7 @@ Zusätzlich gibt es eine Reihe enger gefasster, also auf einige Technologien bes
 Auch gibt es Begriffe technologiegestützten Lernens, die nicht auf die Nutzung ausgewählter Technologien hinweisen. Vielfach wird im Bereich des technologiegestützten Lernens auf **bestimmte Methoden** abgezielt. So steht CSCL für das computergestützte kooperative Lernen (engl. „computer supported collaborative learning“). Damit haben wir auch aufgeklärt, worum es sich beim einführend erwähnten „CSCL-Kompendium“ handelt. Oder hatten Sie das gewusst?
 
 <center><figure>
-  <img src="img/1_Begrifflichkeiten_und_von_welchen_Technologien_dann_meistens_gesprochen_wird.png" alt="Abb. 1: Begrifflichkeiten und von welchen Technologien dann (meistens) gesprochen wird">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/02_Einfuehrung/img/01_Begrifflichkeiten_und_von_welchen_Technologien_dann_meistens_gesprochen_wird.png" alt="Abb. 1: Begrifflichkeiten und von welchen Technologien dann (meistens) gesprochen wird">
   <figcaption>Abb. 1: Begrifflichkeiten und von welchen Technologien dann (meistens) gesprochen wird</figcaption>
 </figure></center>
 

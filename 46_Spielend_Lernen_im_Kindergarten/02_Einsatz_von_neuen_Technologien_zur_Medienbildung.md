@@ -24,7 +24,7 @@ Wie tragen Medien zur Partizipation von Kindern bei? Welche besonderen Möglichk
 </blockquote>
 
 <center><figure>
-  <img src="img/1_Trickfilme_mit_Kindergartenkindern_erstellen_Quelle_Elisabeth_Schallhart_Kinderg.jpg" alt="Abb. 1: Trickfilme mit Kindergartenkindern erstellen. Quelle: Elisabeth Schallhart, Kindergarten Maurach a. Achensee.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/46_Spielend_Lernen_im_Kindergarten/img/01_Trickfilme_mit_Kindergartenkindern_erstellen_Quelle_Elisabeth_Schallhart_Kinderg.jpg" alt="Abb. 1: Trickfilme mit Kindergartenkindern erstellen. Quelle: Elisabeth Schallhart, Kindergarten Maurach a. Achensee.">
   <figcaption>Abb. 1: Trickfilme mit Kindergartenkindern erstellen. Quelle: Elisabeth Schallhart, Kindergarten Maurach a. Achensee.</figcaption>
 </figure></center>
 

@@ -2,7 +2,7 @@
 <!-- title: Whiteboard -->
 
 <center><figure>
-  <img src="img/2_Whiteboard.jpg" alt="Abb. 2: Whiteboard">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/02_Whiteboard.jpg" alt="Abb. 2: Whiteboard">
   <figcaption>Abb. 2: Whiteboard</figcaption>
 </figure></center>
 

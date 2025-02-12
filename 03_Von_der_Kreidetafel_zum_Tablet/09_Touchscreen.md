@@ -4,7 +4,7 @@
 Die ersten Touchscreens wurden schon 1940 entwickelt und schließlich mit Veröffentlichung der PLATO-IV-Lernmaschinen 1972 publik gemacht. Bei Touchscreens interagiert man mit einem Computer durch Berührung des Bildschirmes. Statt der Bedienung durch einen mit der Maus bewegten Cursor, wird auf direkte Eingaben mit Finger und Zeigestift (einem sogenannten Stylus) gesetzt.
 
 <center><figure>
-  <img src="img/6_Touchscreen.jpg" alt="Abb. 6: Touchscreen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/06_Touchscreen.jpg" alt="Abb. 6: Touchscreen">
   <figcaption>Abb. 6: Touchscreen</figcaption>
 </figure></center>
 

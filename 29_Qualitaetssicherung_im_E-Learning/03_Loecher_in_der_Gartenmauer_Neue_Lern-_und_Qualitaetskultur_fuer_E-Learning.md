@@ -10,7 +10,7 @@ Lernende für eine ungewisse Zukunft fit zu machen, steht im Vordergrund, sie be
 Nachfolgend werden zunächst die Phasen der Kompetenzentwicklung dargestellt. Daran anschließend erfolgt die Beschreibung der Umsetzung dieser Phasen an einem konkreten Praxisbeispiel – der Lehrveranstaltung Projektmanagement (Wirtschaftsinformatik) des Bachelorstudiengangs Wirtschaftsinformatik der Universität Duisburg-Essen. Die Lehrveranstaltung wurde im WS 2007/2008 mit circa 60 Studierenden durchgeführt. Das kompetenzorientierte Design sieht sechs Phasen vor (Abbildung 1, mehr dazu auch in Ehlers et al., 2010).
 
 <center><figure>
-  <img src="img/1_Ablauf_der_Lehrveranstaltung_in_Phasen.jpg" alt="Abb. 1: Ablauf der Lehrveranstaltung in Phasen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/29_Qualitaetssicherung_im_E-Learning/img/01_Ablauf_der_Lehrveranstaltung_in_Phasen.jpg" alt="Abb. 1: Ablauf der Lehrveranstaltung in Phasen">
   <figcaption>Abb. 1: Ablauf der Lehrveranstaltung in Phasen</figcaption>
 </figure></center>
 

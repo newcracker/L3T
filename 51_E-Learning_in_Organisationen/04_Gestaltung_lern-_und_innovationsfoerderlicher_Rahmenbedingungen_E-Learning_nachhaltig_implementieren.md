@@ -43,7 +43,7 @@ Die Durchführung einer solchen Lernkulturanalyse gibt nicht nur Auskunft über 
 Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
 <center><figure>
-  <img src="img/5_Beispiele_für_BenchmarkingErgebnisse_im_Rahmen_einer_Lernkulturanalyse.png" alt="Abb. 5: Beispiele für Benchmarking-Ergebnisse im Rahmen einer Lernkulturanalyse">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/51_E-Learning_in_Organisationen/img/05_Beispiele_für_BenchmarkingErgebnisse_im_Rahmen_einer_Lernkulturanalyse.png" alt="Abb. 5: Beispiele für Benchmarking-Ergebnisse im Rahmen einer Lernkulturanalyse">
   <figcaption>Abb. 5: Beispiele für Benchmarking-Ergebnisse im Rahmen einer Lernkulturanalyse</figcaption>
 </figure></center>
 

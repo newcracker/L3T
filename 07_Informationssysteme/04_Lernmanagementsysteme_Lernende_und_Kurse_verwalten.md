@@ -34,7 +34,7 @@ Können die von Ihnen konzipierten Lernmaterialien für Autofahrer/innen, sehend
 </blockquote>
 
 <center><figure>
-  <img src="img/6_Mögliche_Lösung_für_die_Zerlegung_des_Lerninhaltes_Wie_verhalte_ich_mich_als_Aut.png" alt="Abb. 6: Mögliche Lösung für die Zerlegung des Lerninhaltes „Wie verhalte ich mich als Autofahrer/in an einer Ampel?“">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/06_Mögliche_Lösung_für_die_Zerlegung_des_Lerninhaltes_Wie_verhalte_ich_mich_als_Aut.png" alt="Abb. 6: Mögliche Lösung für die Zerlegung des Lerninhaltes „Wie verhalte ich mich als Autofahrer/in an einer Ampel?“">
   <figcaption>Abb. 6: Mögliche Lösung für die Zerlegung des Lerninhaltes „Wie verhalte ich mich als Autofahrer/in an einer Ampel?“</figcaption>
 </figure></center>
 

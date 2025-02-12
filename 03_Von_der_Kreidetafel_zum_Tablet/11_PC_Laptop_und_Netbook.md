@@ -6,7 +6,7 @@ Der erste elektronische Computer wurde um 1938-1945 von Konrad Zuse entwickelt. 
 PCs und Laptops durchdringen immer mehr die Unterrichtsräume, die Zunahme an Netbooks kann ebenfalls immer mehr beobachtet werden (siehe Kapitel #schule). Kritische Stimmen meinten anfangs, dass man nun einen etwas besseren Taschenrechner hätte, aber die Vielfalt der Möglichkeiten, die sich dadurch ergeben, ist heute noch immer eine der wesentlichen Fragestellungen des Forschungsgebietes technologiegestütztes Lehren und Lernen.
 
 <center><figure>
-  <img src="img/8_Personal_Computer_PC.jpg" alt="Abb. 8: Personal Computer (PC)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/08_Personal_Computer_PC.jpg" alt="Abb. 8: Personal Computer (PC)">
   <figcaption>Abb. 8: Personal Computer (PC)</figcaption>
 </figure></center>
 

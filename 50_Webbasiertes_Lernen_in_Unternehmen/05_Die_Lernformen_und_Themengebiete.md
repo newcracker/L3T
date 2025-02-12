@@ -4,7 +4,7 @@
 Unternehmen steht heute in der betrieblichen Weiterbildung eine breite Palette an Lerntechnologien und -formen zur Verfügung: Sie umfasst das selbstgesteuerte Lernen am Computer (WBT, CBT), live geführte Online-Trainings („virtuelle Klassenzimmer“), Online-Kurse, Simulationen, spielerische Lernformate („game-based learning“, „serious games“) und virtuelle Welten, den Wissensaustausch durch Social-Media-Instrumente (zum Beispiel Weblogs, Podcasts, Wikis), Communitys, Foren, Chats, Computer in Seminaren oder Workshops, mobiles Lernen („mobile learning“) sowie Formen des E-Coachings und E-Mentorings.
 
 <center><figure>
-  <img src="img/2_Formen_des_digitalen_Lernens_2008_waren_nur_die_dunkelblau_dargestellten_Lernfor.png" alt="Abb. 2: Formen des digitalen Lernens. 2008 waren nur die dunkelblau dargestellten Lernformen auf dem Markt; 2013 waren es bereits 23 Lernformen bzw. Lerntechnologien">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/50_Webbasiertes_Lernen_in_Unternehmen/img/02_Formen_des_digitalen_Lernens_2008_waren_nur_die_dunkelblau_dargestellten_Lernfor.png" alt="Abb. 2: Formen des digitalen Lernens. 2008 waren nur die dunkelblau dargestellten Lernformen auf dem Markt; 2013 waren es bereits 23 Lernformen bzw. Lerntechnologien">
   <figcaption>Abb. 2: Formen des digitalen Lernens. 2008 waren nur die dunkelblau dargestellten Lernformen auf dem Markt; 2013 waren es bereits 23 Lernformen bzw. Lerntechnologien</figcaption>
 </figure></center>
 

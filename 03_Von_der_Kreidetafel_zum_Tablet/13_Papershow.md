@@ -6,7 +6,7 @@ Papershow eignet sich sehr gut, um komplizierte handschriftliche Inhalte, zum Be
 Rechner. Farben und Schriftstärke können auch über das Spezialpapier geändert werden. Die Nutzer/innen müssen sich also nicht umgewöhnen und können wie gewohnt mit Stift und Papier auch komplexe Sachverhalte aus Physik, Mathematik oder der Kunst schnell und vertraut darstellen. Für die Nachhaltigkeit kann man dies dann auch gleich per Screencast aufzeichnen und archivieren.
 
 <center><figure>
-  <img src="img/10_Papershow.jpg" alt="Abb. 10: Papershow">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/10_Papershow.jpg" alt="Abb. 10: Papershow">
   <figcaption>Abb. 10: Papershow</figcaption>
 </figure></center>
 

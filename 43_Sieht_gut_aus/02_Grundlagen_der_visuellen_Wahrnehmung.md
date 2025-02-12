@@ -8,7 +8,7 @@ Wir befassen uns hier ausschließlich mit visueller Wahrnehmung. Am Beispiel der
 Unser Sehvermögen vermittelt uns, dass wir alles in unserem Blickfeld lückenlos wahrnehmen. Tatsächlich ist die visuelle Wahrnehmung aber staccatoartig und ein ständiges Wechselspiel zwischen kurzen Verweilzeiten auf Objekten unseres Interesses (Fixationen) und Sprüngen zu neuen Umweltreizen (Sakkaden). Diese Strategie ist notwendig, da der Umfang der einwirkenden visuellen Umweltreize enorm ist und es ohne diesen Selektionsprozess zu einer kognitiven Überlastung des Gehirns kommen würde. Außerdem können lediglich zwei Grad unseres visuellen Sehfeldes scharf wahrgenommen werden. Dies können Sie in einem kleinen Experiment selber erforschen: Wenn Sie Ihren Arm ausstrecken und Ihren Daumen betrachten, dann ist ungefähr die Dicke Ihres Daumens scharf, der Rest Ihres Sichtfeldes wirkt unscharf (Duchowski, 2007).
 
 <center><figure>
-  <img src="img/1_Funktionsweise_des_Auges.jpg" alt="Abb. 1: Funktionsweise des Auges.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/43_Sieht_gut_aus/img/01_Funktionsweise_des_Auges.jpg" alt="Abb. 1: Funktionsweise des Auges.">
   <figcaption>Abb. 1: Funktionsweise des Auges.</figcaption>
 </figure></center>
 
@@ -22,7 +22,7 @@ Als Beispiel sei an dieser Stelle das Zählen der Ziffer 3 in einer langen Zahle
 Menschliche Wahrnehmung ist aber nicht nur sprunghaft, sondern auch aktiv (Ware, 2008). Menschen wenden sich Bereichen zu, in denen sie interessante und wesentliche Informationen vermuten. In der Regel haben sie bestimmte Hypothesen darüber, wo es wesentliche Informationen gibt und wie diese zu interpretieren sind (zum Beispiel Lindsay &amp; Norman, 1981). Wenn wir einen Text lesen, haben wir in der Regel vorab schon bestimmte Erwartungen, welche Informationen dieser Text enthalten wird. Wenn diese Erwartungen nicht erfüllt sind, kommt es manchmal zu Störungen in der Wahrnehmung. Da wir beispielsweise davon ausgehen, dass Texte korrekt getippt sind, fällt es uns schwer, Tippfehler zu entdecken. Wahrnehmungsprozesse funktionieren daher nicht nur bottom-up (von den Reizen zur Speicherung im Gedächtnis), sondern auch top-down (vom Gedächtnis zu den Sinnesorganen, deren Funktionieren von den Erwartungen geleitet wird). Die Einbeziehung der Erwartungen und des Kontexts führen dazu, dass menschliche Wahrnehmung sehr rasch abläuft, aber dafür auch fehleranfällig ist. Derartige Prozesse sollten im Design von Lernsystemen berücksichtigt werden.
 
 <center><figure>
-  <img src="img/2_Der_PopOutEffekt_begünstigt_eine_rasche_Informationsverarbeitung.png" alt="Abb. 2: Der Pop-Out-Effekt begünstigt eine rasche Informationsverarbeitung.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/43_Sieht_gut_aus/img/02_Der_PopOutEffekt_begünstigt_eine_rasche_Informationsverarbeitung.png" alt="Abb. 2: Der Pop-Out-Effekt begünstigt eine rasche Informationsverarbeitung.">
   <figcaption>Abb. 2: Der Pop-Out-Effekt begünstigt eine rasche Informationsverarbeitung.</figcaption>
 </figure></center>
 

@@ -10,7 +10,7 @@ Der größte Vorteil dieser Art von Projektion ist, dass die Vorlagen ohne weite
 Die Weiterentwicklung des Episkops ist der Visualizer. Hier wird eine hochauflösende Kamera genutzt, um den beleuchteten Gegenstand zu filmen und dann das Bildsignal digital oder analog an einen Overhead-Projektor oder einen Beamer, an ein interaktives Whiteboard oder eine Webkonferenz weiterzuleiten. Technisch kann man so alle Gegenstände dreidimensional erfassen und problemlos darstellen.
 
 <center><figure>
-  <img src="img/5_Epiprojektor.jpg" alt="Abb. 5: Epiprojektor">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/05_Epiprojektor.jpg" alt="Abb. 5: Epiprojektor">
   <figcaption>Abb. 5: Epiprojektor</figcaption>
 </figure></center>
 

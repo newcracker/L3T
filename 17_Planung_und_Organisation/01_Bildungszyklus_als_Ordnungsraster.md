@@ -4,7 +4,7 @@
 Neben der Unterstützung der Interaktion von Lernenden und Dozierenden lassen sich digitale Technologien auch für eine effektive Planung und Organisation von Bildungsangeboten einsetzen.
 
 <center><figure>
-  <img src="img/1_Bildungszyklus_zur_Strukturierung_des_didaktischen_Designs_von_Lernprozessen.jpg" alt="Abb. 1: Bildungszyklus zur Strukturierung des didaktischen Designs von Lernprozessen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/17_Planung_und_Organisation/img/01_Bildungszyklus_zur_Strukturierung_des_didaktischen_Designs_von_Lernprozessen.jpg" alt="Abb. 1: Bildungszyklus zur Strukturierung des didaktischen Designs von Lernprozessen">
   <figcaption>Abb. 1: Bildungszyklus zur Strukturierung des didaktischen Designs von Lernprozessen</figcaption>
 </figure></center>
 

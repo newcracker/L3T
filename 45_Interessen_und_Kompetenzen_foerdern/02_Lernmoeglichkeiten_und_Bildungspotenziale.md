@@ -22,7 +22,7 @@ Mathematik, Ingenieurwissenschaften, Naturwissenschaften, Technik) sind vielfäl
 Lernprojekte mit Programmier- und Konstruktionstätigkeiten werden als geeignete Möglichkeiten gesehen, MINT-bezogene Interessen und Fähigkeiten zu fördern (Projektadressen siehe Infobox „Angebote/Projekte”).
 
 <center><figure>
-  <img src="img/1_Teilnehmerinnen_basteln_und_programmieren_den_Eichbär_im_Rahmen_des_Projektes_in.jpg" alt="Abb. 1: Teilnehmer/innen basteln und programmieren den „Eichbär" im Rahmen des Projektes „informattraktiv” (siehe Infobox „Angebote/Projekte”). Die Mischung aus Eichhörnchen und Bär zeigt die Uhrzeit an und reagiert auf seine Umwelt mit leuchtenden Augen.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/45_Interessen_und_Kompetenzen_foerdern/img/01_Teilnehmerinnen_basteln_und_programmieren_den_Eichbär_im_Rahmen_des_Projektes_in.jpg" alt="Abb. 1: Teilnehmer/innen basteln und programmieren den „Eichbär" im Rahmen des Projektes „informattraktiv” (siehe Infobox „Angebote/Projekte”). Die Mischung aus Eichhörnchen und Bär zeigt die Uhrzeit an und reagiert auf seine Umwelt mit leuchtenden Augen.">
   <figcaption>Abb. 1: Teilnehmer/innen basteln und programmieren den „Eichbär" im Rahmen des Projektes „informattraktiv” (siehe Infobox „Angebote/Projekte”). Die Mischung aus Eichhörnchen und Bär zeigt die Uhrzeit an und reagiert auf seine Umwelt mit leuchtenden Augen.</figcaption>
 </figure></center>
 

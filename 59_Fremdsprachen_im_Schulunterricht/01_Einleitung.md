@@ -8,7 +8,7 @@ In einer globalisierten Welt kann Lernen und Lehren auf die unterschiedlichen Be
 Der „Gemeinsame Europäische Referenzrahmen für Sprachen“ (GERS) definiert fünf Fertigkeitsbereiche, nämlich: „hören“, „lesen“, „zusammenhängend sprechen“, „an Gesprächen teilnehmen“ und „schreiben“ (ÖZG, 2009, 10; siehe Abbildung 1), die sich, wie auch Abbildung 1 zeigt, in konkreten Kommunikationssituationen überschneiden und somit nach Möglichkeit auch integrativ und nicht isoliert gelehrt und gelernt werden sollten.
 
 <center><figure>
-  <img src="img/1_Die_Fertigkeitsbereiche_für_Sprachkompetenz_des_Gemeinsamen_Europäischen_Referen.jpg" alt="Abb. 1: Die Fertigkeitsbereiche für Sprachkompetenz des Gemeinsamen Europäischen Referenzrahmens für Sprachen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/59_Fremdsprachen_im_Schulunterricht/img/01_Die_Fertigkeitsbereiche_für_Sprachkompetenz_des_Gemeinsamen_Europäischen_Referen.jpg" alt="Abb. 1: Die Fertigkeitsbereiche für Sprachkompetenz des Gemeinsamen Europäischen Referenzrahmens für Sprachen">
   <figcaption>Abb. 1: Die Fertigkeitsbereiche für Sprachkompetenz des Gemeinsamen Europäischen Referenzrahmens für Sprachen</figcaption>
 </figure></center>
 

@@ -28,9 +28,11 @@ Das Projekt „medienkompetent teilhaben!“ der LAG Lokale Medienarbeit NRW e. 
 
 </blockquote>
 
-Abbildung 1: Visualisierung und Abgrenzung des Begriffs „Inklusion“; Autor: Robert Aehnelt, Quelle: [http://commons.wikimedia.org/wiki/File:Schritte\_zur\_Inklusion.svg](http://commons.wikimedia.org/wiki/File:Schritte_zur_Inklusion.svg)
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/38_Diversitaet_und_Spaltung/img/01_Visualisierung_und_Abgrenzung_des_Begriffs_Inklusion_Autor_Robert_Aehnelt_Quelle.jpg" alt="Abb. 1: Visualisierung und Abgrenzung des Begriffs „Inklusion“; Autor: Robert Aehnelt, Quelle: [http://commons.wikimedia.org/wiki/File:Schritte\_zur\_Inklusion.svg](http://commons.wikimedia.org/wiki/File:Schritte_zur_Inklusion.svg)">
+  <figcaption>Abb. 1: Visualisierung und Abgrenzung des Begriffs „Inklusion“; Autor: Robert Aehnelt, Quelle: [http://commons.wikimedia.org/wiki/File:Schritte\_zur\_Inklusion.svg](http://commons.wikimedia.org/wiki/File:Schritte_zur_Inklusion.svg)</figcaption>
+</figure></center>
 
-![](img/abb1.jpg)
 
 ## Beispiel: Zugang und Barrierefreiheit
 

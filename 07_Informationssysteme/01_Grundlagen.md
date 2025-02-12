@@ -36,7 +36,7 @@ Tab.1: Informationen, die von Informationssystemen zum Lehren und Lernen bereitg
 Zum selbstständigen Lernen können Lernmaterialien auf CD, auf einem USB-Stick oder einem anderen Datenträger bereitgestellt werden. Lehrende und Lernende müssen sich dann keine Gedanken über Internetverbindung und Netzwerkarchitektur machen, haben aber auch keine Möglichkeit, miteinander zu kommunizieren oder Gruppenarbeiten durchzuführen. Soll mehr als ein/e Benutzer/in mit dem Informationssystem arbeiten, folgt unweigerlich die Frage, wie die Zusammenarbeit realisiert werden kann. Genauer: Wie kann man erreichen, dass alle Benutzer/innen Zugriff auf das Informationssystem und die darin befindlichen Daten haben? Ein erster und sehr einfacher Ansatz wäre es, alle Computer der Nutzer/innen miteinander zu verbinden. In einem solchen *Peer-to-Peer-Netzwerk* wären alle Nutzer/innen direkt miteinander gleichranging vernetzt und tauschen Informationen untereinander aus (Stein, 2008, 489).
 
 <center><figure>
-  <img src="img/1_PeertoPeerNetzwerk.png" alt="Abb. 1: Peer-to-Peer-Netzwerk">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/01_PeertoPeerNetzwerk.png" alt="Abb. 1: Peer-to-Peer-Netzwerk">
   <figcaption>Abb. 1: Peer-to-Peer-Netzwerk</figcaption>
 </figure></center>
 
@@ -57,7 +57,7 @@ Das Problem hierbei ist, sicherzustellen, dass auch alle Informationen zu jeder 
 Aus diesem Grund sind die meisten Informationssysteme *Client-Server-Anwendungen*. Durch die Installation des Informationssystems auf einem zentralen *Server* ermöglicht man es allen Nutzerinnen und Nutzern, gemeinsam auf die dort gespeicherten Informationen und Dienste zugreifen zu können. Da die Arbeit mit dem Informationssystem mittlerweile häufig über den Internetbrowser erfolgt und selten eine spezielle Zugriffssoftware benötigt wird, benötigen die Anwender/innen-PCs (*Clients*) oft lediglich einen Zugang zum (globalen) Inter- bzw. firmeneigenen Intranet (Niegemann et al., 2008, 458f.).
 
 <center><figure>
-  <img src="img/2_ClientServerArchitektur.jpg" alt="Abb. 2: Client-Server­Architektur">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/02_ClientServerArchitektur.jpg" alt="Abb. 2: Client-Server­Architektur">
   <figcaption>Abb. 2: Client-Server­Architektur</figcaption>
 </figure></center>
 

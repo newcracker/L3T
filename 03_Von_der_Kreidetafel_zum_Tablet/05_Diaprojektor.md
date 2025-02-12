@@ -6,7 +6,7 @@ Der zu der Familie der Durchlichtprojektoren (Diaskope) zählende Diaprojektor w
 Grundsätzlich unterscheidet man zwischen nichtautomatischen, halb- und vollautomatischen Diaprojektoren. Nichtautomatische Projektoren müssen von Hand bedient werden, während halb- und vollautomatische Projektoren mit Diamagazinen ausgestattet sind und mittels Fernbedienung bedient werden. Der Aufwand und die Kosten von analogen Bildern stehen heutzutage in keinem Vergleich zur digitalen Produktion. Die Herstellung wird nur noch von Spezialistinnen und Spezialisten zu entsprechenden Kosten durchgeführt.
 
 <center><figure>
-  <img src="img/3_Diaprojektor.jpg" alt="Abb. 3: Diaprojektor">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/03_Diaprojektor.jpg" alt="Abb. 3: Diaprojektor">
   <figcaption>Abb. 3: Diaprojektor</figcaption>
 </figure></center>
 

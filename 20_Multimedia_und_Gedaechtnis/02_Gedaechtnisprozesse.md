@@ -5,9 +5,11 @@ Unser Gedächtnis unterteilt sich in verschiedene Bereiche. Prinzipiell ist es v
 
 Wir haben ein sensorisches Gedächtnis, ein Arbeitsgedächtnis und ein Langzeitgedächtnis. Dabei spricht man auch vom **Drei-Speicher-Modell** (Zimbardo &amp; Gerrig, 2004, siehe Abbildung 1).
 
-Abbildung 1: Das Drei-Speicher-Modell des menschlichen Gedächtnisses
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/20_Multimedia_und_Gedaechtnis/img/01_Das_DreiSpeicherModell_des_menschlichen_Gedächtnisses.jpg" alt="Abb. 1: Das Drei-Speicher-Modell des menschlichen Gedächtnisses">
+  <figcaption>Abb. 1: Das Drei-Speicher-Modell des menschlichen Gedächtnisses</figcaption>
+</figure></center>
 
-![](img/9573554013_7d9fa34b6f_b.jpg)
 
 Informationen aus der Umwelt nehmen wir durch unsere Sinnesorgane auf. Hierbei spielen die Wahrnehmung dieser Informationen und Aufmerksamkeitsprozesse eine wichtige Rolle. Diese Informationen gelangen in einen kurzfristigen sensorischen Speicher, ins sogenannte **sensorische Gedächtnis**, welches die physikalischen Reize von außen kurzfristig behält. Wird diesen Informationen keine Aufmerksamkeit geschenkt, so gehen sie verloren. Da man davon ausgeht, dass wir sinnesmodalitätsspezifische Gedächtnissysteme haben (Baddeley, 2003), unterscheidet man zwischen ikonischem (visuellem) und echoischem (auditivem) Gedächtnis.
 

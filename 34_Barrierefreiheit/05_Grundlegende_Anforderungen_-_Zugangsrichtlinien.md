@@ -9,7 +9,7 @@ Die Barrierefreiheit von Lehr- und Lerntechnologien wird von vier Aspekten wesen
 - Die korrekte Verwendung der vom World Wide Web Consortium (W3C) entwickelten **technischen Spezifikationen** wie zum Beispiel HTML, XHTML, XML, SMIL, SVG, CSS und RDF. Die Vermeidung proprietärer Technologien wird in der Tendenz die Zugänglichkeit von Seiten verbessern.
 
 <center><figure>
-  <img src="img/2_Zugangsrichtlinien_und_technische_Spezifikationen.jpg" alt="Abb. 2: Zugangsrichtlinien und technische Spezifikationen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/34_Barrierefreiheit/img/02_Zugangsrichtlinien_und_technische_Spezifikationen.jpg" alt="Abb. 2: Zugangsrichtlinien und technische Spezifikationen">
   <figcaption>Abb. 2: Zugangsrichtlinien und technische Spezifikationen</figcaption>
 </figure></center>
 

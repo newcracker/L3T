@@ -4,7 +4,7 @@
 Materialien für das Lernen am Computer können schon mit einfachen HTML-Editoren und Entwicklungsumgebungen erstellt werden. Die Lehrenden verfügen aber oft nicht über die nötigen (Programmier-)Kenntnisse, um mit diesen einfachen und unspezialisierten Werkzeugen ansprechende Lernmaterialien zu erstellen. Autorinnen- und Autorenwerkzeuge wurden daher speziell dafür entwickelt, um die Anwender/innen bei der multimedialen und didaktischen Aufbereitung der Lerninhalte zu unterstützen (Seufert &amp; Mayr, 2002).
 
 <center><figure>
-  <img src="img/3_In_Autorinnen_und_Autorenwerkzeugen_werden_verschiedene_Medien_zu_Lernmaterialie.jpg" alt="Abb. 3: In Autorinnen- und Autorenwerkzeugen werden verschiedene Medien zu Lernmaterialien aufbereitet">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/03_In_Autorinnen_und_Autorenwerkzeugen_werden_verschiedene_Medien_zu_Lernmaterialie.jpg" alt="Abb. 3: In Autorinnen- und Autorenwerkzeugen werden verschiedene Medien zu Lernmaterialien aufbereitet">
   <figcaption>Abb. 3: In Autorinnen- und Autorenwerkzeugen werden verschiedene Medien zu Lernmaterialien aufbereitet</figcaption>
 </figure></center>
 
@@ -22,7 +22,7 @@ Seitenumbruch
 Die Möglichkeiten zur *Überprüfung des Lernerfolgs* spielen für viele Autorinnen und Autoren eine große Rolle. Hier soll es möglich sein, in wenigen Schritten Fragen zu erstellen, die automatisch ausgewertet werden können. Die Verfügbarkeit verschiedener Fragetypen wie beispielsweise Multiple- und Single-Choice, Zuordnungsfragen oder Lückentexte ist dabei ebenso wichtig wie die Möglichkeit, den Lernenden je nach Ergebnis ein differenziertes Feedback geben zu können.
 
 <center><figure>
-  <img src="img/4_Oberfläche_eines_Autorinnen_und_Autorenwerkzeugs_am_Beispiel_von_Lectora_Quelle_.png" alt="Abb. 4: Oberfläche eines Autorinnen- und Autorenwerkzeugs am Beispiel von Lectora. Quelle: chemmedia AG">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/04_Oberfläche_eines_Autorinnen_und_Autorenwerkzeugs_am_Beispiel_von_Lectora_Quelle_.png" alt="Abb. 4: Oberfläche eines Autorinnen- und Autorenwerkzeugs am Beispiel von Lectora. Quelle: chemmedia AG">
   <figcaption>Abb. 4: Oberfläche eines Autorinnen- und Autorenwerkzeugs am Beispiel von Lectora. Quelle: chemmedia AG</figcaption>
 </figure></center>
 
@@ -61,7 +61,7 @@ Bei der Zusammenarbeit mehrerer Autorinnen und Autoren und anderen steigenden An
 - *Workflow-Unterstützung*: Zur Koordination mehrerer Autorinnen und Autoren sollte die Verteilung der Aufgaben und die Festlegung der Verantwortlichkeiten unterstützt werden. Hierzu gehören ein Rollenmanagement, über das die Befugnisse für die Lerninhalte geregelt werden können, und die Möglichkeit, Notizen zur fachlichen und didaktischen Qualitätssicherung zu hinterlegen.
 
 <center><figure>
-  <img src="img/5_Verteilung_in_unterschiedlichen_Formaten.png" alt="Abb. 5: Verteilung in unterschiedlichen Formaten">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/05_Verteilung_in_unterschiedlichen_Formaten.png" alt="Abb. 5: Verteilung in unterschiedlichen Formaten">
   <figcaption>Abb. 5: Verteilung in unterschiedlichen Formaten</figcaption>
 </figure></center>
 

@@ -24,7 +24,7 @@ Ist dieses wirtschaftliche Konzept für Technologieeinführungen ohne Weiteres a
 Ein bekanntes Modell zur Beschreibung des Standes von Technologieeinführungen ist der Hype-Zyklus von Gartner. Gartner ist ein Beratungsunternehmen, das sich unter anderem auf die Bewertung und Prognose von technologischen Trends spezialisiert hat. Es hat dabei den Hype-Zyklus als typischen Prozess bei der Einführung neuer Technologien entwickelt (siehe Abbildung 1).
 
 <center><figure>
-  <img src="img/1_HypeZyklus_nach_Gartner.jpg" alt="Abb. 1: Hype-Zyklus nach Gartner">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/36_Zukunftsforschung/img/01_HypeZyklus_nach_Gartner.jpg" alt="Abb. 1: Hype-Zyklus nach Gartner">
   <figcaption>Abb. 1: Hype-Zyklus nach Gartner</figcaption>
 </figure></center>
 

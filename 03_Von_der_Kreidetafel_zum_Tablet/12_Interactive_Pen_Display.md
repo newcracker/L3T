@@ -6,7 +6,7 @@ Ein Interactive Pen Display ist ein berührungsempfindlicher Bildschirm, auf dem
 Im Gegensatz zur Kreidetafel bieten Interactive Pen Displays durch den Anschluss an einen Computer digitalen Inhalt. Man kann alles speichern, bearbeiten, löschen und kopieren. Der Schreibaufwand, den Lehrende und Studierende haben, ist sowohl bei der Tafel als auch bei den Interactive Pen Displays der gleiche.
 
 <center><figure>
-  <img src="img/9_Interactive_Pen_Display.jpg" alt="Abb. 9: Interactive Pen Display">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/09_Interactive_Pen_Display.jpg" alt="Abb. 9: Interactive Pen Display">
   <figcaption>Abb. 9: Interactive Pen Display</figcaption>
 </figure></center>
 

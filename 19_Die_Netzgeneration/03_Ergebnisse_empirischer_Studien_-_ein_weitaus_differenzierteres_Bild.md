@@ -10,19 +10,19 @@ Die ARD/ZDF-Onlinestudie 2009 zeigt zwar, dass sich das Mediennutzungsverhalten 
 Es zeigen sich deutliche inhaltliche Unterschiede bei der Nutzung von Online-Informationsangeboten (zum Beispiel Nachrichtendienste: „Zielstrebige Trendsetter“ 51 % gegenüber „Junge Wilden“ 37%), aber auch Differenzen bei der aktiven Nutzung bestimmter Online-Anwendungen wie zum Beispiel beruflicher Netzwerke (Abb. 3).
 
 <center><figure>
-  <img src="img/1_Anteil_der_Internetnutzenden_unter_den_6_bis_17Jährigen_in_der_EU.jpg" alt="Abb. 1: Anteil der Internetnutzenden unter den 6- bis 17-Jährigen in der EU">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/01_Anteil_der_Internetnutzenden_unter_den_6_bis_17Jährigen_in_der_EU.jpg" alt="Abb. 1: Anteil der Internetnutzenden unter den 6- bis 17-Jährigen in der EU">
   <figcaption>Abb. 1: Anteil der Internetnutzenden unter den 6- bis 17-Jährigen in der EU</figcaption>
 </figure></center>
 
 
 <center><figure>
-  <img src="img/2_Inhaltliche_Verteilung_der_Internetnutzung_von_12_bis_19Jährigen_in_Deutschland_.jpg" alt="Abb. 2: Inhaltliche Verteilung der Internetnutzung von 12- bis 19-Jährigen in Deutschland in Prozent (N=1.173)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/02_Inhaltliche_Verteilung_der_Internetnutzung_von_12_bis_19Jährigen_in_Deutschland_.jpg" alt="Abb. 2: Inhaltliche Verteilung der Internetnutzung von 12- bis 19-Jährigen in Deutschland in Prozent (N=1.173)">
   <figcaption>Abb. 2: Inhaltliche Verteilung der Internetnutzung von 12- bis 19-Jährigen in Deutschland in Prozent (N=1.173)</figcaption>
 </figure></center>
 
 
 <center><figure>
-  <img src="img/3_Aktive_Nutzung_von_Onlineanwendungen_von_Internetnutzenden_ab_14_Jahre_in_Deutsc.jpg" alt="Abb. 3: Aktive Nutzung von Onlineanwendungen von Internetnutzenden ab 14 Jahre in Deutschland">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/03_Aktive_Nutzung_von_Onlineanwendungen_von_Internetnutzenden_ab_14_Jahre_in_Deutsc.jpg" alt="Abb. 3: Aktive Nutzung von Onlineanwendungen von Internetnutzenden ab 14 Jahre in Deutschland">
   <figcaption>Abb. 3: Aktive Nutzung von Onlineanwendungen von Internetnutzenden ab 14 Jahre in Deutschland</figcaption>
 </figure></center>
 
@@ -30,7 +30,7 @@ Es zeigen sich deutliche inhaltliche Unterschiede bei der Nutzung von Online-Inf
 Oehmichen und Schröter (2009, 449) fassen die Unterschiede zwischen den Gruppierungen auf der Basis der ARD/ZDF-Onlinestudie wie folgt zusammen: „Dem eher bildmedien-, spaß- und unterhaltungsorientierten Typus des Jungen Wilden steht der rationaler gestimmte, erheblich breiter interessierte MedienNutzerTyp des Zielstrebigen Trendsetters gegenüber. Zugespitzt könnte man dem eher passiv-konsumistischen Mediennutzungsstil der Jungen Wilden einen aktiveren, Mitgestaltung einschließenden Stil der Zielstrebigen Trendsetter gegenüber stellen“.
 
 <center><figure>
-  <img src="img/4_JIMStudie_2012__Soziodemografie.jpg" alt="Abb. 4: JIM-Studie 2012 - Soziodemografie">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/19_Die_Netzgeneration/img/04_JIMStudie_2012__Soziodemografie.jpg" alt="Abb. 4: JIM-Studie 2012 - Soziodemografie">
   <figcaption>Abb. 4: JIM-Studie 2012 - Soziodemografie</figcaption>
 </figure></center>
 

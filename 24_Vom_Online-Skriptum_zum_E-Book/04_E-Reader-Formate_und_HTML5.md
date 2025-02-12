@@ -6,7 +6,7 @@ Seit Amazon im Herbst 2007 sein E-Reader-Endgerät namens Kindle in den USA hera
 Der E-Book-Markt boomt hinsichtlich der Absätze (Kirchner &amp; Robrecht, 2009) und der Vielzahl an Endgeräten sowie Anwendungen. Zudem gibt es eine noch überschaubare Menge an verschiedenen Formaten (einige davon sind auch proprietär). Das bedeutendste Format ist das sogenannte EPUB-Format (electronic publication).
 
 <center><figure>
-  <img src="img/1_Icon_für_EPUBFormat.png" alt="Abb. 1: Icon für EPUB-Format">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/24_Vom_Online-Skriptum_zum_E-Book/img/01_Icon_für_EPUBFormat.png" alt="Abb. 1: Icon für EPUB-Format">
   <figcaption>Abb. 1: Icon für EPUB-Format</figcaption>
 </figure></center>
 
@@ -36,7 +36,7 @@ Erstellen Sie zu einem Thema Ihrer Wahl mit Hilfe einer freien Software ein kurz
 </blockquote> An der Technischen Universität Graz wird seit 2007 ein eigenes Autorinnen- und Autorensystem zur Erstellung von Online-Inhalten entwickelt, der ABC-Manager (http://ebook.tugraz.at), welches sich an didaktischen Richtlinien und Erkenntnissen zur Aufbereitung von digitalen Inhalten orientiert (Weitl et. al., 2002; Weitl et. al., 2005). Beim ABC-Manager werden Inhalte in einzelnen Seiten (Screens) von fixer Größe erstellt und in sogenannten Screen-Pools unabhängig von ihrer späteren Verwendung in einem E-Book gespeichert. Durch Zuordnung eines Screens zu einer Kategorie können im späteren E-Book nur Screens einer gewählten Kategorie selektiv angezeigt werden, wodurch Skript- und Präsentationsscreens in einem E-Book realisiert werden können. Bei der Erstellung eines E-Books werden die im Pool abgespeicherten Screens beliebig aneinander gereiht, gemischt und abgespeichert. Screens können so mehrfach wiederverwendet und E-Books schnell aus vorhandenen Inhalten erstellt werden. Im Zusammenhang mit der Lernplattform des TU Graz TeachCenters, in welcher die E-Books des ABC-Managers veröffentlicht werden, bilden E-Books der TU Graz einen weiteren Baustein in der Strategie des freien Zugangs und der Verbreitung von Bildungsinhalten, von „Open Educational Resources“. Die Grafik veranschaulicht die Möglichkeiten, mit denen Lehrende an der TU Graz E-Books erstellen und im TeachCenter bzw. in den verschiedenen E-Reader Ausgabeformaten veröffentlichen können.
 
 <center><figure>
-  <img src="img/2_Ablaufprozesse_beim_Erstellen_eines_EBooks.png" alt="Abb. 2: Ablaufprozesse beim Erstellen eines E-Books">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/24_Vom_Online-Skriptum_zum_E-Book/img/02_Ablaufprozesse_beim_Erstellen_eines_EBooks.png" alt="Abb. 2: Ablaufprozesse beim Erstellen eines E-Books">
   <figcaption>Abb. 2: Ablaufprozesse beim Erstellen eines E-Books</figcaption>
 </figure></center>
 

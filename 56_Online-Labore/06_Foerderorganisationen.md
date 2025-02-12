@@ -14,7 +14,7 @@ Werden an Ihrer Universität Online-Labore in der Lehre eingesetzt? Recherchiere
 </blockquote>
 
 <center><figure>
-  <img src="img/3_Laborverbund_mittels_iLab_Service_Broker.jpg" alt="Abb. 3: Laborverbund mittels iLab Service Broker">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/56_Online-Labore/img/03_Laborverbund_mittels_iLab_Service_Broker.jpg" alt="Abb. 3: Laborverbund mittels iLab Service Broker">
   <figcaption>Abb. 3: Laborverbund mittels iLab Service Broker</figcaption>
 </figure></center>
 

@@ -8,7 +8,7 @@ Wissen aus der Managementperspektive zu betrachten, gibt einen eingeschränkten 
 In beiden Fällen zielt WM darauf ab, Geschäftsziele systematisch zu unterstützen. WM dient also der Problemlösung ökonomischer Aufgaben wie beispielsweise der Optimierung der Ressourcenallokation (welche sich mit der Frage „Wovon benötige ich wie viel an welcher Stelle zu welchem Zeitpunkt?“ beschäftigt) oder der Generierung von Wettbewerbsvorteilen. Wie wichtig WM für die deutsche Wirtschaft ist, stellen Pawlowsky et al. (2010) im Rahmen der Studie ‚Wettbewerbsfaktor Wissensmanagement 2010‘ deutlich heraus. Die konkrete Aufgabe des WM ist es nach Reinmann und Eppler (2008) dabei ein „Unternehmen wissensbasiert zu gestalten oder organisationale Lernprozesse so zu steuern, dass man die Ressource Wissen optimal nutzen kann“ (Reinmann &amp; Eppler, 2008, 27.). Auch Probst et al. (2006) halten fest: „Wissensmanagement bildet ein integriertes Interventionskonzept, dass sich mit den Möglichkeiten der Gestaltung der organisatorischen Wissensbasis befasst“ (Probst et al., 2006, 23).
 
 <center><figure>
-  <img src="img/1_Informelles_Lernen_im_Spannungsfeld_des_betrieblichen_Wissensmanagements.jpg" alt="Abb. 1: Informelles Lernen im Spannungsfeld des betrieblichen Wissensmanagements">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/42_Wissensmanagement/img/01_Informelles_Lernen_im_Spannungsfeld_des_betrieblichen_Wissensmanagements.jpg" alt="Abb. 1: Informelles Lernen im Spannungsfeld des betrieblichen Wissensmanagements">
   <figcaption>Abb. 1: Informelles Lernen im Spannungsfeld des betrieblichen Wissensmanagements</figcaption>
 </figure></center>
 
@@ -32,7 +32,7 @@ Diese Selbstlernkompetenz könnte man auch als das Vorhandensein eines Sets best
 Darum haben wir uns entschlossen die wichtigsten Begriffe nachfolgend als Tag-Cloud abzubilden und die Begriffserläuterung auf eine Google-Page auszulagern. Dies ermöglicht zugleich eine vielfältige Interaktion für die Lesenden und ermöglicht weitere eigene informelle Lernerfahrungen.
 
 <center><figure>
-  <img src="img/2_Begriffslandschaft_des_Wissensmanagements.jpg" alt="Abb. 2: Begriffslandschaft des Wissensmanagements">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/42_Wissensmanagement/img/02_Begriffslandschaft_des_Wissensmanagements.jpg" alt="Abb. 2: Begriffslandschaft des Wissensmanagements">
   <figcaption>Abb. 2: Begriffslandschaft des Wissensmanagements</figcaption>
 </figure></center>
 

@@ -23,7 +23,7 @@ Die bedeutendsten Standardisierungsgremien, die Normen für Informationssysteme 
 Im Bereich Lernen und Lehren sind verschiedene Standards relevant, die in Abbildung 1 dargestellt sind und nachfolgend beschrieben werden.
 
 <center><figure>
-  <img src="img/1_Überblick_über_Standards_für_Lehren_und_Lernen_mit_Informationssystemen.jpg" alt="Abb. 1: Überblick über Standards für Lehren und Lernen mit Informationssystemen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/10_Standards_fuer_Lehr-_und_Lerntechnologien/img/01_Überblick_über_Standards_für_Lehren_und_Lernen_mit_Informationssystemen.jpg" alt="Abb. 1: Überblick über Standards für Lehren und Lernen mit Informationssystemen">
   <figcaption>Abb. 1: Überblick über Standards für Lehren und Lernen mit Informationssystemen</figcaption>
 </figure></center>
 

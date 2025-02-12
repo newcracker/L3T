@@ -4,7 +4,7 @@
 Betrachtet man den Computer als Werkzeug, so lassen sich verschiedene Nutzungskategorien festmachen (Köhler, 2004; Weitzel, 2004; Spannagel, 2007). Diese Kategorien sind in Abbildung 1 dargestellt. Sie sind nicht trennscharf; so können Wikis beispielsweise der Informationssuche dienen (Recherchewerkzeug) oder der textbasierten Zusammenarbeit (Kollaborationswerkzeug).
 
 <center><figure>
-  <img src="img/1_Funktionen_des_Computers_mit_exemplarischen_Aspekten.png" alt="Abb. 1: Funktionen des Computers mit exemplarischen Aspekten">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/57_Mehr_als_eine_Rechenmaschine/img/01_Funktionen_des_Computers_mit_exemplarischen_Aspekten.png" alt="Abb. 1: Funktionen des Computers mit exemplarischen Aspekten">
   <figcaption>Abb. 1: Funktionen des Computers mit exemplarischen Aspekten</figcaption>
 </figure></center>
 

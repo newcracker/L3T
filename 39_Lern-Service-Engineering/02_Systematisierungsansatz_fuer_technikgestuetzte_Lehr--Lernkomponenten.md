@@ -17,7 +17,7 @@ Im Folgenden werden die **Lehr-/Lernkomponenten** entsprechend anhand zweier Dim
 - Zum anderen nach dem im Leistungserstellungsprozess benötigen Ressourceneinsatz und der Qualität der so erstellen Leistungsangebote: Werden mit großem Aufwand hochwertige Inhalte erstellt, oder eher kurzfristig weniger aufwändige Inhalte?
 
 <center><figure>
-  <img src="img/1_Systematisierungsansatz_von_technikgestützten_Lerninhaltsarten_Gersch_et_al_2010.jpg" alt="Abb. 1: Systematisierungsansatz von technikgestützten Lerninhaltsarten (Gersch et al., 2010)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/39_Lern-Service-Engineering/img/01_Systematisierungsansatz_von_technikgestützten_Lerninhaltsarten_Gersch_et_al_2010.jpg" alt="Abb. 1: Systematisierungsansatz von technikgestützten Lerninhaltsarten (Gersch et al., 2010)">
   <figcaption>Abb. 1: Systematisierungsansatz von technikgestützten Lerninhaltsarten (Gersch et al., 2010)</figcaption>
 </figure></center>
 

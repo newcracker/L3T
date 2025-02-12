@@ -40,7 +40,7 @@ Der an der TU Graz entwickelte Einmal-Eins-Trainer http://einmaleins.tugraz.at) 
 Der Algorithmus erkennt, wenn über eine längere Periode falsche Lösungen eingegeben werden und stellt dies in der Farbe rot dar, gelb bedeutet, dass in letzter Zeit vermehrt Fehler aufgetreten sind, und grün, dass die einzelnen Lernenden vorankommen, Lernzuwachs verzeichnen. Also auch bei der Signalfarbe grün dürfen Fehler gemacht werden, aber insgesamt ist ein Lernzuwachs zu verzeichnen. Der Einmal-Eins-Trainer verfügt mit Stand August 2013 über mehr als 250000 Einträge von Rechnungen in der Datenbank und ist insofern weltweit einzigartig. Als Ergebnis zeigt sich, dass zum Beispiel die Rechnungen 6\*8 und 7\*8 eine höhere Fehlerrate aufweisen als die umgekehrten Operation (8\*6 und 8\*7). Eine mögliche Erklärung ist, dass in der Schulklasse zwar die 6er-Reihe gelernt und automatisiert wird, die Umkehrung aber sehr lange als eigenständige Rechnung der später gelernten 8er-Reihe betrachtet wird.
 
 <center><figure>
-  <img src="img/1_EinmalEinsTrainer_httpeinmaleinstugrazathttpeinmaleinstugrazat__Übersicht_über_e.png" alt="Abb. 1: Einmal-Eins-Trainer ([http://einmaleins.tugraz.at](http://einmaleins.tugraz.at)) - Übersicht über eine Klasse (anonymisiert)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/41_Das_Gesammelte_interpretieren/img/01_EinmalEinsTrainer_httpeinmaleinstugrazathttpeinmaleinstugrazat__Übersicht_über_e.png" alt="Abb. 1: Einmal-Eins-Trainer ([http://einmaleins.tugraz.at](http://einmaleins.tugraz.at)) - Übersicht über eine Klasse (anonymisiert)">
   <figcaption>Abb. 1: Einmal-Eins-Trainer ([http://einmaleins.tugraz.at](http://einmaleins.tugraz.at)) - Übersicht über eine Klasse (anonymisiert)</figcaption>
 </figure></center>
 

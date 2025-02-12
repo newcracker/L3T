@@ -16,7 +16,7 @@ Deshalb sind online zur Verfügung gestellte Lernmaterialien ausgesprochen sorgf
 </blockquote>
 
 <center><figure>
-  <img src="img/1_Beispiel_einer_Strukturierung_Der_Aufbau_dieses_Kapitels.png" alt="Abb. 1: Beispiel einer Strukturierung: Der Aufbau dieses Kapitels">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/09_Multimediale_und_interaktive_Materialien/img/01_Beispiel_einer_Strukturierung_Der_Aufbau_dieses_Kapitels.png" alt="Abb. 1: Beispiel einer Strukturierung: Der Aufbau dieses Kapitels">
   <figcaption>Abb. 1: Beispiel einer Strukturierung: Der Aufbau dieses Kapitels</figcaption>
 </figure></center>
 

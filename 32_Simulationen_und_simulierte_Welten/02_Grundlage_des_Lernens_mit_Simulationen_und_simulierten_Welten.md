@@ -50,9 +50,11 @@ Das Präsenzerleben der Lernenden in 3D-Umgebungen hängt im Wesentlichen mit de
 
 Ausschlaggebend beim Lernen mit Simulationen und simulierten Welten ist die stete Interaktion mit dem Lernstoff, aber auch mit anderen Nutzerinnen und Nutzer, Subjekten, Inhalten und Kontexten. Gelernt wird in realitätsgetreu nachgebildeten Umgebungen und oft mit realen Eingabegeräten. Burdea und Coiffet (2003, 3) sprechen von den ,drei I‘ des Lernens mit virtuellen Realitäten: Imagination, Immersion und Interaktion. Imagination beschreibt die Vorstellungskraft und das Einbildungsvermögen der Lernenden, sich in eine Simulation hineinzuversetzen. Durch Echtzeitvisualisierungen und -reaktionen des Systems erhalten die Nutzenden sofortiges Feedback auf ihre Eingaben (Interaktion). Die Informationsaufnahme erfolgt zudem multimodal (siehe Abbildung 1), das heißt, mit mehreren Sinnen. Dadurch wird ein Gefühl der Immersion erzeugt, also des direkten Einbezogenseins in der simulierten Welt.
 
-Abb.1: Multimediale Informationsaufnahme
+<center><figure>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/32_Simulationen_und_simulierte_Welten/img/01_Multimediale_Informationsaufnahme.jpg" alt="Abb. 1: Multimediale Informationsaufnahme">
+  <figcaption>Abb. 1: Multimediale Informationsaufnahme</figcaption>
+</figure></center>
 
-![](img/9553805787_f5dd077e1e_o.jpg)
 
 Wissen wird in diesen Lernumgebungen nicht vorgegeben, sondern explorativ erarbeitet. Dieses entdeckende Lernen führt zu einer Erweiterung des persönlichen Erfahrungsraumes sowie der Generierung und Überprüfung von Hypothesen. Allerdings können nach Hofmann (2002, 2) die Erkenntnisse aus diesen Lernprozessen nur dann auf die Realität übertragen werden, wenn die eingebauten Komponenten so wahrheitsgetreu wie möglich simuliert und wahrgenommen werden. Studien zeigen, dass das Lernen mit Simulationen motivierender und lernförderlicher ist als rein textorientierte Lernformen. Diese Lernweise resultiert jedoch nicht per se in einer höheren Qualität beziehungsweise Quantität der kognitiven Verarbeitung und des Fertigkeitserwerbs. Vielmehr fühlen sich Nutzer/innen ohne Anleitung leichter überfordert als bei textorientierten Lernformen und verlieren die Lust am Lernen mit der Simulation. Um dies zu vermeiden sind unterstützende Maßnahmen notwendig:
 
@@ -104,7 +106,7 @@ Fahrzeuge und Maschinen sind oftmals von mehreren Personen zu bedienen. Doch auc
 </blockquote>
 
 <center><figure>
-  <img src="img/2_Systemübersicht_eines_virtuellen_Teamtrainingssystems_und_Hörsaal.jpg" alt="Abb. 2: Systemübersicht eines virtuellen Teamtrainingssystems und Hörsaal">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/32_Simulationen_und_simulierte_Welten/img/02_Systemübersicht_eines_virtuellen_Teamtrainingssystems_und_Hörsaal.jpg" alt="Abb. 2: Systemübersicht eines virtuellen Teamtrainingssystems und Hörsaal">
   <figcaption>Abb. 2: Systemübersicht eines virtuellen Teamtrainingssystems und Hörsaal</figcaption>
 </figure></center>
 
@@ -112,7 +114,7 @@ Fahrzeuge und Maschinen sind oftmals von mehreren Personen zu bedienen. Doch auc
 Die erste Anwendung, die auf dem Teamtrainer installiert wurde, ist das Brücken- und Fährensystem ,Amphibie M3‘ der Bundeswehr. Dieses muss aus mindestens zwei Fahrzeugen bestehen, um Fahrzeuge über ein Gewässer überzusetzen. Dabei ist das Zusammenkuppeln von zwei oder mehr Fahrzeugen zum Beispiel stark von Strömungsverhältnissen und dem Wetter (Windrichtung und -stärke, Regen, Schnee, Tag, Nacht etc.) abhängig. Diese Parameter werden in der Simulation nachgebildet, so dass alle auch in der Realität vorkommenden Situationen geübt werden können. In welchem Szenario sich die Lerngruppe befindet, wird vom Trainer gesteuert, der alle Parameter selbst verändern kann. Lernende sehen dabei alle Brückensysteme jeweils aus ihrer eigenen Perspektive (siehe Abbildung 3). </blockquote>
 
 <center><figure>
-  <img src="img/3_Blick_auf_die_Amphibie_in_der_virtuellen_Welt.jpg" alt="Abb. 3: Blick auf die Amphibie in der virtuellen Welt">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/32_Simulationen_und_simulierte_Welten/img/03_Blick_auf_die_Amphibie_in_der_virtuellen_Welt.jpg" alt="Abb. 3: Blick auf die Amphibie in der virtuellen Welt">
   <figcaption>Abb. 3: Blick auf die Amphibie in der virtuellen Welt</figcaption>
 </figure></center>
 

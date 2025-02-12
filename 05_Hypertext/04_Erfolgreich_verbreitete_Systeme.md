@@ -12,7 +12,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 1987 erschien **Bill Atkinsons** HyperCard. Schon vorher gab es gespannte Erwartungen. Conklin (1987) gab in seinem historischen Überblick über Hypertext-Systeme sogar das Gerücht weiter: „As this article goes to press, there is news that Apple will soon have its own hypertext system, called HyperCards“ (S. 32). Man darf wohl mit Recht behaupten, dass keine andere Software, schon gar keine andere Programmierumgebung, einen derart bedeutsamen Einfluss auf den Einsatz von Computern gehabt hat wie HyperCard. In der Literatur speziell zu Hypertext wird die historische Bedeutung von HyperCard immer wieder betont, obwohl Landow (1992a) sicher Recht hat, wenn er HyperCard und Guide nur als „first approximations of hypertext“ bezeichnet, da die eigentlichen Merkmale von Hypertext wie die Links in Form von durchsichtigen Schaltflächen (Bedienknöpfen) über den Text gelegt werden mussten. 1989 realisierte David Jonassen in HyperCard eine Hypertext-Umgebung über das Thema Hypertext.
 
 <center><figure>
-  <img src="img/7_Hypertext_realisiert_unter_HyperCard_Quelle_Beispiel_aus_Jonassen_1989.jpg" alt="Abb. 7: Hypertext realisiert unter HyperCard. Quelle: Beispiel aus Jonassen, 1989.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/05_Hypertext/img/07_Hypertext_realisiert_unter_HyperCard_Quelle_Beispiel_aus_Jonassen_1989.jpg" alt="Abb. 7: Hypertext realisiert unter HyperCard. Quelle: Beispiel aus Jonassen, 1989.">
   <figcaption>Abb. 7: Hypertext realisiert unter HyperCard. Quelle: Beispiel aus Jonassen, 1989.</figcaption>
 </figure></center>
 

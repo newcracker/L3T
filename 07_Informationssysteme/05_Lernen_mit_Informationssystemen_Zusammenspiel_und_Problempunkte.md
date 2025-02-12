@@ -4,7 +4,7 @@
 Bei der Auswahl von Informationssystemen zum Lernen und Lehren müssen diese nicht nur einzeln einer Reihe von Anforderungen genügen, es sollte auch darauf geachtet werden, dass sie problemlos zusammen eingesetzt werden können. So sollte sich das Datenformat, das mit dem Autorentool exportiert wird, problemlos in das Lernmanagementsystem integrieren lassen. Inhalte dürfen nicht verzerrt dargestellt werden, nur weil das LMS eine bestimmte Fenstergröße dafür vorsieht. Ebenso sollte die Bewertung von Tests, die mit einem Autorenwerkzeug erstellt und beispielsweise als SCORM-Paket exportiert wurden, auch von den Bewertungswerkzeugen des Lernmanagementsystems verarbeitet werden.
 
 <center><figure>
-  <img src="img/7_Zusammenspiel_von_Autorenystemen_und_Lernmanagementsystem.png" alt="Abb. 7: Zusammenspiel von Autorenystemen und Lernmanagementsystem">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/07_Zusammenspiel_von_Autorenystemen_und_Lernmanagementsystem.png" alt="Abb. 7: Zusammenspiel von Autorenystemen und Lernmanagementsystem">
   <figcaption>Abb. 7: Zusammenspiel von Autorenystemen und Lernmanagementsystem</figcaption>
 </figure></center>
 
@@ -18,7 +18,7 @@ An der TU Graz werden in etwa 20.000 Nutzerinnen und Nutzer verwaltet, die einen
 Das TeachCenter der TU Graz verwendet, wie die Mehrzahl der anderen Lernmanagementsysteme auch, eine Client-Server Architektur.
 
 <center><figure>
-  <img src="img/8_Screenshot_einer_Kursseite_im_TeachCenter.png" alt="Abb. 8: Screenshot einer Kursseite im TeachCenter">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/08_Screenshot_einer_Kursseite_im_TeachCenter.png" alt="Abb. 8: Screenshot einer Kursseite im TeachCenter">
   <figcaption>Abb. 8: Screenshot einer Kursseite im TeachCenter</figcaption>
 </figure></center>
 

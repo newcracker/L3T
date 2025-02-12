@@ -10,7 +10,7 @@ Die meisten Haushalte hatten ein Farbfernsehgerät mit Fernbedienungstastatur un
 Ganz konkret bedeutet dies, dass man mit dem Fernsehgeräte Zeilen mit 40 Zeichen anzeigen konnte, wobei 288 anzeigbare Zeichen (wie in Abbildung 2) vorgesehen waren - zusätzlich zu verschiedensten, nicht anzuzeigenden Kontrollzeichen. Neben Groß- und Kleinbuchstaben sowie Sonderzeichen gab es auch ‚Mosaikzeichen‘, um damit einfache Grafiken erstellen zu können. Insgesamt waren sechs Hauptfarben sowie schwarz/weiß und einige weitere Besonderheiten (wie Blinken, Umrahmung, doppelte Größe u.Ä.) über Kontrollzeichen wählbar.
 
 <center><figure>
-  <img src="img/2_Die_288_anzeigbaren_Zeichen_von_Viewdata_bzw_nachfolgendem_BTX.jpg" alt="Abb. 2: Die 288 anzeigbaren Zeichen von Viewdata bzw. nachfolgendem BTX">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/02_Die_288_anzeigbaren_Zeichen_von_Viewdata_bzw_nachfolgendem_BTX.jpg" alt="Abb. 2: Die 288 anzeigbaren Zeichen von Viewdata bzw. nachfolgendem BTX">
   <figcaption>Abb. 2: Die 288 anzeigbaren Zeichen von Viewdata bzw. nachfolgendem BTX</figcaption>
 </figure></center>
 
@@ -19,7 +19,7 @@ So rudimentär und einfach das aus heutiger Sicht klingt, man darf nicht vergess
 Dass sich, wenn auch aufwendig, mit den Mosaiksteinchen durchaus ansehnliche Bilder erzeugen lassen, zeigen die klassischen ‚Portraits‘ von Einstein und Monroe in Abbildung 3.
 
 <center><figure>
-  <img src="img/3_Bilder_von_Einstein_und_Monroe_aus_Mosaiksteinchen_zusammengesetzt.png" alt="Abb. 3: Bilder von Einstein und Monroe aus Mosaiksteinchen zusammengesetzt">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/04_Die_Geschichte_des_WWW/img/03_Bilder_von_Einstein_und_Monroe_aus_Mosaiksteinchen_zusammengesetzt.png" alt="Abb. 3: Bilder von Einstein und Monroe aus Mosaiksteinchen zusammengesetzt">
   <figcaption>Abb. 3: Bilder von Einstein und Monroe aus Mosaiksteinchen zusammengesetzt</figcaption>
 </figure></center>
 

@@ -16,7 +16,7 @@ Für Lernfortschrittskontrollen (LFK) mit selektivem Charakter hat sich die Beze
 Beim formativen Assessment gibt es demzufolge mehrere Gelegenheiten zur Evaluation unter realistischeren Bedingungen, wodurch ein kontinuierlicher Überblick über Lernfortschritte gewonnen werden kann. Ein sehr typisches Beispiel hierfür sind die Progresstests, die einerseits den Lernenden regelmäßig individuelles Feedback über ihren Lernstand und -fortschritt und andererseits den Lehrenden Feedback über den Leistungsstand der gesamten Lerngruppe geben (Osterberg et al., 2006).
 
 <center><figure>
-  <img src="img/2_Millers_Kompetenzpyramide_mit_passenden_Prüfungsformen_modifiziert_nach_Kopp_200.jpg" alt="Abb. 2: Millers Kompetenzpyramide mit passenden Prüfungsformen (modifiziert nach Kopp 2006)">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/22_Pruefen_mit_Computer_und_Internet/img/02_Millers_Kompetenzpyramide_mit_passenden_Prüfungsformen_modifiziert_nach_Kopp_200.jpg" alt="Abb. 2: Millers Kompetenzpyramide mit passenden Prüfungsformen (modifiziert nach Kopp 2006)">
   <figcaption>Abb. 2: Millers Kompetenzpyramide mit passenden Prüfungsformen (modifiziert nach Kopp 2006)</figcaption>
 </figure></center>
 
@@ -52,7 +52,7 @@ Man unterscheidet im Allgemeinen summative, formative und diagnostische Assessme
 </blockquote>
 
 <center><figure>
-  <img src="img/3_Einfache_Wissensabfrage_mit_MultipleChoice.png" alt="Abb. 3: Einfache Wissensabfrage mit Multiple-Choice">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/22_Pruefen_mit_Computer_und_Internet/img/03_Einfache_Wissensabfrage_mit_MultipleChoice.png" alt="Abb. 3: Einfache Wissensabfrage mit Multiple-Choice">
   <figcaption>Abb. 3: Einfache Wissensabfrage mit Multiple-Choice</figcaption>
 </figure></center>
 

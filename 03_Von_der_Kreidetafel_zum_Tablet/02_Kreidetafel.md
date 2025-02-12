@@ -8,7 +8,7 @@ Ein Nachteil dieser Art von Unterrichtstechnologie besteht darin, dass sich die 
 Die Kreidetafel wird hauptsächlich im klassischen Unterricht eingesetzt, welcher primär durch eine/n vortragende/n Lehrende/n und viele zuhörende Lernende gekennzeichnet ist.
 
 <center><figure>
-  <img src="img/1_Kreidetafel.jpg" alt="Abb. 1: Kreidetafel">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/03_Von_der_Kreidetafel_zum_Tablet/img/01_Kreidetafel.jpg" alt="Abb. 1: Kreidetafel">
   <figcaption>Abb. 1: Kreidetafel</figcaption>
 </figure></center>
 

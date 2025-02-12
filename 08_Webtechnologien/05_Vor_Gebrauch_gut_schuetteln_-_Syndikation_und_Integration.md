@@ -23,7 +23,7 @@ Ein Mashup ist die Integration von Inhalten und Funktionalitäten anderer Webapp
 Einerseits können APIs dazu verwendet werden, um Funktionalität zur Verfügung zu stellen, wie zum Beispiel die Darstellung von Koordinaten in Karten mittels der Google-Maps-API (siehe Beispiel in Abbildung 3). Andererseits können solche Applikationen auch Inhalte zur Verfügung stellen. So ist es mit der Flickr-API zum Beispiel möglich, auf Fotos des Internetdienstes zuzugreifen. Andere APIs ermöglichen beispielsweise die Integration von Daten aus sozialen Netzwerken, wie die Facebook-API.
 
 <center><figure>
-  <img src="img/1_TUGeowiki_Integration_von_Kartenmaterial_über_die_GoogleMaps_API_Quelle_Safran_u.png" alt="Abb. 1: TUGeowiki: Integration von Kartenmaterial über die GoogleMaps API. Quelle: Safran und Zaka, 2008">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/08_Webtechnologien/img/01_TUGeowiki_Integration_von_Kartenmaterial_über_die_GoogleMaps_API_Quelle_Safran_u.png" alt="Abb. 1: TUGeowiki: Integration von Kartenmaterial über die GoogleMaps API. Quelle: Safran und Zaka, 2008">
   <figcaption>Abb. 1: TUGeowiki: Integration von Kartenmaterial über die GoogleMaps API. Quelle: Safran und Zaka, 2008</figcaption>
 </figure></center>
 
@@ -44,7 +44,7 @@ ls Praxisbeispiel für ein Mashup kann die Personal Learning Environment (PLE) a
 Zusätzlich dazu können zahlreiche fremde Lernobjekte und webbasierte Dienste wie Google-Applikationen, Flickr, YouTube, Twitter, Facebook etc. integriert werden. Die Integration dieser Dienste erfolgt mittels der angebotenen API und darauf aufbauenden Widgets. Das PLE als eine Rich Internet Application (RIA) bietet ein Mashup von Widgets, die an die persönlichen Nutzungsbedürfnisse anpassbar sind. Neben einer Portierung dieser Widgets für mobile Endgeräte ist auch eine inter-Widget-Kommunikation möglich. Ein Widget kann mit einem anderen gekoppelt sein, in dem es zum Beispiel auf Google Maps eine Stadt sucht und das Wetter-Widget automatisch für diese Stadt die Wetterprognose anzeigt. Die Benutzer/innen sind in der Lage, sich die geeigneten, zu ihrem Studium benötigten Widgets auszusuchen und diese nach ihren aktuellen Bedürfnissen zu konfigurieren.
 
 <center><figure>
-  <img src="img/2_PLE_Ein_Mashup_von_Widgets_ermöglicht_die_Integration_von_verschiedenen_Universi.png" alt="Abb. 2: PLE: Ein Mashup von Widgets ermöglicht die Integration von verschiedenen Universitätsdiensten sowie der fremden Ressourcen aus dem Internet.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/08_Webtechnologien/img/02_PLE_Ein_Mashup_von_Widgets_ermöglicht_die_Integration_von_verschiedenen_Universi.png" alt="Abb. 2: PLE: Ein Mashup von Widgets ermöglicht die Integration von verschiedenen Universitätsdiensten sowie der fremden Ressourcen aus dem Internet.">
   <figcaption>Abb. 2: PLE: Ein Mashup von Widgets ermöglicht die Integration von verschiedenen Universitätsdiensten sowie der fremden Ressourcen aus dem Internet.</figcaption>
 </figure></center>
 

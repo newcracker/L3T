@@ -16,7 +16,7 @@ Zwei oft angeführte Zitate zeigen die Relevanz guter Prüfungen für das Lernen
 E-Assessments haben, wie traditionelle papierbasierte Prüfungen, besondere Anforderungen in Bezug auf die Dimensionen Didaktik, Methodik und Organisation zu erfüllen (Gruttmann, 2010). Hinzu kommen die Dimension der technischen Unterstützung sowie die Rechtssicherheit (siehe Abbildung 1).
 
 <center><figure>
-  <img src="img/1_Dimensionen_des_EAssessments.png" alt="Abb. 1: Dimensionen des E-Assessments">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/22_Pruefen_mit_Computer_und_Internet/img/01_Dimensionen_des_EAssessments.png" alt="Abb. 1: Dimensionen des E-Assessments">
   <figcaption>Abb. 1: Dimensionen des E-Assessments</figcaption>
 </figure></center>
 

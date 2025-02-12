@@ -8,7 +8,7 @@ Der freie Zugang zu Veröffentlichungen hat sich in der Wissenschaft zunehmend e
 Über den freien Zugang zu Materialien und damit verbunden eine bessere Transparenz und Anschlussfähigkeit hinaus eröffnet das Internet mit seinen Medien insoweit zunehmend Beteiligungs- und Gestaltungsmöglichkeiten (Waldrop, 2008) und eine ganze Reihe an „‘Öffnungen‘ und Erweiterungen des tradierten Lernens, Lehrens und Forschens, die prinzipiell einer Demokratisierung von Wissenschaftzugute kommen.
 
 <center><figure>
-  <img src="img/1_Offenheit_scheint_an_vielen_Stellen_auf_Interesse_zu_stoen.jpg" alt="Abb. 1: Offenheit scheint an vielen Stellen auf Interesse zu stoßen">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/30_Offene_Lehr-_und_Forschungsressourcen/img/01_Offenheit_scheint_an_vielen_Stellen_auf_Interesse_zu_stoen.jpg" alt="Abb. 1: Offenheit scheint an vielen Stellen auf Interesse zu stoßen">
   <figcaption>Abb. 1: Offenheit scheint an vielen Stellen auf Interesse zu stoßen</figcaption>
 </figure></center>
 

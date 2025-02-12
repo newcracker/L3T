@@ -30,7 +30,7 @@ Serviceplattformen haben ihren Ursprung im industriellen Bereich und werden von 
 Sie setzen sich aus idealtypischen Veranstaltungsphasen, Leistungspotenzialen (Web-Based Trainings, Fallstudien, E-Lectures, Betreuern und so weiter), Prozessen und Schnittstellen zusammen, die gemeinsam die Grundlage zur Entwicklung und Realisierung immer wieder differenzierter Leistungsangebote darstellen. Im Prozess des didaktischen Designs, welcher die Konkretisierung der abstrakten Serviceplattformen zu konkreten Lern-Services bezeichnet, trägt der Lehrende dafür Sorge, dass das zu konzipierende Leistungsangebot nicht nur effizient erstellt wird, sondern dass es auch den (Qualitäts-)Ansprüchen der jeweiligen Leistungsempfänger/innen entspricht und somit möglichst Effizienz- und Effektivitätsvorteile für Leistungsanbieter/innen begründet. Der Vorteil einer Serviceplattform zeigt sich vor allem dadurch, dass Lehrende zum einen gesamte Lernarrangements evaluieren und zum anderen auch einzelne Lehr-/Lernkomponenten verbessern können, die in anderen Lernarrangements anschließend erneut verwendet werden. Dem Konzept liegt auf dieser Ebene somit eine Unterscheidung von abstrakten Veranstaltungsgrundtypen (Lernszenarien beziehungsweise Serviceplattformen) und Lernarrangements als konkreten Lern-Services zugrunde. Abbildung 2 verdeutlicht den Zusammenhang und differenziert für die Betrachtung von Lern-Services zudem zwischen einer Makro-, einer Meso- und einer Mikroebene.
 
 <center><figure>
-  <img src="img/2_Hierarchisches_Begriffsverständnis.png" alt="Abb. 2: Hierarchisches Begriffsverständnis">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/39_Lern-Service-Engineering/img/02_Hierarchisches_Begriffsverständnis.png" alt="Abb. 2: Hierarchisches Begriffsverständnis">
   <figcaption>Abb. 2: Hierarchisches Begriffsverständnis</figcaption>
 </figure></center>
 
@@ -38,7 +38,7 @@ Sie setzen sich aus idealtypischen Veranstaltungsphasen, Leistungspotenzialen (W
 Auch innerhalb der Lernszenarien als Veranstaltungsgrundtypen lässt sich das Konzept der Mass Customization mit Hilfe von Serviceplattformen fortsetzen. So können Lernszenarien auf (teil-)standardisierten Veranstaltungsphasen aufbauen, die jeweils spezifischen Lernzielen verpflichtet sind. Die Standardisierung auf Ebene der Veranstaltungsphasen bezieht sich dabei auf eine idealtypische Vorkombination von Leistungskomponenten, die als Teilarrangements bestimmte Zielsetzungen und Abläufe repräsentieren, so dass im Ergebnis eine zweistufige Serviceplattformstrategie resultiert. Abbildung 3 verdeutlicht das Zusammenspiel von Leistungskomponenten, Veranstaltungsphasen und Lernszenarien, die anschließend im Prozess des didaktischen Designs zu Lernarrangements konkretisiert und fortlaufend evolutorisch weiterentwickelt werden können.
 
 <center><figure>
-  <img src="img/3_LernServiceEngineering.png" alt="Abb. 3: Lern-Service-Engineering">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/39_Lern-Service-Engineering/img/03_LernServiceEngineering.png" alt="Abb. 3: Lern-Service-Engineering">
   <figcaption>Abb. 3: Lern-Service-Engineering</figcaption>
 </figure></center>
 
