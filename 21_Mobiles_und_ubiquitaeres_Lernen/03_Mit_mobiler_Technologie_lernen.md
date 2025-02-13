@@ -3,9 +3,9 @@
 
 ## Das Konzept des ‚Seamless Learning‘
 
-Der Begriff des ‚Seamless Learning‘, sinngemäß des ‚durchgängigen Lernens‘, stammt ursprünglich von der American College Personnel Association. Er beschreibt die Wichtigkeit der Zusammenarbeit zwischen Schülerinnen und Schülern innerhalb und außerhalb des Klassenraums (Wong &amp; Looi, 2011).
+Der Begriff des ‚Seamless Learning‘, sinngemäß des ‚durchgängigen Lernens‘, stammt ursprünglich von der American College Personnel Association. Er beschreibt die Wichtigkeit der Zusammenarbeit zwischen Schülerinnen und Schülern innerhalb und außerhalb des Klassenraums (Wong & Looi, 2011).
 
-Chan et al. (2006) stellen in ihrem Artikel eine neue Verbindung zwischen dem Begriff des ‚Seamless Learning‘ und dem Begriff des ‚Technology Enhanced Learning‘ (TEL) her. Für Chan et al. (ebenda) steckt die zentrale Chance im Einsatz von verschiedenen Endgeräten im Konzept des ‚One-to-One-Technology Enhanced Learning‘. In diesem Konzept verfügen alle Lernenden über ein geeignetes Endgerät, das den individuellen Lernprozess begleitet und unterstützt. Dies scheint in naher Zukunft durchaus realistisch zu sein. Laut einer Basisstudie zu ‚Jugend. Information und (Multi)Media‘, kurz JIM, verfügen in Deutschland bereits über 96 Prozent der befragten 12- bis 19-Jährigen über ein Mobiltelefon, 83 Prozent über eines, das internetfähig ist (Behrens &amp; Rathgeb, 2012).
+Chan et al. (2006) stellen in ihrem Artikel eine neue Verbindung zwischen dem Begriff des ‚Seamless Learning‘ und dem Begriff des ‚Technology Enhanced Learning‘ (TEL) her. Für Chan et al. (ebenda) steckt die zentrale Chance im Einsatz von verschiedenen Endgeräten im Konzept des ‚One-to-One-Technology Enhanced Learning‘. In diesem Konzept verfügen alle Lernenden über ein geeignetes Endgerät, das den individuellen Lernprozess begleitet und unterstützt. Dies scheint in naher Zukunft durchaus realistisch zu sein. Laut einer Basisstudie zu ‚Jugend. Information und (Multi)Media‘, kurz JIM, verfügen in Deutschland bereits über 96 Prozent der befragten 12- bis 19-Jährigen über ein Mobiltelefon, 83 Prozent über eines, das internetfähig ist (Behrens & Rathgeb, 2012).
 
 ## Formales und informelles Lernen mit mobiler Technologie
 
@@ -21,7 +21,7 @@ Insbesondere der Ansatz des ‚Seamless Mobile Learning‘ in Singapur baut auf 
 
 ## Seamless Mobile Learning (SML) aus der Sicht der Lernenden
 
-In der Literaturanalyse im Rahmen ihrer Forschung haben Wong und Looi Publikationen von 2006 bis 2011 zur Thematik ‚Seamless Mobile Learning‘ untersucht. Um diese Literatur zu finden, haben sie die Dienste Google Scholar, ERIC, Web of Knowledge und den British Education Index systematisch durchsucht (Wong &amp; Looi, 2011).
+In der Literaturanalyse im Rahmen ihrer Forschung haben Wong und Looi Publikationen von 2006 bis 2011 zur Thematik ‚Seamless Mobile Learning‘ untersucht. Um diese Literatur zu finden, haben sie die Dienste Google Scholar, ERIC, Web of Knowledge und den British Education Index systematisch durchsucht (Wong & Looi, 2011).
 
 Als zentrales Ergebnis dieser Untersuchung definiert Wong (2012) 10 Dimensionen, die das durchgängige mobile Lernen (SML)“ aus der Sicht des Lernenden charakterisieren:
 
@@ -42,7 +42,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
 Die Quick Response Technologie (QR) erlaubt es, Unterlagen und Objekte mit Zusatzinformationen zu versehen. Mit relativ wenig Aufwand kann zum Beispiel mit Hilfe von Open-Source-Programmen praktisch an jedem PC, auch ohne Internetzugang, ein QR-Code generiert werden. Außerdem steht im Internet eine Vielzahl von Webanwendungen zur Verfügung, mit denen QR-Codes entwickelt werden können. In diesem Code können sowohl reine Textinformationen als auch Befehle, aber auch beliebige Webverknüpfungen gespeichert werden. Mit Hilfe von mobilen Endgeräten, die über eine geeignete Entschlüsselungssoftware –sogenannte, QR-Scanner – verfügen, können diese Informationen dann wiederum entschlüsselt beziehungsweise ausgeführt werden. </blockquote>
 
-Ein zentrales schulisches Anwendungsfeld des QR-Codes stellt das Konzept des interaktiven Arbeitsblattes dar. Das grundsätzliche Prinzip dabei ist, Arbeitsunterlagen durch die Ergänzung von QR-Codes interaktiv werden zu lassen und damit eine durchgängige Lernunterstützung (vgl. dazu SML) zu ermöglichen. Die QR-Technologie bietet dabei, teils in Kombination mit weiterer Web-Technologie, folgende Möglichkeiten an (Law&amp; So, 2010):
+Ein zentrales schulisches Anwendungsfeld des QR-Codes stellt das Konzept des interaktiven Arbeitsblattes dar. Das grundsätzliche Prinzip dabei ist, Arbeitsunterlagen durch die Ergänzung von QR-Codes interaktiv werden zu lassen und damit eine durchgängige Lernunterstützung (vgl. dazu SML) zu ermöglichen. Die QR-Technologie bietet dabei, teils in Kombination mit weiterer Web-Technologie, folgende Möglichkeiten an (Law& So, 2010):
 
 - Codierung und Decodierung von Informationen ohne aktive Verbindung zum Internet in Form eines reinen Textfiles;
 - Codierung und Decodierung von Verknüpfungen zu Verzeichnissen beziehungsweise Dateien in Netzwerken beziehungsweise im Internet mittels URL;

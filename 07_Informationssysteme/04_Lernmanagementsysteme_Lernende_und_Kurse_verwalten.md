@@ -59,9 +59,12 @@ In Hinblick auf den letzten Aspekt muss oftmals eine Grundsatzentscheidung getro
 
 Neben dem Kriterienkatalog von Schulmeister mit über 150 Unterkategorien (Schulmeister, 2005, 58ff.) sind in der Vergangenheit für die unterschiedlichen Einsatzziele und Bedürfnisse weitere Kriterienkataloge entstanden, nach denen Lernmanagementsysteme bewertet werden können (Baumgartner et al., 2002).
 
-Aspekte ILIAS (Stand: Version 4.3.x) Moodle (Stand: Version 2.5) OLAT (Stand: Version 7.2) Betriebssystem Linux Linux, Windows, Solaris, Mac OS, Netware 6 Linux, Windows, Mac OS X, Solaris, FreeBSD Datenbank MySQL mit DBXML-Unterstützung, z. B. MySQL, PostgreSQL u. a. MySQL, PostgreSQL Skriptsprache PHP PHP Java-Framework mit PHP-basiertem Kurssystem Weitere Voraussetzungen Image Magick ab 6.3.8-3, Info-Zip und Info-Unzip Apache Tomcat Web-Container mit Java-SDK
-
-</blockquote>
+| Aspekte | ILIAS (Stand: Version 4.3.x) | Moodle (Stand: Version 2.5) | OLAT (Stand: Version 7.2) |
+| --- | --- | --- | --- |
+| Betriebssystem | Linux | Linux, Windows, Solaris, Mac OS, Netware 6 | Linux, Windows, Mac OS X, Solaris, FreeBSD |
+| Datenbank | MySQL | mit DBXML-Unterstützung, z. B. MySQL, PostgreSQL | u. a. MySQL, PostgreSQL |
+| Skriptsprache | PHP | PHP | Java-Framework mit PHP-basiertem Kurssystem |
+| Weitere Voraussetzungen | Image Magick ab 6.3.8-3, Info-Zip und Info-Unzip | | Apache Tomcat Web-Container mit Java-SDK |
 
 Tab.3: Technische Anforderungen von gängigen Open-Source-LMS. Quelle: Dokumentationen von ILIAS (ILIAS, 2013), Moodle (Moodle, 2013) und OLAT (OLAT, 2013)
 

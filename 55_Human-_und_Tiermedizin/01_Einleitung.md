@@ -1,7 +1,7 @@
 <!-- filename: 01_Einleitung.md -->
 <!-- title: Einleitung -->
 
-Die Kompetenzfelder, in denen medizinisches Fachpersonal aus- und lebenslang weitergebildet werden muss, umfassen unter anderem folgende Kernbereiche: medizinisches Expertenwissen, Teamarbeit, professionelles Handeln, Gesundheitsberatung für die Gesellschaft, Management und lebenslanges Lernen (Öchsner &amp; Forster, 2005; David, 2013). Aufgrund der hohen ethischen Verantwortung gegenüber den Patientinnen und Patienten werden neben den diagnostisch-therapeutischen Kompetenzen auch solche der Selbstreflexion, der kritischen Selbsteinschätzung, des wissenschaftlichen Denkens und Arbeitens, der Kommunikation und der Teamarbeit als berufsprägend definiert (EAEVE, 2009).
+Die Kompetenzfelder, in denen medizinisches Fachpersonal aus- und lebenslang weitergebildet werden muss, umfassen unter anderem folgende Kernbereiche: medizinisches Expertenwissen, Teamarbeit, professionelles Handeln, Gesundheitsberatung für die Gesellschaft, Management und lebenslanges Lernen (Öchsner & Forster, 2005; David, 2013). Aufgrund der hohen ethischen Verantwortung gegenüber den Patientinnen und Patienten werden neben den diagnostisch-therapeutischen Kompetenzen auch solche der Selbstreflexion, der kritischen Selbsteinschätzung, des wissenschaftlichen Denkens und Arbeitens, der Kommunikation und der Teamarbeit als berufsprägend definiert (EAEVE, 2009).
 
 In der Tiermedizin werden die klinischen Tätigkeiten durch die Bereiche Forschung, Lebensmittelüberwachung und staatliche Aufgaben erweitert. Neben dem Fachwissen und den praktischen Fertigkeiten haben allgemeine Kompetenzen (Soft Skills) in der Kommunikation und Selbstreflexion sowie lebenslanges Lernen einen gleichrangigen Stellenwert erlangt (EAEVE, 2009).
 

@@ -57,7 +57,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 - *EduWear Kit* - Tragbare Intelligenz – für Tasche, Tanz und Tennis ab ca. 100 EUR bei [http://www.watterott.com/de/EduWear-Kit](http://www.watterott.com/de/EduWear-Kit)
 - Anleitung für den Bau eines interaktiven Teddys [http://dimeb.informatik.uni-bremen.de/eduwear/wp-content/uploads/manual/anleitung\_teddy.pdf](http://dimeb.informatik.uni-bremen.de/eduwear/wp-content/uploads/manual/anleitung_teddy.pdf)
 - *Bee-Bot* - Bodenroboter ab ca. 50 EUR und Zubehör u.a. erhältlich bei [http://www.tts-group.co.uk](http://www.tts-group.co.uk)
-- *Roamer* - Bodenroboter ab ca. 100 EUR erhältlich bei [http://www.valiant-technology.com/shop/shop.php?id=0id0&amp;cat=10](http://www.valiant-technology.com/shop/shop.php?id=0id0&cat=10)
+- *Roamer* - Bodenroboter ab ca. 100 EUR erhältlich bei [http://www.valiant-technology.com/shop/shop.php?id=0id0&cat=10](http://www.valiant-technology.com/shop/shop.php?id=0id0&cat=10)
 - *Lego®-Mindstorm-NXT*-Roboter ca. 400 Euro, können jedoch oftmals bei den Regionalzentren der RoboCupJunior-Vereinigung ausgeliehen werden.
 - *Arduino-Microcontroller*, der sich ebenfalls zur Steuerung und Programmierung von Robotern eignet, ca. 25 Euro, z. B. [http://www.physicalcomputing.at](http://www.physicalcomputing.at), [http://dimeb.informatik.uni-bremen.de/eduwear/wp-content/uploads/manual/anleitung\_teddy.pdf](http://dimeb.informatik.uni-bremen.de/eduwear/wp-content/uploads/manual/anleitung_teddy.pdf)
 
@@ -74,8 +74,8 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 </blockquote>
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/45_Interessen_und_Kompetenzen_foerdern/img/04_Visuelle_Programmiersprache_mit_DragampDropFunktionalität.jpg" alt="Abb. 4: Visuelle Programmiersprache mit Drag-&amp;-Drop-Funktionalität">
-  <figcaption>Abb. 4: Visuelle Programmiersprache mit Drag-&amp;-Drop-Funktionalität</figcaption>
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/45_Interessen_und_Kompetenzen_foerdern/img/04_Visuelle_Programmiersprache_mit_DragDropFunktionalität.jpg" alt="Abb. 4: Visuelle Programmiersprache mit Drag-&-Drop-Funktionalität">
+  <figcaption>Abb. 4: Visuelle Programmiersprache mit Drag-&-Drop-Funktionalität</figcaption>
 </figure></center>
 
 

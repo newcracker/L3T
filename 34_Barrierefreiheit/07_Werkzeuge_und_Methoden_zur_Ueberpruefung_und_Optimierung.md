@@ -37,7 +37,7 @@ Automatisierte Prüfverfahren sind eine nützliche Hilfe für die Evaluierung be
 Hier einige Beispiele für Browser-Erweiterungen und Online-Werkzeuge, welche die Einhaltung von Webstandards und Accessibility-Kriterien überprüfen und das Verhalten einer Webseite unter verschiedenen Anzeige- und Rezeptionsbedingungen simulieren:
 
 - W3C-MarkUp-Validator ([http://validator.w3.org/](http://validator.w3.org/)): überprüft den Code von HTML, XHTML, SVG, MATHML, SMIL, etc. Dokumenten
-- W3C-CSS-Validator  ([http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.org/css-validator/)): überprüft den CSS-Code
+- W3C-CSS-Validator ([http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.org/css-validator/)): überprüft den CSS-Code
 - HTML-Validator für Firefox ([https://addons.mozilla.org/de/firefox/addon/html-validator/](https://addons.mozilla.org/de/firefox/addon/html-validator/)): Das Firefox-Add-On fügt der Quellcode-Anzeige des Browsers den Tidy-Validator von W3C hinzu. Sehr nützlich und informativ: In einem Icon in der Statuszeile des Browsers werden fehlerfreie Seiten mit einem grünen Haken gekennzeichnet, beziehungsweise mit einem Warnhinweis oder einem roten Symbol bei Fehlern.
 - Total Validator ([http://www.totalvalidator.com/](http://www.totalvalidator.com/)): HTML, Zugänglichkeit (WCAG 1.0 und 2.0; Section 508), Link-Checker, Screenshots mit sehr vielen Browsern.
 

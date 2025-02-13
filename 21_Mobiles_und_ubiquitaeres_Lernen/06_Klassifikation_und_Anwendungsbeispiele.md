@@ -20,7 +20,7 @@ Ebner (2012) kategorisiert den praktischen Einsatz für mobiles Lernen in sechs 
 3. Geolokalisierung: Durch die Möglichkeit, globale Koordinaten zusätzlich zu medialen Files (vorrangig Bilder) speichern zu können, ergeben sich für situationsbezogene Kontexte spannende neue Anwendungen (Safran et al., 2011).
 4. Soziale Netzwerke: Die sozialen Netzwerke wie Facebook, Twitter und Google+ werden sehr stark mobil genutzt, um sich mit seinen Freundinnen und Freunden auszutauschen und/oder Inhalte zu teilen.
 5. E-Books: Mobile Endgeräte eignen sich in der Regel auch sehr gut, um Bücher oder ähnliche Texte zu lesen. Dabei ist die Bandbreite von reinen bis zu mit interaktiven Objekten angereicherten Texten sehr groß (siehe #ebook ).
-6. Mobile Applikationen: Die letzte Kategorie sind mobile Applikationen an sich. Hier werden kleine Anwendungen für ein spezielles Lernproblem umgesetzt, die gezielt im jeweiligen Lehr- und Lernkontext zum Einsatz kommen (Huber &amp; Ebner, 2013).
+6. Mobile Applikationen: Die letzte Kategorie sind mobile Applikationen an sich. Hier werden kleine Anwendungen für ein spezielles Lernproblem umgesetzt, die gezielt im jeweiligen Lehr- und Lernkontext zum Einsatz kommen (Huber & Ebner, 2013).
 
 In der Literatur der letzten 15 Jahre ist insbesondere die Unterstützung von Exkursionen und die Verbindung von Klassenzimmer und realen Anwendungskontexten ein immer wiederkehrendes Beispiel für mobile Lernanwendungen (Herrington et al., 2009). Hierbei finden sich zum einen klassische didaktische Modelle wie ¸Wissens-Rallyes‘, bei denen die Beantwortung von Fragen neue Lernfragen freischaltet wie auch mehr explorative Modelle, in denen die physikalische Umwelt aufgabenbasiert entdeckt wird.
 

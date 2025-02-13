@@ -35,8 +35,14 @@ Wo ist Ihnen die Computermetapher, das Benennen kognitiver Prozesse als Speicher
 
 </blockquote>
 
-Surface Learning Deep Learning Stützt sich aufs Auswendiglernen Suche nach der Bedeutung und Verstehen Stützt sich auf Faktenwissen &amp; Routinen Stützt sich auf das Wesentliche, den „Kern“ Fokussiert auf Regeln und Formeln, die für die Lösung eines Problems angewendet werden Fokussiert auf zentrale Argumente, die für die Lösung eines Problems von Bedeutung sind Fakten und Konzepte werden unreflektiert aufgenommen und abgespeichert Verknüpft theoretische Ansätze mit eigenem Erfahrungshintergrund Vernachlässigt den Kontext Bezieht Kontext ein Fokussiert auf nicht vernetzte Teile einer Aufgabe Verbindet vorhandenes Wissen mit neuem Wissen Motivation ist extrinsisch Motivation ist intrinsisch
-
-</blockquote>
+| Surface Learning | Deep Learning |
+| --- | --- |
+| Stützt sich aufs Auswendiglernen | Suche nach der Bedeutung und Verstehen |
+| Stützt sich auf Faktenwissen & Routinen | Stützt sich auf das Wesentliche, den „Kern“ |
+| Fokussiert auf Regeln und Formeln, die für die Lösung eines Problems angewendet werden | Fokussiert auf zentrale Argumente, die für die Lösung eines Problems von Bedeutung sind |
+| Fakten und Konzepte werden unreflektiert aufgenommen und abgespeichert | Verknüpft theoretische Ansätze mit eigenem Erfahrungshintergrund |
+| Vernachlässigt den Kontext | Bezieht Kontext ein |
+| Fokussiert auf nicht vernetzte Teile einer Aufgabe | Verbindet vorhandenes Wissen mit neuem Wissen |
+| Motivation ist extrinsisch | Motivation ist intrinsisch |
 
 Tab. 2: Charakteristika von *Surface Learning* und *Deep Learning* nach Marton und Säljö (1976).

@@ -21,12 +21,12 @@ Das Projekt E-Journal bietet Unterstützung und ein eigenes Werkzeug für Fremds
 
 </blockquote>
 
-Zur Unterstützung von Gesprächsentwicklung, von Konferenzen und multimedialem kollaborativem Austausch in synchroner Form bieten sich verschiedene Werkzeuge an (Döring &amp; Pöschl, 2003; siehe Kapitel zu #kommunikation, #videokonferenz). Das dialogische Sprechen kann zu zweit oder in Gruppenarbeit durchgeführt werden, wobei gelenkte und freie Übungen eingesetzt werden können (Beißwenger &amp; Storrer, 2005). Dadurch findet Interaktion zwischen Lehrenden und Lernenden, hauptsächlich jedoch unter Lernenden statt. Über Sprechaufträge hinaus eignen sich solche Software-Programme als reine Kommunikationsmittel in der Zielsprache zur Erarbeitung und Betreuung von kollaborativer Spracharbeit (zum Beispiel Schulprojekte, internationale Projekte). Dabei besteht der positive Effekt für das Lernen darin, dass die Lernenden auf diesem Wege – und umgeschaltet auf eine prinzipiell authentischere sprachliche Ebene – zur Anbahnung und Aufrechterhaltung der Kommunikation angeregt werden.
+Zur Unterstützung von Gesprächsentwicklung, von Konferenzen und multimedialem kollaborativem Austausch in synchroner Form bieten sich verschiedene Werkzeuge an (Döring & Pöschl, 2003; siehe Kapitel zu #kommunikation, #videokonferenz). Das dialogische Sprechen kann zu zweit oder in Gruppenarbeit durchgeführt werden, wobei gelenkte und freie Übungen eingesetzt werden können (Beißwenger & Storrer, 2005). Dadurch findet Interaktion zwischen Lehrenden und Lernenden, hauptsächlich jedoch unter Lernenden statt. Über Sprechaufträge hinaus eignen sich solche Software-Programme als reine Kommunikationsmittel in der Zielsprache zur Erarbeitung und Betreuung von kollaborativer Spracharbeit (zum Beispiel Schulprojekte, internationale Projekte). Dabei besteht der positive Effekt für das Lernen darin, dass die Lernenden auf diesem Wege – und umgeschaltet auf eine prinzipiell authentischere sprachliche Ebene – zur Anbahnung und Aufrechterhaltung der Kommunikation angeregt werden.
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
 ### !
 
-Zusätzlich zu unterschiedlichsten Kommunikationstools können auch Lernpartnerschaften gesucht und gepflegt werden. Hier unterstützen Angebote wie das „eTandem“ der Universität Bochum (Brammerts &amp; Kleppin, 2001).
+Zusätzlich zu unterschiedlichsten Kommunikationstools können auch Lernpartnerschaften gesucht und gepflegt werden. Hier unterstützen Angebote wie das „eTandem“ der Universität Bochum (Brammerts & Kleppin, 2001).
 
 </blockquote>

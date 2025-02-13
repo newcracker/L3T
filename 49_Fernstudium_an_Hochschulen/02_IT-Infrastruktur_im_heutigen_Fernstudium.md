@@ -57,8 +57,12 @@ Vor diesem Hintergrund wird deutlich, dass die heutigen Studierenden nicht mehr 
 
 </blockquote>
 
-Zweck Werkzeug Inhalte/Texte gemeinsam diskutieren; Klärung von Verständnisfragen; Inhalte gegenseitig erläutern soziale Netzwerke, z.B. Facebook-Gruppe; Instant Messenger, z.B. ICQ; Voice over IP (VoIP), z.B. Skype gemeinsame Referate/Hausarbeiten/Projektarbeiten erstellen cloudbasierte Textverarbeitungsprogramme, z.B. Google Drive, Etherpad; Dateiaustauschtools, z.B. Dropbox zusätzliche Quelle sammeln und austauschen Bookmarking-Dienste, z.B. Diigo; Literaturverwaltungsdienste, z.B. Zotero Erstellung von Zusammenfassungen Tools, mit denen Notizen und Artefakte gesammelt und geordnet werden können, z.B. Evernote, OneNote Erstellung beispielhafter Klausurfragen und Lerninhalte wiederholen Karteikartensysteme, z.B. Cobocards; Flashcard Deluxe, Abfrage-Apps, z.B. Evernote Peek, VCE mobile
-
-</blockquote>
+| Zweck | Werkzeug |
+| --- | --- |
+| Inhalte/Texte gemeinsam diskutieren; Klärung von Verständnisfragen; Inhalte gegenseitig erläutern | soziale Netzwerke, z.B. Facebook-Gruppe; Instant Messenger, z.B. ICQ; Voice over IP (VoIP), z.B. Skype |
+| gemeinsame Referate/Hausarbeiten/Projektarbeiten erstellen | cloudbasierte Textverarbeitungsprogramme, z.B. Google Drive, Etherpad; Dateiaustauschtools, z.B. Dropbox |
+| zusätzliche Quelle sammeln und austauschen | Bookmarking-Dienste, z.B. Diigo; Literaturverwaltungsdienste, z.B. Zotero |
+| Erstellung von Zusammenfassungen | Tools, mit denen Notizen und Artefakte gesammelt und geordnet werden können, z.B. Evernote, OneNote |
+| Erstellung beispielhafter Klausurfragen und Lerninhalte wiederholen | Karteikartensysteme, z.B. Cobocards; Flashcard Deluxe, Abfrage-Apps, z.B. Evernote Peek, VCE mobile |
 
 Tab.1: Lernzwecke und passende Werkzeuge

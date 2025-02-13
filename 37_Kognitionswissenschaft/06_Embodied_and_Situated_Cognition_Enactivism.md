@@ -17,9 +17,13 @@ Die Basis dieser Architektur bilden Reflexbögen („layer“ oder Schichten), d
 
 Brooks’ Ansatz stellt ein Extrem dar, aber er illustriert einige Punkte, die generell kennzeichnend für den Ansatz der *embodied cognitive science* sind (eine etwas ausführlichere Übersicht von Cowart (2006) finden Sie in Tabelle 3) Kognition ist eine Aktivität: Die Handlung steht im Vordergrund, nicht die (passive) Perzeption. Untersucht wird Kognition an der Schnittstelle Körper – Umwelt, also an der Peripherie des kognitiven Systems. Im Gegensatz zur klassischen Kognitionswissenschaft, die bei menschlichen kognitiven Höchstleistungen ansetzte, beginnt dieser Ansatz mit sehr einfachen Strukturen und Verhaltensweisen, aber dafür mit einem vollständigen, sich in seiner Umwelt autonom verhaltenden System.
 
-Embodiment Kognitivismus Koppelungsmetapher: Kognition/Geist, Körper und Welt sind gekoppelt und interagieren Computermetapher: Kognition/Geist ist regelbasiert und logisch Will man sie verstehen, müssen ihre Zusammenhänge untersucht werden Isolierte Analyse: Kognition wird ausschließlich durch Analyse interner Prozesse verstanden Im Vordergrund: zielgeleitetes Handeln in Echtzeit im dreidimensionalen Raum Im Vordergrund: *computation* Kognition als aktive Konstruktion, die in verkörperten, zielgerichteten Handlungen des Organismus verankert ist Kognition als passives Abrufen Repräsentationen sind sensomotorisch Repräsentationen sind symbolisch encodiert
-
-</blockquote>
+| Embodiment | Kognitivismus |
+| --- | --- |
+| Koppelungsmetapher: Kognition/Geist, Körper und Welt sind gekoppelt und interagieren | Computermetapher: Kognition/Geist ist regelbasiert und logisch |
+| Will man sie verstehen, müssen ihre Zusammenhänge untersucht werden | Isolierte Analyse: Kognition wird ausschließlich durch Analyse interner Prozesse verstanden |
+| Im Vordergrund: zielgeleitetes Handeln in Echtzeit im dreidimensionalen Raum | Im Vordergrund:*computation* |
+| Kognition als aktive Konstruktion, die in verkörperten, zielgerichteten Handlungen des Organismus verankert ist | Kognition als passives Abrufen |
+| Repräsentationen sind sensomotorisch | Repräsentationen sind symbolisch encodiert |
 
 Tab. 3: Unterschiede von *Embodiment* und Kognitvismus nach Cowart (2006)
 
@@ -33,7 +37,7 @@ Francisco Varela postulierte bereits 1984, dass Intelligenz nicht mehr als die F
 
 Die „geteilte Welt“ ist jedoch nicht einfach gegeben, ebenso wie Kognition entsteht sie in einem aktiven Prozess: Menschen reagieren nicht nur auf Stimuli in der Umwelt, sondern wir verändern und strukturieren sie in hohem Maße. Der Philosoph Andy Clark (1995) bezeichnet dies als *Scaffolding* (Errichten eines Gerüsts): Wir strukturieren unsere Umwelt so, dass sie uns in unseren Handlungen, bzw. beim Erwerb von Fähigkeiten unterstützt. Ein alltägliches Beispiel ist der Terminkalender: Wir müssen uns nicht länger jeden Termin merken, stattdessen werfen wir kognitive Last ab (man spricht von engl. „offloading cognitive load“) und interagieren mit unserem Terminkalender, indem wir Einträge machen, bzw. ihn konsultieren. Eine kognitiv anspruchsvolle Aufgabe – hier: viele unterschiedliche Termine exakt „im Kopf haben“ – wird auf wenige Handlungsmuster in Form der Interaktion mit einem Artefakt heruntergebrochen.
 
-Aus der Forschung: Gegenstände einprägen und Position im Raum (Presson &amp; Montello, 1994)
+Aus der Forschung: Gegenstände einprägen und Position im Raum (Presson & Montello, 1994)
 
 Zwei Versuchsgruppen wurden gebeten, sich die Position einiger Gegenstände in einem Raum zu merken. Anschließend wurden ihnen die Augen verbunden. Die erste Gruppe wurde gebeten sich um 90° zu drehen und nacheinander auf die Objekte zu zeigen, die angesagt wurden. Die zweite Gruppe wurde gebeten sich lediglich vorzustellen, sie hätten sich gerade um 90° gedreht und sollten auf die Position zeigen, welche die Objekte einnehmen würden, wenn sie sich gedreht hätten. Aus Sicht des kognitivistischen Paradigmas tun beide Gruppen dasselbe: Sie rotieren ihre Repräsentation des Raumes und der Objekte darin um 90°. Daher wäre anzunehmen, dass es keine Rolle spielt, ob die Probandinnen und Probanden sich zusätzlich physisch in eine andere Position begeben. Tatsächlich aber zeigten die Probandinnen und Probanden der ersten Gruppe, die sich tatsächlich gedreht hatten, schnell und akkurat auf die gefragten Objekte, während die Zeigebewegungen der zweiten Gruppe, die sich die Drehung lediglich vorstellen musste, zögerlich und ungenau waren.
 

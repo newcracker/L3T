@@ -5,7 +5,7 @@ In diesem Abschnitt wird der Begriff des Informationssystems erläutert und was 
 
 ## Informationssysteme zum Lernen und Lehren
 
-Ganz allgemein sind Informationssysteme eben jene, die Informationen verarbeiten, genauer: sie unterstützen die Nutzerinnen und Nutzer bei der Erfassung, Übertragung, Transformation, Speicherung und Bereitstellung von Informationen verschiedenster Art (Ferstl&amp;Sinz, 2006, 1). Daher bestehen Informationssysteme aus der Gesamtheit aller *Daten* und den nötigen *Verarbeitungsanweisungen*. So gesehen bilden die Server des World Wide Web das weltweit größte Informationssystem. Informationssysteme, die speziell für die Organisation und Durchführung von Lehr- und Lernprozessen entwickelt worden sind, verarbeiten ebenfalls Informationen, nämlich die, die zur Erstellung und Verwaltung von Lernressourcen benötigt werden.
+Ganz allgemein sind Informationssysteme eben jene, die Informationen verarbeiten, genauer: sie unterstützen die Nutzerinnen und Nutzer bei der Erfassung, Übertragung, Transformation, Speicherung und Bereitstellung von Informationen verschiedenster Art (Ferstl&Sinz, 2006, 1). Daher bestehen Informationssysteme aus der Gesamtheit aller *Daten* und den nötigen *Verarbeitungsanweisungen*. So gesehen bilden die Server des World Wide Web das weltweit größte Informationssystem. Informationssysteme, die speziell für die Organisation und Durchführung von Lehr- und Lernprozessen entwickelt worden sind, verarbeiten ebenfalls Informationen, nämlich die, die zur Erstellung und Verwaltung von Lernressourcen benötigt werden.
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
@@ -25,9 +25,13 @@ Bitte ergänzen Sie zur Tabelle 1 Beispiele für die Verarbeitung von Informatio
 
 </blockquote>
 
-Funktionen Beispiele (Musterlösungen) Informationen erfasste Lerndaten in Datenbank schreiben, neue Kursdaten einstellen, Lerninhalte erstellen Informationen übertragen Lerndaten bei Einschreibung im Kurs zur Verfügung stellen, Termine aus dem Kurskalender in die persönlichen Kalender der Lernenden überführen Informationen transformieren Reports aus Lernergebnissen erstellen, Bildgrößen für Darstellung anpassen, Vorlagen anwenden Informationen speichern Lernergebnisse ablegen, Lerninhalte speichern Informationen bereitstellen eingeschriebene Kursteilnehmer/innen, Testergebnisse
-
-</blockquote>
+| Funktionen | Beispiele (Musterlösungen) |
+| --- | --- |
+| Informationen | erfasste Lerndaten in Datenbank schreiben, neue Kursdaten einstellen, Lerninhalte erstellen |
+| Informationen übertragen | Lerndaten bei Einschreibung im Kurs zur Verfügung stellen, Termine aus dem Kurskalender in die persönlichen Kalender der Lernenden überführen |
+| Informationen transformieren | Reports aus Lernergebnissen erstellen, Bildgrößen für Darstellung anpassen, Vorlagen anwenden |
+| Informationen speichern | Lernergebnisse ablegen, Lerninhalte speichern |
+| Informationen bereitstellen | eingeschriebene Kursteilnehmer/innen, Testergebnisse |
 
 Tab.1: Informationen, die von Informationssystemen zum Lehren und Lernen bereitgestellt werden
 
@@ -86,33 +90,15 @@ Vergleichen Sie Peer-to-Peer- und Client-Server-Architekturen miteinander. Eine 
 
 </blockquote>
 
-Kriterien Peer-to-Peer (Musterlösungen) Client-Server (Musterlösungen) Dienste und Informationen liegen (hauptsächlich) auf dem Anwender/innen-PC dem Server Zum Aufbau des Netzes muss zusätzliche Hardware angeschafft werden nein (bei aktueller PC-Grundausrüstung) Ja, der Server Erweiterbarkeit Mit jedem neuen PC, wird aber zunehmend unübersichtlicher und langsamer Neue Hardware für Server Vorteile
-
-- schneller Aufbau
-- relativ kostengünstig
-
-- Zentrale Steuerung, Datenhaltung
-
-Nachteile
-
-- die Verfügbarkeit aller Daten kann nicht gewährleistet werden (abhängig davon, welche Knoten gerade online sind)
-- keine zentrale Datensicherung
-- Versionsverwaltung schwierig
-- Datensicherheit problematisch
-
-- Bei Problemen oder Überlastung kein Zugriff auf Daten
-- Kosten für Server, Installation, Laufzeit und Wartung
-
-Beispiele für Anwendungen
-
-- Instant Messaging (zum Beispiel ICQ, Skype)
-- File Sharing
-
-- Social Media
-- Lernmanagementsystem
-
-</blockquote>
+| Kriterien | Peer-to-Peer (Musterlösungen) | Client-Server (Musterlösungen) |
+| --- | --- | --- |
+| Dienste und Informationen liegen (hauptsächlich) auf | dem Anwender/innen-PC | dem Server |
+| Zum Aufbau des Netzes muss zusätzliche Hardware angeschafft werden | nein (bei aktueller PC-Grundausrüstung) | Ja, der Server |
+| Erweiterbarkeit | Mit jedem neuen PC, wird aber zunehmend unübersichtlicher und langsamer | Neue Hardware für Server |
+| Vorteile | schneller Aufbau</br> relativ kostengünstig | Zentrale Steuerung, Datenhaltung |
+| Nachteile | die Verfügbarkeit aller Daten kann nicht gewährleistet werden (abhängig davon, welche Knoten gerade online sind)</br> keine zentrale Datensicherung</br> Versionsverwaltung schwierig</br> Datensicherheit problematisch | Bei Problemen oder Überlastung kein Zugriff auf Daten</br> Kosten für Server, Installation, Laufzeit und Wartung |
+| Beispiele für Anwendungen | Instant Messaging (zum Beispiel ICQ, Skype)</br> File Sharing | Social Media</br> Lernmanagementsystem |
 
 Tab.2: Peer-to-Peer- und Client-Server-Architekturen im Vergleich
 
-Als ein Architektur- und Service-Modell hat sich zudem *Cloud-Computing* etabliert. Hierbei wird kein einzelner Server, sondern ein flexibel erweiterbares Cluster aus mehreren Servern herangezogen, auf denen die Anwendungen ausgeführt werden (Guoli&amp;Wanjun, 2010). Rechenleistung und Speicherkapazität können dabei durch das Hinzunehmen weiterer Server stets bedarfsgerecht angepasst werden.
+Als ein Architektur- und Service-Modell hat sich zudem *Cloud-Computing* etabliert. Hierbei wird kein einzelner Server, sondern ein flexibel erweiterbares Cluster aus mehreren Servern herangezogen, auf denen die Anwendungen ausgeführt werden (Guoli&Wanjun, 2010). Rechenleistung und Speicherkapazität können dabei durch das Hinzunehmen weiterer Server stets bedarfsgerecht angepasst werden.

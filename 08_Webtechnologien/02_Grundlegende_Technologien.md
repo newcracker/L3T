@@ -15,9 +15,15 @@ Die Kommunikation in einem Computernetzwerk wird über **Protokolle** geregelt. 
 
 Die Ebenen des OSI-Schichtenmodells (siehe Tabelle 1) beschreiben die Kommunikation in verschiedenen Abstraktionsstufen. So beschäftigt sich die unterste Schicht (1) mit der physikalischen Übertragung, während sich die oberste Schicht (7) mit Anwendungen auseinandersetzt. Grob werden diese Schichten in anwendungs- und transportorientierte Schichten unterteilt. In den anwendungsorientierten Schichten finden sich Protokolle, welche dieeigentliche Benutzer/innen-Interaktion in (Web-)Anwendungen beschreibt. Die transportorientierten Schichten bilden die eigentlichen „Schienen“ des darunterliegenden Datenverkehrs. Im Rahmen dieses Kapitels werden wir uns nur mit anwendungsorientierten Protokollen beschäftigen. Die Kommunikation vieler Programme auf der Anwendungsschicht erfolgt nach dem Client-Server-Prinzip (siehe #infosysteme).
 
-**Schicht** **Ebene** **Protokolle** 7 Anwendungsschicht Anwendungsorientierte Schichten HTTP(S) 6 Darstellungsschicht FTP 5 Kommunikationsschicht POP, SMTP 4 Transportschicht Transportorientierte Schichten TCP UDP 3 Vermittlungsschicht IP 2 Sicherungsschicht Ethernet 1 Physikalische Schicht
-
-</blockquote>
+| | **Schicht** | **Ebene** | **Protokolle** |
+| --- | --- | --- | --- |
+| 7 | Anwendungsschicht | Anwendungsorientierte Schichten | HTTP(S) |
+| 6 | Darstellungsschicht | FTP |
+| 5 | Kommunikationsschicht | POP, SMTP |
+| 4 | Transportschicht | Transportorientierte Schichten | TCP UDP |
+| 3 | Vermittlungsschicht | IP |
+| 2 | Sicherungsschicht | Ethernet |
+| 1 | Physikalische Schicht | |
 
 Tab. 1: OSI-Schichtenmodell
 

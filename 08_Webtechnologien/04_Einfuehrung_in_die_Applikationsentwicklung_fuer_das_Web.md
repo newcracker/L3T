@@ -38,22 +38,9 @@ Stellen Sie die Vor- und Nachteile von server- und clientseitigen Ansätzen gege
 
 </blockquote>
 
-Serverseitiger Ansatz Clientseitiger Ansatz Vorteile
-
-- unabhängig von clientseitiger Softwareausstattung
-- gleiches Verhalten auf allen Clients
-
-- Reaktionszeiten ähnlich zu Desktop-Anwendungen
-- nur benötigte Inhalte werden geladen und in die aktuelle Seite integriert
-
-Nachteile
-
-- jede Aktion erfordert einen Aufruf serverseitiger Funktionalität
-- jede Aktion erfordert komplettes Neuladen der aktuellen Seite
-
-- Verhalten von Browser (JavaScript Engine) abhängig
-- Sicherheit der Anwendungen ist aufwendiger zu gewährleisten
-
-</blockquote>
+| | Serverseitiger Ansatz | Clientseitiger Ansatz |
+| --- | --- | --- |
+| Vorteile | unabhängig von clientseitiger Softwareausstattung</br> gleiches Verhalten auf allen Clients | Reaktionszeiten ähnlich zu Desktop-Anwendungen</br> nur benötigte Inhalte werden geladen und in die aktuelle Seite integriert |
+| Nachteile | jede Aktion erfordert einen Aufruf serverseitiger Funktionalität</br> jede Aktion erfordert komplettes Neuladen der aktuellen Seite | Verhalten von Browser (JavaScript Engine) abhängig</br> Sicherheit der Anwendungen ist aufwendiger zu gewährleisten |
 
 Tab.3: Vor- und Nachteile des serverseitigen und des clientseitigen Ansatzes

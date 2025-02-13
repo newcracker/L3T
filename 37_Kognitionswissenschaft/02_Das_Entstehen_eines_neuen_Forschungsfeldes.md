@@ -7,17 +7,9 @@ Eine fundierte Vorgeschichte würde im Rahmen dieses Buches zu weit führen, dah
 
 Die Vorstellung, dass menschliches Denken letztlich Rechnen sei, findet sich schon im 17. Jahrhundert bei Gottfried Wilhelm Leibniz (1646 – 1716), der, nebenbei bemerkt, auch das Binärsystem erfand, das mit der Erfindung des Computers eine große Bedeutung erhalten sollte. Die *Analytische Philosophie* wurde Anfang des 20. Jahrhunderts von den britischen Philosophen Bertrand Russell (1872–1970) und George Edward Moore (1873–1958) und vom Wiener Kreis begründet und kann als eine Fortführung der Leibniz'schen Ideen begriffen werden. Ihre Vertreter wiesen folgende Gemeinsamkeiten auf: Ein systematisches, anstatt geschichtliches Herangehen an philosophische Fragen, eine Orientierung an empirischen Wissenschaften sowie der Versuch eine logische Formalsprache (widerspruchsfreie Idealsprache) zu schaffen, beziehungsweise die Analyse von Sprache mit Mitteln der Logik, mit dem Ziel, die angenommene logische Formalsprache hinter unserer Alltagssprache zu beschreiben. Es soll nicht unerwähnt bleiben, dass viele Vertreter dieser Richtung vor dem nationalsozialistischen Regime fliehen mussten und ihre Arbeit in England und den USA fortsetzten.
 
-Disziplin Linguistik Mathematik (Informatik) Philosophie Psychologie Beitrag zur Kognitionswissenschaft und Entstehung des Kognitivismus Beschreibung sprachlicher Strukturen
-
-*Neu: Universalgrammatik* Mathematischer Beweis, Computer
-
-*Neu: formale Sprachen, Simulation* Philosophische Basis („Denken ist rechnen“)
-
-*Neu: Formale Logik* Empirische Daten, Experiment
-
-*Neu: in die „Black Box hineinschauen“*
-
-</blockquote>
+| Disziplin | Linguistik | Mathematik (Informatik) | Philosophie | Psychologie |
+| --- | --- | --- | --- | --- |
+| Beitrag zur Kognitionswissenschaft und Entstehung des Kognitivismus | Beschreibung sprachlicher Strukturen </br> *Neu: Universalgrammatik* | Mathematischer Beweis, Computer </br> *Neu: formale Sprachen, Simulation* | Philosophische Basis („Denken ist rechnen“) </br> *Neu: Formale Logik* | Empirische Daten, Experiment </br> *Neu: in die „Black Box hineinschauen“* |
 
 Tab. 1: Überblick über die Disziplinen und ihren Beitrag an der Entstehung der frühen Kognitionswissenschaft
 

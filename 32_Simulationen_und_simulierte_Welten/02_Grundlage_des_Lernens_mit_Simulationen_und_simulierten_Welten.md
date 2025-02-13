@@ -25,7 +25,7 @@ Weiterführende Literatur:
 
 - Krause, D. (2008). Serious Games - The State of the Game. Der Zusammenhang zwischen virtuellen Welten und Web 3D. Köln: Pixelpark Agentur.
 - Masuch, M. (2006). Entwicklung von Computerspielen. URL: http://bit.ly/9H5kzK \[2013-08-19].
-- Gee, J. (2009): Deep Learning Properties of Good Digital Games: How Far Can They Go? In: U. Ritterfeld; M. Cody &amp; P. Vorderer (Hrsg.), Serious Games. Mechanism and Effects. New York: Routledge, Taylor and Francis, 67-83.
+- Gee, J. (2009): Deep Learning Properties of Good Digital Games: How Far Can They Go? In: U. Ritterfeld; M. Cody & P. Vorderer (Hrsg.), Serious Games. Mechanism and Effects. New York: Routledge, Taylor and Francis, 67-83.
 
 </blockquote>
 
@@ -33,7 +33,7 @@ Konzepte für immersive Lernumgebungen und Lernen in 3D (,drei Dimensionen‘) w
 
 Eine These bei der Verwendung dreidimensionaler virtueller Welten ist die mögliche unterstützende Wirkung der Immersion auf Lernprozesse. Immersionseffekte hängen mit Flow (Csikszentmihalyi, 2010) und Präsenz-Erleben (Pietschmann,2009) zusammen, werden aber auch im Zusammenhang mit Computerspielsucht genannt (Grunewald, 2009).
 
-Immersion bezeichnet den Grad, in dem Individuen wahrnehmen, dass sie mehr mit ihrer virtuellen als mit ihrer realen Umgebung interagieren (Guadagno et al., 2007, 3) und beschreibt somit das individuelle Gefühl des „Sense-of-being-there“. Bezüglich einer virtuellen Realität scheint Immersion durch den Grad der Repräsentation der Lernenden und ihrer Präsenz (Presence) bestimmt zu sein (Davis et al., 2009; Bredl &amp; Herz, 2010; Bredl &amp; Groß, 2012, 2). Ihre Repräsentation ist dabei geprägt von den Zuständen und dem Erscheinungsbild ihrer virtuellen Repräsentantinnen und Repräsentanten sowie ihrer Interaktionsmöglichkeiten (Bouras et al., 2001).
+Immersion bezeichnet den Grad, in dem Individuen wahrnehmen, dass sie mehr mit ihrer virtuellen als mit ihrer realen Umgebung interagieren (Guadagno et al., 2007, 3) und beschreibt somit das individuelle Gefühl des „Sense-of-being-there“. Bezüglich einer virtuellen Realität scheint Immersion durch den Grad der Repräsentation der Lernenden und ihrer Präsenz (Presence) bestimmt zu sein (Davis et al., 2009; Bredl & Herz, 2010; Bredl & Groß, 2012, 2). Ihre Repräsentation ist dabei geprägt von den Zuständen und dem Erscheinungsbild ihrer virtuellen Repräsentantinnen und Repräsentanten sowie ihrer Interaktionsmöglichkeiten (Bouras et al., 2001).
 
 <blockquote style="background: #FFEBEE; border-left: 10px solid #F44336">
 
@@ -62,7 +62,7 @@ Wissen wird in diesen Lernumgebungen nicht vorgegeben, sondern explorativ erarbe
 - permanent verfügbare Hintergrundinformationen sowie
 - Hinweise und Übungen, die zur Reflexion anregen, zum Beispiel das Einstellen eines bestimmten Zustandes der Simulation.
 
-Diese Techniken in Verbindung mit situierten Lernansätzen (Mandl et al., 2002) sind empirisch überprüft und haben einen positiven Einfluss auf die Lernmotivation, die Tiefe der Informationsverarbeitung und den Lernerfolg (weitere Techniken und Verweise auf Studien zum Beispiel bei De Jong &amp; van Joolingen, 1998).
+Diese Techniken in Verbindung mit situierten Lernansätzen (Mandl et al., 2002) sind empirisch überprüft und haben einen positiven Einfluss auf die Lernmotivation, die Tiefe der Informationsverarbeitung und den Lernerfolg (weitere Techniken und Verweise auf Studien zum Beispiel bei De Jong & van Joolingen, 1998).
 
 <blockquote style="background: #FFEBEE; border-left: 10px solid #F44336">
 

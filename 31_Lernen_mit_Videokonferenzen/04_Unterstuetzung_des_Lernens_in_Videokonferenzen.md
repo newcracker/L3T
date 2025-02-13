@@ -7,7 +7,11 @@ Auch wenn sich durch gezielte Trainings die Kommunikation in Videokonferenzen ve
 
 **Während der Kooperation** kann die Unterstützung durch kooperationsspezifische und inhaltliche Strukturvorgaben umgesetzt werden. Kooperationsspezifische Unterstützung unterteilt den Kooperationsprozess in spezifische Phasen, die unterschiedliche Aspekte der Aufgabenbearbeitung hervorheben. So lassen sich zum Beispiel der Austausch von Informationen, das Sammeln von Aspekten und die Diskussion der Lösung fokussieren (siehe auch das Anwendungsbeispiel am Ende des Kapitels). Auf inhaltlicher Ebene können Wissensschemata und Mapping-Methoden die Teilnehmenden auf spezifische Inhaltsbereiche aufmerksam machen und Zusammenhänge visualisieren. Studien haben gezeigt, dass Lernende von einer Kombination beider Unterstützungsmethoden am meisten profitieren (Ertl et al., 2006).
 
-**Fokus** Inhalt Kooperation **Inhalt** vor der Kooperation Agenden Trainings während der Kooperation Wissensschemata Kooperationsskripts
+| | | **Fokus** |
+| --- | --- | --- |
+| | | Inhalt | Kooperation |
+| **Inhalt** | vor der Kooperation | Agenden | Trainings |
+| während der Kooperation | Wissensschemata | Kooperationsskripts |
 
 Tab. 1: Unterstützungsmöglichkeiten für Lernen und Kooperation in Videokonferenzen
 

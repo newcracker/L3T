@@ -13,7 +13,7 @@ Dem Zusammenhang zwischen der Sozialen Arbeit und der Vermittlung von Medienkomp
 
 Nach dem Slogan „Im Alter aktiv sein“ bemüht sich die moderne Soziale Arbeit mit Älteren um innovative Engagement- und Beteiligungsformen sowie eine „Produktivität im Alter“ (Kricheldorff, 2010, 68f.). Neue Medien werden zunehmend ein Teil der Zielgruppenarbeit in der Sozialen Altenarbeit. Dies geschieht derzeit unter anderem durch medienbiografische Aufarbeitung in der Arbeit mit Demenzerkrankten oder durch 'Internet-Patenschaften' zum Einstieg in die digitale Welt und ihre Möglichkeiten, älteres Klientel durch die Nutzung Sozialer Netzwerke vor Isolation und Vereinsamung zu bewahren.
 
-In ihrer Eigenschaft als Beruf am Menschen setzt Soziale Arbeit im Alltagsleben der Klientel an. Ihre Pädagogik kann sich vor der medialen Lebenswelt in allen Altersgruppen, insbesondere in der von (Massen-)Medien beeinflussten Kinder- und Jugendarbeit, nicht verschließen. Medienarbeit und die Medienkompetenz der Pädagoginnen und Pädagogen selbst entwickeln sich daher im Sinne der Förderung ihrer Zielgruppen zu substanziellen Aspekten sozialpädagogischen Handelns (Cleppien &amp; Lerche, 2010, 11).
+In ihrer Eigenschaft als Beruf am Menschen setzt Soziale Arbeit im Alltagsleben der Klientel an. Ihre Pädagogik kann sich vor der medialen Lebenswelt in allen Altersgruppen, insbesondere in der von (Massen-)Medien beeinflussten Kinder- und Jugendarbeit, nicht verschließen. Medienarbeit und die Medienkompetenz der Pädagoginnen und Pädagogen selbst entwickeln sich daher im Sinne der Förderung ihrer Zielgruppen zu substanziellen Aspekten sozialpädagogischen Handelns (Cleppien & Lerche, 2010, 11).
 
 ## Lebensweltorientiertes Arbeiten mit sozialen Medien
 

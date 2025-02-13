@@ -13,7 +13,7 @@ Die Grenzen zwischen dem Produzieren und Konsumieren von Inhalten schwinden spä
 
 Der edubreak-Videoplayer ermöglicht die bildgenaue, kollaborative Annotation mit Texten, Schlagwörtern, Sprachnotizen und Zeichnungen ([http://www.ghostthinker.de](http://www.ghostthinker.de)). Die professionelle Analyse und das Verwalten von Videos ermöglicht die netzwerkfähige Client-Anwendung DARTFISH Classroom. Ein plattformunabhängiges und frei verfügbares Video-Annotationstool wäre ANVIL. Auch das populäre Videoportal YouTube bietet die Möglichkeit einfache Annotationen in Videos vorzunehmen.
 
-Sollen Videoannotationen in der Lehre eingesetzt werden, ist vor allem das didaktische Design von Bedeutung (Krammer &amp; Hugener, 2005; Vohle &amp; Reinmann, 2012). Mindestens zwei Aspekte sind zu beachten: zum einen die Annotierungsebene und zum anderen das Lernsetting.
+Sollen Videoannotationen in der Lehre eingesetzt werden, ist vor allem das didaktische Design von Bedeutung (Krammer & Hugener, 2005; Vohle & Reinmann, 2012). Mindestens zwei Aspekte sind zu beachten: zum einen die Annotierungsebene und zum anderen das Lernsetting.
 
 Hinsichtlich der Annotierungsebene ergeben sich folgende Unterfragen: Geht es darum, im Videomaterial bestimmte Inhalte/Botschaften zu suchen und zu annotieren oder darum, bestimmte Zeitmarken aufzusuchen, um dort gestellte Fragen zu beantworten? Oder sollen die Lernenden frei Kommentare in Form von Textannotationen einbinden oder das Video mit Schlagwörtern anreichern (Tagging)?
 

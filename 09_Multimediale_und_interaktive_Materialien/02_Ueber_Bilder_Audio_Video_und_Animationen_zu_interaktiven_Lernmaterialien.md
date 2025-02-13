@@ -35,7 +35,7 @@ Musik setzt vor allem in virtuellen Lernwelten oder in E-Learning-Programmen an 
 
 </blockquote>
 
-Inhalte, die mit Emotionen verknüpft sind, werden leichter im Gedächtnis verankert. Die Erzeugung von Emotionen ist ein komplexer Prozess und nicht nur auf Musik beschränkt (Campbell, 1999; Vogler &amp; Kuhnke, 2004).
+Inhalte, die mit Emotionen verknüpft sind, werden leichter im Gedächtnis verankert. Die Erzeugung von Emotionen ist ein komplexer Prozess und nicht nur auf Musik beschränkt (Campbell, 1999; Vogler & Kuhnke, 2004).
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 

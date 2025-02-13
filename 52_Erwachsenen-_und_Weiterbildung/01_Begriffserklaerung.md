@@ -1,7 +1,7 @@
 <!-- filename: 01_Begriffserklaerung.md -->
 <!-- title: Begriffserklärung -->
 
-*„In der Fachliteratur wird Erwachsenenbildung häufig synonym mit dem Begriff der Weiterbildung verwendet und versteht die Fortsetzung oder Wiederaufnahme organisierten Lernens nach Abschluss einer unterschiedlich ausgedehnten ersten Bildungsphase.“ (Fuchs &amp; Reuter, 2000, 125)*
+*„In der Fachliteratur wird Erwachsenenbildung häufig synonym mit dem Begriff der Weiterbildung verwendet und versteht die Fortsetzung oder Wiederaufnahme organisierten Lernens nach Abschluss einer unterschiedlich ausgedehnten ersten Bildungsphase.“ (Fuchs & Reuter, 2000, 125)*
 
 Von *Weiterbildung* kann insbesondere dann gesprochen werden, wenn eine Erstausbildung abgeschlossen ist und bereits eine Phase der Berufstätigkeit vorliegt, während *Erwachsenenbildung* den Bogen weiter spannt und auch Bildungswege einschließt, denen keine erste Bildungsphase vorangeht (beispielsweise die Basisbildung und Alphabetisierung von Erwachsenen). Aus diesem allgemeinen Begriffsverständnis geht hervor, dass die Erwachsenen- und Weiterbildung eine sehr bedeutende Form der persönlichen Qualifizierung im lebenslangen Lernprozess eines Menschen darstellt. Sie kann sehr unterschiedliche Bildungsbereiche wie die allgemeine (persönliche), betriebliche (berufliche) oder die politische (gesellschaftliche) Bildung umfassen. Erwachsenen- und Weiterbildung versteht sich nicht nur als Ergebnis ausschließlich formaler oder non-formaler Aus- und Weiterbildungsprogramme, sondern als Resultat unterschiedlicher Lernprozesse sowie der Nutzung verschiedenartiger – auch informeller – Wissenskanäle und Medienangebote.
 

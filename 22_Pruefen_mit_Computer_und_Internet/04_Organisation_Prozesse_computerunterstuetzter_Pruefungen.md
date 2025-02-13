@@ -17,9 +17,13 @@ Beispielsysteme
 - SEB Safe Exam Browser: Unterstützung des sicheren Durchführens summativer Prüfungen (www.safeexambrowser.org)
 - Moodle – Quizmodule: Prüfungsmodul des Lernmanagementsystem Moodle, vorwiegend diagnostische und formative Prüfungen (www.moodle.org)
 
-Vorbereitung Durchführung Nachbereitung Fragenkataloge erstellen, reviewen und auf Server bereitstellen Systembetrieb sicherstellen Automatische beziehungsweise manuelle Korrekturen koordinieren und durchführen Teilnehmerlisten erzeugen Anwesenheit/Identität der Teilnehmer/innen prüfen Rückmeldung an Teilnehmer/innen geben Raum- und Zeitressourcen koordinieren Rechner- und Prüfungszugang koodinieren Notenlisten generieren und an das Prüfungsamt übermitteln Teilnehmer- und Organisationsdaten in Prüfungssystem importieren Organisatorische Fragen klären Einsicht- und Einspruchnahme koordinieren Teilnehmende mit dem Prüfungssystem vertraut machen Manipulation und Täuschung verhindern Prüfungs- bzw. Fragenkorrektur nach Einspruchsverfahren Archivierung sichern
-
-</blockquote>
+| Vorbereitung | Durchführung | Nachbereitung |
+| --- | --- | --- |
+| Fragenkataloge erstellen, reviewen und auf Server bereitstellen | Systembetrieb sicherstellen | Automatische beziehungsweise manuelle Korrekturen koordinieren und durchführen |
+| Teilnehmerlisten erzeugen | Anwesenheit/Identität der Teilnehmer/innen prüfen | Rückmeldung an Teilnehmer/innen geben |
+| Raum- und Zeitressourcen koordinieren | Rechner- und Prüfungszugang koodinieren | Notenlisten generieren und an das Prüfungsamt übermitteln |
+| Teilnehmer- und Organisationsdaten in Prüfungssystem importieren | Organisatorische Fragen klären | Einsicht- und Einspruchnahme koordinieren |
+| Teilnehmende mit dem Prüfungssystem vertraut machen | Manipulation und Täuschung verhindern | Prüfungs- bzw. Fragenkorrektur nach Einspruchsverfahren Archivierung sichern |
 
 Tab. 2: Organisatorische Prozesse in computerunterstützten Klausuren
 
@@ -45,9 +49,11 @@ Geben Sie jeweils Beispiele aus Ihrem Umfeld für die vier Kategorien, in die ei
 
 </blockquote>
 
-TECHNISCHE KLASSIFIZIERUNG Korrekturunterstützung manuell automatisch Internetanbindung online Web-Based  Assisted  Assessment (WAA) Web-Based Assessment (WBA) stand-alone Computer-Assisted Assessment (CAA) Computer-Based  Assessment  (CBA)
-
-</blockquote>
+| TECHNISCHE KLASSIFIZIERUNG | Korrekturunterstützung |
+| --- | --- |
+| manuell | automatisch |
+| Internetanbindung | online | Web-Based Assisted Assessment (WAA) | Web-Based Assessment (WBA) |
+| | stand-alone | Computer-Assisted Assessment (CAA) | Computer-Based Assessment (CBA) |
 
 Tab. 3: Technische Klassifizierung der E- Assessment-Systeme
 

@@ -1,9 +1,18 @@
 <!-- filename: 04_Evaluation_der_Ergebnisse.md -->
 <!-- title: Evaluation der Ergebnisse -->
 
-Suchdienste und Informationsquellen URL Bielefeld Academic Search Engine (BASE) [http://base.ub.uni-bielefeld.de/de/index.php](http://base.ub.uni-bielefeld.de/de/index.php) Education Resources Information Center (ERIC) [http://www.eric.ed.gov](http://www.eric.ed.gov) Literaturdatenbank Berufliche Bildung (LDBB) [http://ldbb.bibb.de](http://ldbb.bibb.de) Deutscher Bildungsserver (beim DIPF) [http://www.bildungsserver.de](http://www.bildungsserver.de) Fachinformationssystem Bildung (FIS) [http://www.fis-bildung.de](http://www.fis-bildung.de) Google Scholar [http://scholar.google.de](http://scholar.google.de) Directory of Open Access Journals (DOAJ) [http://www.doaj.org](http://www.doaj.org) OAIster Database [http://www.oclc.org/oaister/](http://www.oclc.org/oaister/) Scientific Commons [http://www.scientificcommons.org/](http://www.scientificcommons.org/) Scirus (Elsevier) [http://www.scirus.com](http://www.scirus.com)
-
-</blockquote>
+| Suchdienste und Informationsquellen | URL |
+| --- | --- |
+| Bielefeld Academic Search Engine (BASE) | [http://base.ub.uni-bielefeld.de/de/index.php](http://base.ub.uni-bielefeld.de/de/index.php) |
+| Education Resources Information Center (ERIC) | [http://www.eric.ed.gov](http://www.eric.ed.gov) |
+| Literaturdatenbank Berufliche Bildung (LDBB) | [http://ldbb.bibb.de](http://ldbb.bibb.de) |
+| Deutscher Bildungsserver (beim DIPF) | [http://www.bildungsserver.de](http://www.bildungsserver.de) |
+| Fachinformationssystem Bildung (FIS) | [http://www.fis-bildung.de](http://www.fis-bildung.de) |
+| Google Scholar | [http://scholar.google.de](http://scholar.google.de) |
+| Directory of Open Access Journals (DOAJ) | [http://www.doaj.org](http://www.doaj.org) |
+| OAIster Database | [http://www.oclc.org/oaister/](http://www.oclc.org/oaister/) |
+| Scientific Commons | [http://www.scientificcommons.org/](http://www.scientificcommons.org/) |
+| Scirus (Elsevier) | [http://www.scirus.com](http://www.scirus.com) |
 
 Tab. 7: Wissenschaftliche Suchdienste und Informationsquellen
 

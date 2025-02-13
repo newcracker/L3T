@@ -3,7 +3,7 @@
 
 Unser Gedächtnis unterteilt sich in verschiedene Bereiche. Prinzipiell ist es verantwortlich für die Aufnahme, die Enkodierung und Weiterverarbeitung von Informationen sowie für die Speicherung und langfristig auch für den Abruf relevanter Informationen.
 
-Wir haben ein sensorisches Gedächtnis, ein Arbeitsgedächtnis und ein Langzeitgedächtnis. Dabei spricht man auch vom **Drei-Speicher-Modell** (Zimbardo &amp; Gerrig, 2004, siehe Abbildung 1).
+Wir haben ein sensorisches Gedächtnis, ein Arbeitsgedächtnis und ein Langzeitgedächtnis. Dabei spricht man auch vom **Drei-Speicher-Modell** (Zimbardo & Gerrig, 2004, siehe Abbildung 1).
 
 <center><figure>
   <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/20_Multimedia_und_Gedaechtnis/img/01_Das_DreiSpeicherModell_des_menschlichen_Gedächtnisses.jpg" alt="Abb. 1: Das Drei-Speicher-Modell des menschlichen Gedächtnisses">

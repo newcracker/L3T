@@ -14,6 +14,6 @@ In allen Schritten des Bildungszyklus‘ können digitale Technologien zum Einsa
 
 ### !
 
-Als weitere Lektüre empfehlen wir: Brahm, T. &amp; Seufert, S. (2009). Kompetenzentwicklung mit Web 2.0. Good Practices aus Unternehmen. In: scil Arbeitsbericht. St. Gallen: Universität St. Gallen, 5-5. URL: http://www.scil.unisg.ch/de/scil+Vortraege+Publikationen/Bestellformular \[2013-08-12].
+Als weitere Lektüre empfehlen wir: Brahm, T. & Seufert, S. (2009). Kompetenzentwicklung mit Web 2.0. Good Practices aus Unternehmen. In: scil Arbeitsbericht. St. Gallen: Universität St. Gallen, 5-5. URL: http://www.scil.unisg.ch/de/scil+Vortraege+Publikationen/Bestellformular \[2013-08-12].
 
 </blockquote>

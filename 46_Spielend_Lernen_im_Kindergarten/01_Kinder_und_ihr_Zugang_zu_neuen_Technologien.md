@@ -25,7 +25,7 @@ Aktuelle Forschungsergebnisse zur Nutzung von neuen Technologien im elementaren 
 
 Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
-Die Potenziale neuer Technologien stellen deshalb auch die Bildungsinstitutionen für drei- bis sechsjährige Kinder vor die Herausforderung, Konzepte für aktuelle und engagierte Medienbildung zu entwickeln. Elementare Bildungseinrichtungen sind aufgefordert, die Lebenswelt der Kinder zu reflektieren und die Basis für lebensbegleitende Bildungsprozesse zu legen. Bisher findet die Medienkompetenzförderung in den Bildungsplänen der deutschen Bundesländer unterschiedliche Beachtung (Neuß, 2013). Da die Verwendung von digitalen Technologien die Wissensgesellschaft in entscheidendem Maße prägt, beeinflussen Medien dementsprechend auch die frühe Kindheit und können als bedeutender Sozialisationsfaktor gesehen werden (Theunert &amp; Schorb, 2004).
+Die Potenziale neuer Technologien stellen deshalb auch die Bildungsinstitutionen für drei- bis sechsjährige Kinder vor die Herausforderung, Konzepte für aktuelle und engagierte Medienbildung zu entwickeln. Elementare Bildungseinrichtungen sind aufgefordert, die Lebenswelt der Kinder zu reflektieren und die Basis für lebensbegleitende Bildungsprozesse zu legen. Bisher findet die Medienkompetenzförderung in den Bildungsplänen der deutschen Bundesländer unterschiedliche Beachtung (Neuß, 2013). Da die Verwendung von digitalen Technologien die Wissensgesellschaft in entscheidendem Maße prägt, beeinflussen Medien dementsprechend auch die frühe Kindheit und können als bedeutender Sozialisationsfaktor gesehen werden (Theunert & Schorb, 2004).
 
 Kinder erwerben bereits in ihrem familiären Umfeld grundlegende Medienkompetenzen (Spanhel, 2002). Diese erworbene Medienkompetenz sollte im Einzelfall kritisch betrachtet werden. Prinzipiell sollten sich Konzepte der Medienbildung im Kindergarten an diesen ersten Kompetenzen orientieren und darauf aufbauen. Der Umgang mit neuen Technologien bedarf einer frühzeitigen und pädagogisch wertvollen Herangehensweise, die Kindern eine verantwortungsvolle, selbstbestimmte Partizipation in der Mediengesellschaft ermöglicht. Hierzu ist eine spielerische Gestaltung notwendig, die es den Kindern erlaubt, sich ihre eigenen, individuellen Handhabungen selbstgesteuert anzueignen und in der sie sich selbst als Person ausprobieren können.
 
@@ -33,8 +33,8 @@ Kinder erwerben bereits in ihrem familiären Umfeld grundlegende Medienkompetenz
 
 ### !
 
-- Aufenanger, S. &amp; Neuß, N. (1999). Alles Werbung, oder was? Medienpädagogische Ansätze zur Vermittlung von Werbekompetenz im Kindergarten. Ein Forschungsprojekt der Unabhängigen Landesanstalt für das Rundfunkwesen (ULR). URL: http://www.dr-neuss.de/Onlinetexte \[2010-09-28].
-- LfM Nordrhein-Westfalen; LPR Hessen &amp; LPR Rheinland-Pfalz (2003). Kinder und Werbung. Bausteine für den Kindergarten. Medienpädagogischer Baukasten zum Thema „Kinder und Werbung“. Medienpädagogisches Material. München: kopaed.
+- Aufenanger, S. & Neuß, N. (1999). Alles Werbung, oder was? Medienpädagogische Ansätze zur Vermittlung von Werbekompetenz im Kindergarten. Ein Forschungsprojekt der Unabhängigen Landesanstalt für das Rundfunkwesen (ULR). URL: http://www.dr-neuss.de/Onlinetexte \[2010-09-28].
+- LfM Nordrhein-Westfalen; LPR Hessen & LPR Rheinland-Pfalz (2003). Kinder und Werbung. Bausteine für den Kindergarten. Medienpädagogischer Baukasten zum Thema „Kinder und Werbung“. Medienpädagogisches Material. München: kopaed.
 
 </blockquote>
 

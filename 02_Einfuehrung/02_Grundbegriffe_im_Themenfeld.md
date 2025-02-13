@@ -45,7 +45,7 @@ Deckt sich Ihr, bei der obigen Frage formuliertes, Verständnis vom Lernen und L
 
 Wir haben versucht, die jeweiligen Technologien, die bei Verwendung der drei vorgestellten Begriffe „mitgedacht“ werden, in Abbildung 1 zu visualisieren. Das Verständnis der Begriffe ist jedoch nicht einheitlich.
 
-Zusätzlich gibt es eine Reihe enger gefasster, also auf einige Technologien beschränkte Begriffe des technologiegestützten Lernens, wie beispielsweise das **mobile Lernen** mit Mobiltelefonen und anderen portablen Geräten (engl. „mobile learning“; m-Learning; siehe Kapitel #mobil) oder auch das **Online-Lernen** für das internet- bzw. intranetgestützte Fernlernen (siehe Kapitel #fernunterricht).
+Zusätzlich gibt es eine Reihe enger gefasster, also auf einige Technologien beschränkte Begriffe des technologiegestützten Lernens, wie beispielsweise das **mobile Lernen** mit Mobiltelefonen und anderen portablen Geräten (engl. „mobile learning“;m-Learning; siehe Kapitel #mobil) oder auch das **Online-Lernen** für das internet- bzw. intranetgestützte Fernlernen (siehe Kapitel #fernunterricht).
 
 Auch gibt es Begriffe technologiegestützten Lernens, die nicht auf die Nutzung ausgewählter Technologien hinweisen. Vielfach wird im Bereich des technologiegestützten Lernens auf **bestimmte Methoden** abgezielt. So steht CSCL für das computergestützte kooperative Lernen (engl. „computer supported collaborative learning“). Damit haben wir auch aufgeklärt, worum es sich beim einführend erwähnten „CSCL-Kompendium“ handelt. Oder hatten Sie das gewusst?
 

@@ -7,4 +7,4 @@ Existierende Modelle und Verfahren der Zukunftsforschung und Innovationsentwickl
 
 ## Danksagung
 
-Herzlichen Dank an Walther Nagler und Jochen Robes für ihr konstruktives Feedback bei der ersten Version des Kapitels (Schön &amp; Markus, 2011) zudem auch an Timo van Treeck sowie Martina Friesenbichler für die konstruktiven Hinweise bei der aktuellen Überarbeitung.
+Herzlichen Dank an Walther Nagler und Jochen Robes für ihr konstruktives Feedback bei der ersten Version des Kapitels (Schön & Markus, 2011) zudem auch an Timo van Treeck sowie Martina Friesenbichler für die konstruktiven Hinweise bei der aktuellen Überarbeitung.

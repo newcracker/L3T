@@ -1,7 +1,7 @@
 <!-- filename: 04_Ausblick.md -->
 <!-- title: Ausblick -->
 
-So spannend Forschung und Entwicklung neuer Technologien zur Unterstützung menschlichen Lernens auch sind, muss uns doch stets klar sein: Lernen ist ein kognitiver Grundprozess, den jedes Individuum selbst durchlaufen muss – Technologie kann menschliches Lernen lediglich unterstützen – *nicht* ersetzen. Unsere großen Chancen beim Einsatz neuer Technologien liegen zusammengefasst in drei großen Bereichen (Holzinger, 1997; Holzinger &amp; Maurer, 1999; Holzinger, 2000a; Holzinger, 2000d):
+So spannend Forschung und Entwicklung neuer Technologien zur Unterstützung menschlichen Lernens auch sind, muss uns doch stets klar sein: Lernen ist ein kognitiver Grundprozess, den jedes Individuum selbst durchlaufen muss – Technologie kann menschliches Lernen lediglich unterstützen – *nicht* ersetzen. Unsere großen Chancen beim Einsatz neuer Technologien liegen zusammengefasst in drei großen Bereichen (Holzinger, 1997; Holzinger & Maurer, 1999; Holzinger, 2000a; Holzinger, 2000d):
 
 - Sichtbarmachung von Vorgängen, die wir mit klassischen Medien wie der Schultafel nicht darstellen können, wie zum Beispielinteraktive Simulationen, Animationen, Visualisierungen (Holzinger et al., 2006; Holzinger et al., 2009).
 - Zugriff auf Information an jedem Ort zu jeder Zeit,zum Beispiel M-Learning, Wikis und weitere (Ebner et al., 2008; Holzinger et al., 2009).

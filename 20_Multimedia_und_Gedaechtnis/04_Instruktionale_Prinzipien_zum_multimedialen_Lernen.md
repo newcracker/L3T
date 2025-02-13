@@ -19,7 +19,7 @@ Die bisherigen Befunde beziehen sich auf multimediale Lernmaterialien, in denen 
 
 Empfehlungen zur weiteren Lektüre:
 
-- Clark, R. C. &amp; Mayer, R.E. (2011). e-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (3rd ed.). San Francisco: Pfeiffer.
+- Clark, R. C. & Mayer, R.E. (2011). e-Learning and the Science of Instruction: Proven Guidelines for Consumers and Designers of Multimedia Learning (3rd ed.). San Francisco: Pfeiffer.
 - Mayer, R. E. (2009). Multimedia Learning. Cambridge: Cambridge University Press.
 
 </blockquote>

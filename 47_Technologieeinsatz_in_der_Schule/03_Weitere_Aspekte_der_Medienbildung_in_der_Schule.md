@@ -27,8 +27,10 @@ Der Erwerb von Medienkompetenz bei Lehrpersonen muss sich heute nicht mehr vorne
 
 Grundsätzlich könnte über all die vorhandenen Kanäle fachliche Kooperation und Kommunikation vollzogen werden. Dabei können engere Fortbildungsaspekte im Vordergrund stehen, wie zum BeispielMaterialaustausch, kollaborative Erarbeitung von Unterrichtsreihen, Diskussion didaktischer Probleme etc., es können aber auch große inhaltliche Bandbreiten bis hin zu sehr speziellen Mediennutzungsfragen abgehandelt werden. Wichtig ist dabei, dass die Lehrer/innen Networking als hilfreich erfahren und diese zentrale Kompetenz für den fachlichen Bereich an die Schüler/innen weitergeben, die diese Kompetenz überwiegend privat nutzen.
 
-Onlinecampus Virtuelle PH [http://onlinecampus.virtuelle-ph.at/](http://onlinecampus.virtuelle-ph.at/) Intel Lehren Interaktiv [http://www.intel-interaktiv.de/](http://www.intel-interaktiv.de/) Lehrer‐Online / Unterrichten mit digitalen Medien [http://www.lehrer‐online.de/](http://www.lehrer%E2%80%90online.de/) Online‐Internetkurs [http://www.zum.de/internetkurs/](http://www.zum.de/internetkurs/)
-
-</blockquote>
+| Onlinecampus Virtuelle PH | [http://onlinecampus.virtuelle-ph.at/](http://onlinecampus.virtuelle-ph.at/) |
+| --- | --- |
+| Intel Lehren Interaktiv | [http://www.intel-interaktiv.de/](http://www.intel-interaktiv.de/) |
+| Lehrer‐Online / Unterrichten mit digitalen Medien | [http://www.lehrer‐online.de/](http://www.lehrer%E2%80%90online.de/) |
+| Online‐Internetkurs | [http://www.zum.de/internetkurs/](http://www.zum.de/internetkurs/) |
 
 Tab.2: Beispiel zur Fortbildung von Lehrerinnen und Lehrer im Internet

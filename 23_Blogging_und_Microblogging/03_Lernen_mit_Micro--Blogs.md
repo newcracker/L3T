@@ -3,9 +3,9 @@
 
 ## Microlearning
 
-Das Lernen mit Micro-/Blogs ist durch kurze Beiträge und kurze Lernphasen gekennzeichnet. Micro-/Blogeinträge sind kleine, selbständige und thematisch abgrenzbare Informationseinheiten. Ähnlich kleinen ‚Wissenshäppchen‘ können sie als Microcontent, d.h. kleine, lose gekoppelte Informationsbausteine, bezeichnet werden (Weinberger, 2002; Lindner, 2006). Micro-/Blogeinträge können im Rahmen von kurzen Lernaktivitäten individuell bearbeitet, kommentiert und zusammengestellt werden. In diesem Zusammenhang ist von ,Microlearning‘ die Rede, das aus kurzen Lernphasen besteht, in denen Microcontent, d.h. kleine Inhaltsportionen, als Lernressource erstellt und bearbeitet wird (Robes, 2009; Buchem &amp; Hamelmann, 2010).
+Das Lernen mit Micro-/Blogs ist durch kurze Beiträge und kurze Lernphasen gekennzeichnet. Micro-/Blogeinträge sind kleine, selbständige und thematisch abgrenzbare Informationseinheiten. Ähnlich kleinen ‚Wissenshäppchen‘ können sie als Microcontent, d.h. kleine, lose gekoppelte Informationsbausteine, bezeichnet werden (Weinberger, 2002; Lindner, 2006). Micro-/Blogeinträge können im Rahmen von kurzen Lernaktivitäten individuell bearbeitet, kommentiert und zusammengestellt werden. In diesem Zusammenhang ist von ,Microlearning‘ die Rede, das aus kurzen Lernphasen besteht, in denen Microcontent, d.h. kleine Inhaltsportionen, als Lernressource erstellt und bearbeitet wird (Robes, 2009; Buchem & Hamelmann, 2010).
 
-Microlearning mit Micro-/Blogs kann flexibel in den Alltag integriert werden, zum Beispiel als ergänzendes Element für formelle Lehr-/Lernangebote, z.B. an Hoch-/Schulen, oder als eigenständiger Baustein zum lebenslangen Lernen, z.B. berufsbegleitend (Buchem &amp; Hamelmann, 2010).
+Microlearning mit Micro-/Blogs kann flexibel in den Alltag integriert werden, zum Beispiel als ergänzendes Element für formelle Lehr-/Lernangebote, z.B. an Hoch-/Schulen, oder als eigenständiger Baustein zum lebenslangen Lernen, z.B. berufsbegleitend (Buchem & Hamelmann, 2010).
 
 Nach Lindner (2006) und Kerres (2007) sind mit der Anwendung von Micro-/Blogs in Bildungskontexten einige Fragen verbunden, u.a.:
 

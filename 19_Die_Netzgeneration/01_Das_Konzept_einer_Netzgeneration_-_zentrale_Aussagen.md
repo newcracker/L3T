@@ -1,7 +1,7 @@
 <!-- filename: 01_Das_Konzept_einer_Netzgeneration_-_zentrale_Aussagen.md -->
 <!-- title: Das Konzept einer „Netzgeneration“ – zentrale Aussagen -->
 
-Seit mehr als zehn Jahren wird von verschiedenen Autorinnen und Autoren das Konzept einer „Netzgeneration“ geprägt (zum Beispiel Tapscott, 1997; Prensky, 2001; Paloff &amp; Pratt, 2003; Oblinger &amp; Oblinger, 2005). Weitere greifen das Konzept im Zusammenhang mit eigenen Ausführungen zustimmend auf (für eine ausführlichere Übersicht Schulmeister, 2009, 36-37). Die Begrifflichkeiten und die Verwendung des Konzepts sind im Detail unterschiedlich, allen gemeinsam sind jedoch die **folgenden Thesen**:
+Seit mehr als zehn Jahren wird von verschiedenen Autorinnen und Autoren das Konzept einer „Netzgeneration“ geprägt (zum Beispiel Tapscott, 1997; Prensky, 2001; Paloff & Pratt, 2003; Oblinger & Oblinger, 2005). Weitere greifen das Konzept im Zusammenhang mit eigenen Ausführungen zustimmend auf (für eine ausführlichere Übersicht Schulmeister, 2009, 36-37). Die Begrifflichkeiten und die Verwendung des Konzepts sind im Detail unterschiedlich, allen gemeinsam sind jedoch die **folgenden Thesen**:
 
 - Die derzeit aufwachsenden Kinder und Jugendlichen haben ein weitgehend homogenes Mediennutzungsverhalten, das sich grundlegend von dem der Generationen vor ihnen unterscheidet.
 - Da sie in einer Zeit aufwachsen, die von einer weiten Verbreitung und Nutzung von digitalen Technologien gekennzeichnet ist, gehen sie selbstverständlich und kompetent mit den Technologien um.

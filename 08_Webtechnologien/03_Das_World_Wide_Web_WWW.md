@@ -21,7 +21,7 @@ Jedes Dokument im Web wird durch eine URL (Uniform Resource Locator) identifizie
 ### !
 
 Die Komponenten der URL sind folgendermaßen angeordnet: protokoll://host/pfad. Der Host-Teil gibt die Adresse des Webservers, auf dem die Dokumente gespeichert sind, an. Er kann darüber hinaus einen Port, das heißt einen ‚Anschluss‘ am Server (zum Beispiel [http://www.example.org:80](http://www.example.org:80)), beinhalten.  
-Der Pfad-Teil kann um einen query string, das heißt zusätzliche Informationen wie die Inhalte einer Suchanfrage (z. B. [http://www.example.org:80/demo/example.cgi?land=de&amp;stadt=aa](http://www.example.org:80/demo/example.cgi?land=de&stadt=aa)),  
+Der Pfad-Teil kann um einen query string, das heißt zusätzliche Informationen wie die Inhalte einer Suchanfrage (z. B. [http://www.example.org:80/demo/example.cgi?land=de&stadt=aa](http://www.example.org:80/demo/example.cgi?land=de&stadt=aa)),  
 erweitert sein.
 
 </blockquote>
@@ -83,7 +83,7 @@ Zu guter Letzt bedeutet unter anderem das zustandslose Design des Protokolls, da
 
 Webservices sind eine spezielle Art von Webanwendungen, die der Bereitstellung von Daten für andere Applikationen dienen (World Wide Web Consortium, 2004). Sie sind üblicherweise Application Programming Interfaces (API) und stellen als solche eine einheitlich definierte Schnittstelle für fremde Anwendungen zur Verfügung, um auf die Funktionalität des Service zuzugreifen, indem der Service Daten bereitstellt.
 
-In Zusammenhang mit Informationssystemen für das Lernen und Lehren bietet die Integration solcher Webservices innovative Ansätze für die Einbindung externer Ressourcen und Funktionalitäten in ein derartiges Informationssystem (Vossen &amp; Westerkamp, 2003). Anders als bei Webanwendungen werden bei Webservices üblicherweise keine HTMLDokumente vom Server geladen, da für die aufrufenden Applikationen Formatierungen sowie die Lesbarkeit für menschliche Benutzer/innen irrelevant sind und der Fokus rein auf dem Inhalt liegt.
+In Zusammenhang mit Informationssystemen für das Lernen und Lehren bietet die Integration solcher Webservices innovative Ansätze für die Einbindung externer Ressourcen und Funktionalitäten in ein derartiges Informationssystem (Vossen & Westerkamp, 2003). Anders als bei Webanwendungen werden bei Webservices üblicherweise keine HTMLDokumente vom Server geladen, da für die aufrufenden Applikationen Formatierungen sowie die Lesbarkeit für menschliche Benutzer/innen irrelevant sind und der Fokus rein auf dem Inhalt liegt.
 
 Der Grundgedanke von Webservices ist die Möglichkeit der automatischen Verarbeitung von Daten im Web durch Softwareagenten, welche lose gekoppelt Aufgaben für Benutzer/innen ausführen. Webservices stellen ihre detailliert beschriebene Funktionalität hierbei anderen Anwendungen zur Verfügung, seien dies autonome Agenten, Webanwendungen oder andere Webservices. Dadurch können Entwickler/innen bereits bestehende Funktionalitäten in ihren eigenen Anwendungen verwenden (Mashup, siehe Abschnitt 6).
 
@@ -107,9 +107,11 @@ Beschreiben Sie die Unterschiede zwischen Webanwendungen und Webservices Verglei
 
 </blockquote>
 
-Webanwendung Webservice Zielgruppe: (menschliche) Benutzer/innen Zielgruppe: andere Applikationen Ausgabe als HTML Ausgabe als XML o.ä. für Maschinen optimierte Formate Clientseitiges Programm: Browser Verarbeitung in anderen Applikationen
-
-</blockquote>
+| Webanwendung | Webservice |
+| --- | --- |
+| Zielgruppe: (menschliche) Benutzer/innen | Zielgruppe: andere Applikationen |
+| Ausgabe als HTML | Ausgabe als XML o.ä. für Maschinen optimierte Formate |
+| Clientseitiges Programm: Browser | Verarbeitung in anderen Applikationen |
 
 Tab. 2: Unterschiede von Webanwendung und Webservice
 

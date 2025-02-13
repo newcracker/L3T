@@ -5,7 +5,7 @@ Hier sollen vier neuere, repräsentative Studien herangezogen werden, um die Div
 
 ## ARD/ZDF-Onlinestudie 2009
 
-Die ARD/ZDF-Onlinestudie 2009 zeigt zwar, dass sich das Mediennutzungsverhalten der unter 30-Jährigen stark von dem der darüber liegenden Altersgruppen unterscheidet, aber dass die Gruppe der unter-30-Jährigen dennoch mindestens in zwei verschiedene Subgruppen zerfällt: Unter Rückgriff auf die Typologie der Mediennutzer/innen der MNT-Justierungsstudie 2006 werden die Subgruppen „Junge Wilde“ und „Zielstrebige Trendsetter“ unterschieden, deren Medienhandeln in zahlreichen Bereichen Differenzen aufweist. Diese können durch verschiedene Bedürfnis- und Interessenlagen, Bildungsniveaus und lebensweltliche Rahmenbedingungen erklärt werden (Oehmichen &amp; Schröter 2009).
+Die ARD/ZDF-Onlinestudie 2009 zeigt zwar, dass sich das Mediennutzungsverhalten der unter 30-Jährigen stark von dem der darüber liegenden Altersgruppen unterscheidet, aber dass die Gruppe der unter-30-Jährigen dennoch mindestens in zwei verschiedene Subgruppen zerfällt: Unter Rückgriff auf die Typologie der Mediennutzer/innen der MNT-Justierungsstudie 2006 werden die Subgruppen „Junge Wilde“ und „Zielstrebige Trendsetter“ unterschieden, deren Medienhandeln in zahlreichen Bereichen Differenzen aufweist. Diese können durch verschiedene Bedürfnis- und Interessenlagen, Bildungsniveaus und lebensweltliche Rahmenbedingungen erklärt werden (Oehmichen & Schröter 2009).
 
 Es zeigen sich deutliche inhaltliche Unterschiede bei der Nutzung von Online-Informationsangeboten (zum Beispiel Nachrichtendienste: „Zielstrebige Trendsetter“ 51 % gegenüber „Junge Wilden“ 37%), aber auch Differenzen bei der aktiven Nutzung bestimmter Online-Anwendungen wie zum Beispiel beruflicher Netzwerke (Abb. 3).
 
@@ -39,7 +39,7 @@ Auch die JIM-Studie zeigt im Bereich von Computer- und Internetnutzung ein diffe
 
 ## EU Kids Online 2009
 
-In der Studie EU Kids Online 2009 (Livingstone &amp; Haddon, 2009) werden die Internetnutzung sowie die dadurch entstehenden Risiken für Kinder und Jugendliche europaweit verglichen. Hier zeigen sich erhebliche Unterschiede zwischen den einzelnen Ländern, zum Beispiel in der Anzahl der Internetnutzenden unter den 6- bis 17-Jährigen (siehe Abb. 1). Zusätzlich wurden zahlreiche Ungleichheiten in Abhängigkeit von Alter, Geschlecht und sozioökonomischem Status festgestellt (Zimic, 2009).
+In der Studie EU Kids Online 2009 (Livingstone & Haddon, 2009) werden die Internetnutzung sowie die dadurch entstehenden Risiken für Kinder und Jugendliche europaweit verglichen. Hier zeigen sich erhebliche Unterschiede zwischen den einzelnen Ländern, zum Beispiel in der Anzahl der Internetnutzenden unter den 6- bis 17-Jährigen (siehe Abb. 1). Zusätzlich wurden zahlreiche Ungleichheiten in Abhängigkeit von Alter, Geschlecht und sozioökonomischem Status festgestellt (Zimic, 2009).
 
 ## Studie zum Medienhandeln Jugendlicher von Treumann et al. (2007)
 

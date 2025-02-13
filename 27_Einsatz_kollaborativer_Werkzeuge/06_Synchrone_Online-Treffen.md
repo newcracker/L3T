@@ -13,7 +13,7 @@ Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
 ### In der Praxis: Kollaborationswerkzeuge im Einsatz
 
-Die Werkzeuge, die wir hier exemplarisch vorstellen, sind zunächst nicht mehr als genau das – Werkzeuge. Es sind allerdings Werk­zeuge, die den Handlungsspielraum von Lehrenden und Lernenden wesentlich erweitern können (Wageneder &amp; Jadin, 2007). Didaktisch kompetente Lehrende haben so ganz neue Möglichkeiten der kreativen Gestaltung von Lehr- und Lern­settings. Lernende können diese Werkzeuge auf vielfältige Art und Weise für ihr Lernen nutzen. Hier wollen wir nun anhand eines Beispiels darstellen, wie diese Werkzeuge in einem praktischen Lehr- und Lernsetting eingesetzt werden können.  
+Die Werkzeuge, die wir hier exemplarisch vorstellen, sind zunächst nicht mehr als genau das – Werkzeuge. Es sind allerdings Werk­zeuge, die den Handlungsspielraum von Lehrenden und Lernenden wesentlich erweitern können (Wageneder & Jadin, 2007). Didaktisch kompetente Lehrende haben so ganz neue Möglichkeiten der kreativen Gestaltung von Lehr- und Lern­settings. Lernende können diese Werkzeuge auf vielfältige Art und Weise für ihr Lernen nutzen. Hier wollen wir nun anhand eines Beispiels darstellen, wie diese Werkzeuge in einem praktischen Lehr- und Lernsetting eingesetzt werden können.  
 </blockquote>
 
 ## Die Lehrveranstaltung ‚eStudy Skills’

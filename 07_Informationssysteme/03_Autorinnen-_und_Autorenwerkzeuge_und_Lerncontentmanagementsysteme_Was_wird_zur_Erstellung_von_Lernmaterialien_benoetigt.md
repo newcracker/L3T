@@ -1,7 +1,7 @@
 <!-- filename: 03_Autorinnen-_und_Autorenwerkzeuge_und_Lerncontentmanagementsysteme_Was_wird_zur_Erstellung_von_Lernmaterialien_benoetigt.md -->
 <!-- title: Autorinnen- und Autorenwerkzeuge und Lerncontentmanagementsysteme: Was wird zur Erstellung von Lernmaterialien benötigt? -->
 
-Materialien für das Lernen am Computer können schon mit einfachen HTML-Editoren und Entwicklungsumgebungen erstellt werden. Die Lehrenden verfügen aber oft nicht über die nötigen (Programmier-)Kenntnisse, um mit diesen einfachen und unspezialisierten Werkzeugen ansprechende Lernmaterialien zu erstellen. Autorinnen- und Autorenwerkzeuge wurden daher speziell dafür entwickelt, um die Anwender/innen bei der multimedialen und didaktischen Aufbereitung der Lerninhalte zu unterstützen (Seufert &amp; Mayr, 2002).
+Materialien für das Lernen am Computer können schon mit einfachen HTML-Editoren und Entwicklungsumgebungen erstellt werden. Die Lehrenden verfügen aber oft nicht über die nötigen (Programmier-)Kenntnisse, um mit diesen einfachen und unspezialisierten Werkzeugen ansprechende Lernmaterialien zu erstellen. Autorinnen- und Autorenwerkzeuge wurden daher speziell dafür entwickelt, um die Anwender/innen bei der multimedialen und didaktischen Aufbereitung der Lerninhalte zu unterstützen (Seufert & Mayr, 2002).
 
 <center><figure>
   <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/07_Informationssysteme/img/03_In_Autorinnen_und_Autorenwerkzeugen_werden_verschiedene_Medien_zu_Lernmaterialie.jpg" alt="Abb. 3: In Autorinnen- und Autorenwerkzeugen werden verschiedene Medien zu Lernmaterialien aufbereitet">
@@ -50,7 +50,7 @@ Autorinnen- und Autorensysteme unterstützen die Erstellung von Lernmaterialien 
 
 Für Autorinnen und Autoren bieten solche Werkzeuge oft alle nötigen Funktionalitäten, um Lernmaterialien professionell und in relativ kurzer Zeit zu erstellen. Die Erstellung von Lernmaterialien, insbesondere bei größeren Lehrveranstaltungen oder Trainingsreihen, werden aber immer öfter von Teams von Autorinnen und Autoren übernommen.
 
-Bei der Zusammenarbeit mehrerer Autorinnen und Autoren und anderen steigenden Ansprüchen stößt man schnell an die Grenzen der Einzelplatzlösungen (Kuhlmann &amp; Sauter, 2008, 78):
+Bei der Zusammenarbeit mehrerer Autorinnen und Autoren und anderen steigenden Ansprüchen stößt man schnell an die Grenzen der Einzelplatzlösungen (Kuhlmann & Sauter, 2008, 78):
 
 - *Konsistente Darstellung*: Trotz genauer Vorgaben zur Gestaltung der Lernmaterialien können sich die Umsetzungen verschiedener Autorinnen und Autoren visuell voneinander unterscheiden. Um besondere Inhaltselemente wie beispielsweise Zitate, Hervorhebungen, Erläuterungen oder Beispiele einheitlich dazustellen, ist oft eine sorgfältige (gegenseitige) Begutachtung nötig.
 
@@ -68,7 +68,7 @@ Bei der Zusammenarbeit mehrerer Autorinnen und Autoren und anderen steigenden An
 
 ### In der Praxis: Wann werden mehrere Autorinnen und Autoren benötigt?
 
-Beim Vorliegen einer oder mehrerer folgender Gründe ist die Zusammenarbeit mehrerer Autorinnen und Autoren notwendig (Lorenz &amp;Faßmann, 2010): (a) Die Erstellung der Lernmaterialien ist für eine/n Autor/in zu umfangreich. (b) Für Fachwissen sollen bzw. müssen die jeweiligen Expertinnen und Experten eingebunden werden. (c) Für die Erstellung und Anbindung von Medien müssen Designerinnen und Designer auf die Lernmaterialien zugreifen können. (d) Es werden Übersetzerinnen und Übersetzer für die Bereitstellung der Lerninhalte in andere Sprachen benötigt. (e) Die erstellten Lerninhalte müssen zur Qualitätssicherung von Gutachterinnen und Gutachtern oder Kundinnen und Kunden eingesehen und gegebenenfalls mit Kommentaren versehen werden können.
+Beim Vorliegen einer oder mehrerer folgender Gründe ist die Zusammenarbeit mehrerer Autorinnen und Autoren notwendig (Lorenz &Faßmann, 2010): (a) Die Erstellung der Lernmaterialien ist für eine/n Autor/in zu umfangreich. (b) Für Fachwissen sollen bzw. müssen die jeweiligen Expertinnen und Experten eingebunden werden. (c) Für die Erstellung und Anbindung von Medien müssen Designerinnen und Designer auf die Lernmaterialien zugreifen können. (d) Es werden Übersetzerinnen und Übersetzer für die Bereitstellung der Lerninhalte in andere Sprachen benötigt. (e) Die erstellten Lerninhalte müssen zur Qualitätssicherung von Gutachterinnen und Gutachtern oder Kundinnen und Kunden eingesehen und gegebenenfalls mit Kommentaren versehen werden können.
 
 </blockquote>
 

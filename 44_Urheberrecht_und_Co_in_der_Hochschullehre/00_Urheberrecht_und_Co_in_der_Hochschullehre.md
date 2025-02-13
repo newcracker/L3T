@@ -1,5 +1,5 @@
-<!-- filename: 00_Urheberrecht_undamp_Co_in_der_Hochschullehre.md -->
-<!-- title: Urheberrecht &amp; Co. in der Hochschullehre -->
+<!-- filename: 00_Urheberrecht_und_Co_in_der_Hochschullehre.md -->
+<!-- title: Urheberrecht & Co. in der Hochschullehre -->
 
 <!-- tags: #recht,#spezial,#hochschule -->
 <!-- authors: Jan Hansen, Heike Seehagen-Marx -->

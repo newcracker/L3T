@@ -1,7 +1,7 @@
 <!-- filename: 08_Ausblick.md -->
 <!-- title: Ausblick -->
 
-Jede Seite im Intra- oder Internet, jeder im Netz publizierte Text, jeder Beitrag oder Kommentar in einer Mailingliste, einem Weblog oder öffentlichen Chat, jedes auf einschlägige Plattformen hochgeladene  Lernobjekt, Foto, Video oder Podcast, jeder Wiki-Eintrag und jeder Microlearning-Inhalt ist eine elektronische Publikation und sollte so barrierearm wie möglich gestaltet beziehungsweise präsentiert werden.
+Jede Seite im Intra- oder Internet, jeder im Netz publizierte Text, jeder Beitrag oder Kommentar in einer Mailingliste, einem Weblog oder öffentlichen Chat, jedes auf einschlägige Plattformen hochgeladene Lernobjekt, Foto, Video oder Podcast, jeder Wiki-Eintrag und jeder Microlearning-Inhalt ist eine elektronische Publikation und sollte so barrierearm wie möglich gestaltet beziehungsweise präsentiert werden.
 
 Durch die zunehmend interaktive und mobile Internetnutzung verlagert sich die Verantwortung für die Zugänglichkeit der so erstellten (Lern-)Inhalte zunehmend von Webdesignerinnen und -designern und Content-Entwicklerinnen und -Entwicklern auf breite, im Bereich Webstandards unkundige Nutzer/innenkreise und auf die Hersteller/innen von Autorenwerkzeugen und Anwendungsprogrammen.
 

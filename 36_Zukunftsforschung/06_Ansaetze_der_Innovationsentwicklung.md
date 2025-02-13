@@ -7,7 +7,7 @@ Abschließend werden in diesem Kapitel Methoden vorgestellt, die Unternehmen fü
 
 ### !
 
-Mit dem Begriff ‚Open Innovation‘ werden alle Verfahren bezeichnet, bei den Kundinnen und Kunden sowie Nutzerinnen und Nutzer aktiv bei der Entwicklung von Innovationen eingebunden werden (Reichwald &amp; Piller, 2006).
+Mit dem Begriff ‚Open Innovation‘ werden alle Verfahren bezeichnet, bei den Kundinnen und Kunden sowie Nutzerinnen und Nutzer aktiv bei der Entwicklung von Innovationen eingebunden werden (Reichwald & Piller, 2006).
 
 </blockquote>
 
@@ -39,7 +39,7 @@ Ein Ideenwettbewerb stellt nach Walcher (2007) „eine Aufforderung eines privat
 
 </blockquote>
 
-Durch einen Ideenwettbewerb werden Nutzer/innen in die frühesten Phasen des Innovationsprozesses eingebunden (Walcher, 2007, 38), womit sich die Beiträge von Nutzerinnen und Nutzern streng betrachtet nicht auf die Innovation, sondern auf Ideengebung und -bewertung beziehungsweise auf die Invention konzentriert. Als Veranstaltende von Ideenwettbewerben treten allgemein sowohl Firmen als auch öffentliche Einrichtungen auf. Beispielsweise suchte die Bundeszentrale für gesundheitliche Aufklärung Motive für eine HIV-Präventionskampagne. Im Bereich des technologiegestützten Lernens gibt es seltener Wettbewerbe, bei denen Ideen oder Konzepte prämiert werden. An der Universität Augsburg wurde mit „betacampus“ ein solcher universitätsinterner Wettbewerb durchgeführt, bei dem gute Ideen für IKT-Projekte gesucht wurden (Bauer &amp; Henke, 2011, 79-92).
+Durch einen Ideenwettbewerb werden Nutzer/innen in die frühesten Phasen des Innovationsprozesses eingebunden (Walcher, 2007, 38), womit sich die Beiträge von Nutzerinnen und Nutzern streng betrachtet nicht auf die Innovation, sondern auf Ideengebung und -bewertung beziehungsweise auf die Invention konzentriert. Als Veranstaltende von Ideenwettbewerben treten allgemein sowohl Firmen als auch öffentliche Einrichtungen auf. Beispielsweise suchte die Bundeszentrale für gesundheitliche Aufklärung Motive für eine HIV-Präventionskampagne. Im Bereich des technologiegestützten Lernens gibt es seltener Wettbewerbe, bei denen Ideen oder Konzepte prämiert werden. An der Universität Augsburg wurde mit „betacampus“ ein solcher universitätsinterner Wettbewerb durchgeführt, bei dem gute Ideen für IKT-Projekte gesucht wurden (Bauer & Henke, 2011, 79-92).
 
 Häufig werden jedoch bei Wettbewerben auch existierende Konzepte und Realisierungen ausgezeichnet: Beispiele dafür sind D-ELINA, der ‚Deutsche E-Learning-Innovations- und Nachwuchs-Award‘ oder der europäische Wettbewerb ‚European Award for Technology Supported Learning‘ (eureleA). Auch an den Hochschulen werden Auszeichnungen für gute Lehre in Einzelfällen, wie mit dem ELCH (‚E-Learning Champion‘) an der Universität Graz, auch an den innovativen Einsatz von Technologien geknüpft.
 

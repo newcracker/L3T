@@ -12,13 +12,13 @@ Die Auswahl sollte auf Basis der Unternehmenskultur und des Wissensmanagement-Re
 Empfehlungen zur weiteren Lektüre:
 
 - Hasler Roumois, U. (2010). Studienbuch Wissensmanagement. Grundlagen der Wissensarbeit in Wirtschafts-, Non-Profit- und Public Organisationen. 2. Überarbeitete und erweiterte Auflage. Zürich: Orell Füssli Verlag.
-- Holz, H. &amp; Schemme, D. (Hrsg.) (2006). Wissensmanagement in der beruflichen Aus- und Weiterbildung. Berichte zur beruflichen Bildung. Bundesinstitut für Berufsbildung. Bielefeld: W. Bertelsmann Verlag GmbH &amp; Co. KG.
+- Holz, H. & Schemme, D. (Hrsg.) (2006). Wissensmanagement in der beruflichen Aus- und Weiterbildung. Berichte zur beruflichen Bildung. Bundesinstitut für Berufsbildung. Bielefeld: W. Bertelsmann Verlag GmbH & Co. KG.
 - Jäger, W. (2010). Wissen, Wissensarbeit und Wissensmanagement in Organisationen. In: M. Endreß; T. Matys (Hrsg.) (2010). Die Ökonomie der Organisation – die Organisation der Ökonomie. Wiesbaden: VS Verlag für Sozialwissenschaften | GWV Fachverlage GmbH, 153-173.
-- Lehmann, K. &amp; Schetsche, M. (Hrsg.) (2007). Die Google-Gesellschaft. Vom digitalen Wandel des Wissens. 2. unveränderte Auflage. Bielefeld: transcript Verlag.
-- Nonaka, I. &amp; Takeuchi, H. (1997). Die Organisation des Wissens. Wie japanische Unternehmen eine brachliegende Ressource nutzbar machen. Frankfurt/Main, New York: Campus Verlag.
-- North, K.; Friedrich, P. &amp; Lantz, A. (2005). Kompetenzentwicklung zur Selbstorganisation. In: Arbeitsgemeinschaft Betriebliche Weiterbildungsforschung e. V./ Projekt Qualifikations-Entwicklungs-Management (Hrsg.). Kompetenzmessung im Unternehmen. Lernkultur- und Kompetenzanalysen im betrieblichen Um-feld. Band 18. Münster: Waxmann Verlag GmbH, 601-672.)
+- Lehmann, K. & Schetsche, M. (Hrsg.) (2007). Die Google-Gesellschaft. Vom digitalen Wandel des Wissens. 2. unveränderte Auflage. Bielefeld: transcript Verlag.
+- Nonaka, I. & Takeuchi, H. (1997). Die Organisation des Wissens. Wie japanische Unternehmen eine brachliegende Ressource nutzbar machen. Frankfurt/Main, New York: Campus Verlag.
+- North, K.; Friedrich, P. & Lantz, A. (2005). Kompetenzentwicklung zur Selbstorganisation. In: Arbeitsgemeinschaft Betriebliche Weiterbildungsforschung e. V./ Projekt Qualifikations-Entwicklungs-Management (Hrsg.). Kompetenzmessung im Unternehmen. Lernkultur- und Kompetenzanalysen im betrieblichen Um-feld. Band 18. Münster: Waxmann Verlag GmbH, 601-672.)
 - Pircher, R. (Hrsg.) (2010). Wissensmanagement. Wissenstransfer. Wissensnetzwerke. Konzepte. Methoden. Erfahrungen. Erlangen: Publics Publishing.
-- Probst, G.; Raub, S. &amp; Romhardt, K. (2010). Wissen managen. Wie Unternehmen ihre wertvollste Ressource optimal nutzen. 6. überarbeitete und erweiterte Auflage. Wiesbaden: Gabler | GWV Fachverlage GmbH.
+- Probst, G.; Raub, S. & Romhardt, K. (2010). Wissen managen. Wie Unternehmen ihre wertvollste Ressource optimal nutzen. 6. überarbeitete und erweiterte Auflage. Wiesbaden: Gabler | GWV Fachverlage GmbH.
 
 </blockquote>
 
