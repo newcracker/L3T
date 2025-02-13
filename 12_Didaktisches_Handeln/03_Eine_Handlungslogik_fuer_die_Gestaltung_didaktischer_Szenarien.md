@@ -11,9 +11,13 @@ Ausgangspunkt aller Planungen sind in der Regel die Ziele, die Lehrende haben od
 
 Das Kriterium kann auch verschiedene *Dimensionen des Lernens* heranziehen und kognitive, emotional-motivationale und motorische Lehrziele postulieren. Innerhalb einer Lehrzielkategorie wird häufig das Kriterium *Schwierigkeits- oder Komplexitätsgrad* herangezogen. Manche Lehrzieltaxonomien kombinieren zwei Ordnungskriterien und kommen auf diesem Wege zu einer Matrix. Dies ist auch bei der Lehrzieltaxonomie von Anderson und Krathwohl (2001) der Fall, die sich zwar ausschließlich auf kognitive Lehrziele beschränkt, aber seit längerem besonders verbreitet ist (siehe Tab. 1). Euler und Hahn (2007, 135 ff.) versuchen, die auf Wissen reduzierte Sicht von Anderson und Krathwohl (2001) mit Fertigkeiten (Können) und Einstellungen (Werten) zu ergänzen und verschiedenen Kompetenzbereichen (Sach-, Sozial- und Selbstkompetenzen) zuzuordnen. Deutlich wird hier, dass bisherige Lehrzieltaxonomien der aktuellen Kompetenzorientierung noch nicht angemessen nachgekommen sind.
 
-Dimension Wissen Dimension kognitive Prozesse Erinnern Verstehen Anwenden Analysieren Bewerten Erschaffen Faktenwissen Konzeptwissen Prozesswissen Metakognitives Wissen
-
-</blockquote>
+| Dimension Wissen | Dimension kognitive Prozesse |
+| --- | --- |
+| | Erinnern | Verstehen | Anwenden | Analysieren | Bewerten | Erschaffen |
+| Faktenwissen | | | | | | |
+| Konzeptwissen | | | | | | |
+| Prozesswissen | | | | | | |
+| Metakognitives Wissen | | | | | | |
 
 Tab.1: Revision der Bloomschen Taxonomie nach Anderson und Krathwohl (2001)
 
@@ -32,7 +36,7 @@ Denen, die nicht wissen, welche Ziele sie verfolgen wollen, fehlt der Richtungsw
 Je nach Zielsetzung können diese drei Komponenten des Lehrens unterschiedliches Gewicht haben und entsprechend unterschiedliche (auch zeitliche) Anforderungen an den Planungs- und Entwurfsprozess stellen. Diese Überlegungen entlang der Logik didaktischen Handelns können eine Art Grundfigur für das Didaktische Design bilden (siehe Abb. 1).
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/11_Human-Computer-Interaction/img/01_Grundfigur_für_das_Didaktische_Design.jpg" alt="Abb. 1: Grundfigur für das Didaktische Design">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/12_Didaktisches_Handeln/img/01_Grundfigur_für_das_Didaktische_Design.jpg" alt="Abb. 1: Grundfigur für das Didaktische Design">
   <figcaption>Abb. 1: Grundfigur für das Didaktische Design</figcaption>
 </figure></center>
 
