@@ -1,10 +1,8 @@
 <!-- filename: 00_Barrierefreiheit.md -->
 <!-- title: Barrierefreiheit -->
 
-# Barrierefreiheit
-
-<!-- tags: #barrierefrei,#spezial -->
-<!-- authors: # theorieforschung -->
+<!-- tags: #barrierefrei,#spezial,#theorieforschung -->
+<!-- authors: Klaus Reich, Klaus Miesenberger -->
 
 ## Grundlage gerechter webbasierter Lernchancen
 
