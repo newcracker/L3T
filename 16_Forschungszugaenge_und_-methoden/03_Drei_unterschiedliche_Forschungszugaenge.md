@@ -4,7 +4,7 @@
 Bei der Forschung zu technologiegestütztem Lernen gibt es derzeit aus unserer Sicht drei zu unterscheidende Zugänge: Vorerst (a) hypothesen- und theorienprüfende Vorgehensweisen, die existierende Erklärungen zu den Vorgängen des Lernens und Lehrens in möglichst experimentellen Settings überprüfen sowie (b) hypothesen- und theoriengenerierende Verfahren (vgl. Bortz & Döring, 2006). Ergänzt haben wir diese traditionelle Darstellung um (c) anwendungsorientierte und gestaltende Verfahren, die neuartige Systeme und Konzepte entwickeln und überprüfen.
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/16_Forschungszugaenge_und/img/01_Drei_Forschungszugänge_im_Feld_des_Lernens_und_Lehrens_mit_Technologie.png" alt="Abb. 1: Drei Forschungszugänge im Feld des Lernens und Lehrens mit Technologie">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/16_Forschungszugaenge_und_-methoden/img/01_Drei_Forschungszugänge_im_Feld_des_Lernens_und_Lehrens_mit_Technologie.png" alt="Abb. 1: Drei Forschungszugänge im Feld des Lernens und Lehrens mit Technologie">
   <figcaption>Abb. 1: Drei Forschungszugänge im Feld des Lernens und Lehrens mit Technologie</figcaption>
 </figure></center>
 
@@ -47,7 +47,7 @@ Dieser dritte Zugang ist je nach disziplinären Kontext „Standard“ oder eben
 </blockquote>
 
 <center><figure>
-  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/16_Forschungszugaenge_und/img/02_Manche_Forschungszugänge_und_methoden_im_Feld_sind_umstritten.jpg" alt="Abb. 2: Manche Forschungszugänge und -methoden im Feld sind umstritten.">
+  <img src="https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/16_Forschungszugaenge_und_-methoden/img/02_Manche_Forschungszugänge_und_methoden_im_Feld_sind_umstritten.jpg" alt="Abb. 2: Manche Forschungszugänge und -methoden im Feld sind umstritten.">
   <figcaption>Abb. 2: Manche Forschungszugänge und -methoden im Feld sind umstritten.</figcaption>
 </figure></center>
 
