@@ -1,7 +1,7 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Bechtel, W.; Abrahamsen, A. &amp; Graham, G. (1998). The life of cognitive science. In: Bechtel W. &amp; Graham G. (Hrsg.), A companion to cognitive science, Oxford: Blackwell, 1-104.
+- Bechtel, W.; Abrahamsen, A. & Graham, G. (1998). The life of cognitive science. In: Bechtel W. & Graham G. (Hrsg.), A companion to cognitive science, Oxford: Blackwell, 1-104.
 
 - Brooks, R. A. (1986). A Robust Layered Control System for a Mobile Robot. In: IEEE Journal of Robotics and Automation, 2 (1), 14-23.
 
@@ -15,11 +15,11 @@
 
 - Clark, A. (2001). Mindware. An introduction to the philosophy of cognitive science. New York: Oxford University Press.
 
-- Cottrell, G. (1991). Extracting features from faces using compression networks: Face, identity, emotions and gender recognition using holohns. In: Touretsky, D.; Elman, J.; Sejnowski, T.; &amp; Hinton, G. (Hrsg.), Connectionist Models: Proceedings of the 1990 Summer School. San Mateo, CA: Morgan Kaufmann.
+- Cottrell, G. (1991). Extracting features from faces using compression networks: Face, identity, emotions and gender recognition using holohns. In: Touretsky, D.; Elman, J.; Sejnowski, T.; & Hinton, G. (Hrsg.), Connectionist Models: Proceedings of the 1990 Summer School. San Mateo, CA: Morgan Kaufmann.
 
 - Dreyfus, H. (1972). What Computers Can't Do. New York: MIT-Press.
 
-- Elman, J.; Bates, E.A.; Johnson, M.H.; Karmiliff-Smith, A.; Parisi, D. &amp; Plunkett, K. (1996). Rethinking Innateness: A connectionist perspective on development. Cambridge, MA: MIT Press.
+- Elman, J.; Bates, E.A.; Johnson, M.H.; Karmiliff-Smith, A.; Parisi, D. & Plunkett, K. (1996). Rethinking Innateness: A connectionist perspective on development. Cambridge, MA: MIT Press.
 
 - Elman, J.L. (1990). Finding structure in time. In: Cognitive Science, 14, 179-211.
 
@@ -33,19 +33,19 @@
 
 - Hutchins, E. (1995). How a cockpit remembers its speeds. In: Cognitive Science, 19, 265-88.
 
-- Land, R; Meyer, J. &amp; Smith, J. (2008). Threshold Concepts within the Disciplines. Rotterdam: Sense Publishers.
+- Land, R; Meyer, J. & Smith, J. (2008). Threshold Concepts within the Disciplines. Rotterdam: Sense Publishers.
 
-- Lave, J. &amp; Wenger, E. (1991). Situated Learning: Legitimate Peripheral Participation. Cambridge: Cambridge University Press.
+- Lave, J. & Wenger, E. (1991). Situated Learning: Legitimate Peripheral Participation. Cambridge: Cambridge University Press.
 
-- Marton, F. &amp; Säljö, R. (1976). On qualitative differences in learning. I – Outcome and Process. In: British Journal of Educational Psychology, 46, 4-11.
+- Marton, F. & Säljö, R. (1976). On qualitative differences in learning. I – Outcome and Process. In: British Journal of Educational Psychology, 46, 4-11.
 
-- Maturana, H.R. (1970). Biology of cognition. In: Maturana, HR. &amp; Varela, F.J. (Hrsg.), Autopoiesis and cognition: the realization of the living, Dordrecht/Boston: Reidel Pub, 2-60.
+- Maturana, H.R. (1970). Biology of cognition. In: Maturana, HR. & Varela, F.J. (Hrsg.), Autopoiesis and cognition: the realization of the living, Dordrecht/Boston: Reidel Pub, 2-60.
 
-- McCulloch, W.S. &amp; Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. In: Bulletin of Mathematical Biophysics, 5, 115-133.
+- McCulloch, W.S. & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. In: Bulletin of Mathematical Biophysics, 5, 115-133.
 
-- Newell, A. &amp; Simon, H. (1963). GPS, a program that simulates human thought. In: Feigenbaum, E. &amp; Feldman, J. (Hrsg.), Computers and Thought, New York: McGraw-Hill. 279-293.
+- Newell, A. & Simon, H. (1963). GPS, a program that simulates human thought. In: Feigenbaum, E. & Feldman, J. (Hrsg.), Computers and Thought, New York: McGraw-Hill. 279-293.
 
-- Peschl, M.F. &amp; Wiltschnig, S. (2008). Emergente Innovation und Enabling Spaces. Ermöglichungsräume für Prozesse der Knowledge Creation. In: Seehusen, S.; Herczeg, M.; Fischer, S.; Kindsmüller, M.C. &amp; Lucke, U. (Hrsg.), Proceedings der Tagungen Mensch &amp; Computer 2008, DeLFI 2008 und Cognitive Design 2008, Berlin: Logos, 446-451.
+- Peschl, M.F. & Wiltschnig, S. (2008). Emergente Innovation und Enabling Spaces. Ermöglichungsräume für Prozesse der Knowledge Creation. In: Seehusen, S.; Herczeg, M.; Fischer, S.; Kindsmüller, M.C. & Lucke, U. (Hrsg.), Proceedings der Tagungen Mensch & Computer 2008, DeLFI 2008 und Cognitive Design 2008, Berlin: Logos, 446-451.
 
 - Peschl, M.F. (1994). Repräsentation und Konstruktion. Kognitions- und neuroinformatische Konzepte als Grundlage einer naturalisierten Epistemologie und Wissenschaftstheorie. Braunschweig/Wiesbaden: Vieweg.
 
@@ -53,13 +53,13 @@
 
 - Powazek, D. (2002). Design for Community. Berkeley: New Riders.
 
-- Presson C. &amp; Montello D. R. (1994). Updating after rotational and translational body movements: coordinate structure of perspective space. In: Perception, 23 (12), 1447-1455.
+- Presson C. & Montello D. R. (1994). Updating after rotational and translational body movements: coordinate structure of perspective space. In: Perception, 23 (12), 1447-1455.
 
-- Rumelhart, D. &amp; McClelland, J. (1986). Parallel Distributed Processing, 1 &amp; 2., Cambridge: MIT Press.
+- Rumelhart, D. & McClelland, J. (1986). Parallel Distributed Processing, 1 & 2., Cambridge: MIT Press.
 
-- Rumelhart, D.; Smolensky, P.; McClelland, J.L. &amp; Hinton G.E. (1986). Schemata and sequential thought processes in PDP models. In: McClelland, J.L. &amp; Rumelhart, D.E. (Hrsg.), Parallel Distributed Processing: explorations in the microstructure of cognition, In: Psychological and biological models, Cambridge: MIT Press, 7-57.
+- Rumelhart, D.; Smolensky, P.; McClelland, J.L. & Hinton G.E. (1986). Schemata and sequential thought processes in PDP models. In: McClelland, J.L. & Rumelhart, D.E. (Hrsg.), Parallel Distributed Processing: explorations in the microstructure of cognition, In: Psychological and biological models, Cambridge: MIT Press, 7-57.
 
-- Sebanz, N.; Eskenazi, T.; Doerrfeld, A. &amp; Knoblich, G. (2009). I will remember you: Enhanced memory for information pertaining to a relevant other. In: Proceedings of the 3rd Joint Action Meeting, July 27-29, 2009.
+- Sebanz, N.; Eskenazi, T.; Doerrfeld, A. & Knoblich, G. (2009). I will remember you: Enhanced memory for information pertaining to a relevant other. In: Proceedings of the 3rd Joint Action Meeting, July 27-29, 2009.
 
 - Skinner, B.F. (1957). Verbal Behavior. Acton: Copley Publishing Group.
 
@@ -77,4 +77,4 @@
 
 - Wenger, E. (1998). Communities of Practice: Learning, Meaning, and Identity. Cambridge: Cambridge University Press.
 
-- Zimbardo, P.G. &amp; Gerring, R.G. (2004, 16. Auflage). Psychologie - Eine Einführung. München: Pearson Studium.
+- Zimbardo, P.G. & Gerring, R.G. (2004, 16. Auflage). Psychologie - Eine Einführung. München: Pearson Studium.

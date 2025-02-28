@@ -5,23 +5,23 @@
 
 - Goldstein, B. E. (2008). Wahrnehmungspsychologie. Der Grundkurs. Heidelberg: Spektrum Akademischer Verlag.
 
-- Holmqvist, K.; Nyström, M.; Andersson, R.; Dewhurst, R.; Jarodzka, H. &amp; Van de Weijer, J. (2011). Eye tracking: A comprehensive guide to methods and measures. Oxford: Oxford University Press.
+- Holmqvist, K.; Nyström, M.; Andersson, R.; Dewhurst, R.; Jarodzka, H. & Van de Weijer, J. (2011). Eye tracking: A comprehensive guide to methods and measures. Oxford: Oxford University Press.
 
-- Holzinger, A.; Baernthaler, M.; Pammer, W.; Katz, H.; Bjelic-Radisic, V. &amp; Ziefle, M. (2011). Investigating paper vs. screen in real-life hospital workflows: Performance contradicts perceived superiority of paper in the user experience. In: International Journal of Human-Computer Studies 69(9), 563-570.
+- Holzinger, A.; Baernthaler, M.; Pammer, W.; Katz, H.; Bjelic-Radisic, V. & Ziefle, M. (2011). Investigating paper vs. screen in real-life hospital workflows: Performance contradicts perceived superiority of paper in the user experience. In: International Journal of Human-Computer Studies 69(9), 563-570.
 
-- IFeL/eLeDia (2013). Learning Usability. URL: http://www.learningusability.ch \[2013-07-11].
+- IFeL/eLeDia (2013). Learning Usability. URL: [http://www.learningusability.ch](http://www.learningusability.ch) \[2013-07-11].
 
-- Just, M. A. &amp; Carpenter, P. A. (1980). A theory of reading: From eye fixations to comprehension, Psychological Review 87(4), 329-354.
+- Just, M. A. & Carpenter, P. A. (1980). A theory of reading: From eye fixations to comprehension, Psychological Review 87(4), 329-354.
 
-- Lindsay, P. H. &amp; Norman, D. A. (1981). Einführung in die Psychologie. Informationsaufnahme und -verarbeitung beim Menschen. Berlin: Springer.
+- Lindsay, P. H. & Norman, D. A. (1981). Einführung in die Psychologie. Informationsaufnahme und -verarbeitung beim Menschen. Berlin: Springer.
 
 - Norman D. A. (2005). Emotional Design: Why we love (or hate) everyday things. New York: Basic Books.
 
 - Rakoczi, G. (2010). Userverhalten beim E-Learning - Eine Eye Tracking Studie des Lernsystems Moodle. Saarbrücken: VDM Verlag Dr. Müller.
 
-- Siegenthaler, E.; Bochud, Y.; Bergamin, P. &amp; Wurtz, P. (2012). Reading on LCD vs. e-Ink displays: Effects on fatigue and visual strain. Ophthalmic and Physiological Optics 32(5), 367-374.
+- Siegenthaler, E.; Bochud, Y.; Bergamin, P. & Wurtz, P. (2012). Reading on LCD vs. e-Ink displays: Effects on fatigue and visual strain. Ophthalmic and Physiological Optics 32(5), 367-374.
 
-- Siegenthaler, E.; Wurtz, P.; Bergamin, P. &amp; Groner, R. (2011). Comparing reading processes on e-ink displays and print. Displays 32(5), 268-273.
+- Siegenthaler, E.; Wurtz, P.; Bergamin, P. & Groner, R. (2011). Comparing reading processes on e-ink displays and print. Displays 32(5), 268-273.
 
 - Ware, C. (2000). Information Visualization: Perception for Design. San Francisco (CA): Morgan Kaufmann.
 
