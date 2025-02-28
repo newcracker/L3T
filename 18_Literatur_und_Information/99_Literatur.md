@@ -1,7 +1,7 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Anderson, T. (Ed.). (2008). Theory and Practice of Online Learning (2nd ed.). Athabasca: AU Press, Athabasca University. URL: [http://www.aupress.ca/books/120146/ebook/99Z](http://www.aupress.ca/books/120146/ebook/99Z)\_Anderson\_2008-Theory\_and\_Practice\_of\_Online\_Learning.pdf \[2013-08-27].
+- Anderson, T. (Ed.). (2008). Theory and Practice of Online Learning (2nd ed.). Athabasca: AU Press, Athabasca University. URL: [http://www.aupress.ca/books/120146/ebook/99Z\_Anderson\_2008-Theory\_and\_Practice\_of\_Online\_Learning.pdf](http://www.aupress.ca/books/120146/ebook/99Z\_Anderson\_2008-Theory\_and\_Practice\_of\_Online\_Learning.pdf) \[2013-08-27].
 
 - Arnold, P.; Kilian, L.; Thillosen, A. & Zimmer, G. (2004). E-Learning Handbuch für Hochschulen und Bildungszentren. Didaktik, Organisation, Qualität. Nürnberg: BW Bildung und Wissen.
 
@@ -9,9 +9,9 @@
 
 - Baumgartner, P.; Häfele, H. & Maier-Häfele, K. (2002). E-Learning Praxishandbuch – Auswahl von Lernplattformen. Innsbruck: Studien Verlag.
 
-- Bergmann, M. K. (2001). The Deep Web: Surfacing Hidden Value. In: Journal of Electronic Publishing, 7(1), URL: [http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep);view=text;rgn=main;idno=3336451.0007.104 \[2013-08-21].
+- Bergmann, M. K. (2001). The Deep Web: Surfacing Hidden Value. In: Journal of Electronic Publishing, 7(1), URL: [http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0007.104](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=jep;view=text;rgn=main;idno=3336451.0007.104) \[2013-08-21].
 
-- Bibliothek der Universität Konstanz (2005). Der Recherchefahrplan. URL: [http://www.ub.unifreiburg.de/fileadmin/ub/texte/schneider/recherche](http://www.ub.unifreiburg.de/fileadmin/ub/texte/schneider/recherche)\_fahrplan.pdf \[2013-08-21].
+- Bibliothek der Universität Konstanz (2005). Der Recherchefahrplan. URL: [http://www.ub.unifreiburg.de/fileadmin/ub/texte/schneider/recherche\_fahrplan.pdf](http://www.ub.unifreiburg.de/fileadmin/ub/texte/schneider/recherche\_fahrplan.pdf) \[2013-08-21].
 
 - Bonk, C. J.; Graham, C. R.; Cross, J. & Moore, M. G. (2005). The Handbook of Blended Learning: Global Perspectives, Local Designs. San Francisco: Pfeiffer.
 
@@ -25,17 +25,17 @@
 
 - Gantz, J. F.; Chute, C.; Manfrediz, A.; Minton, S.; Reinsel, D.; Schlichting, W & Toncheva, A. (2008). The Diverse and Exploding Digital Universe: An Updated Forecast of Worldwide Information Growth Through 2011. Framingham: International Data Corporation. URL: [http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital-universe.pdf](http://www.emc.com/collateral/analyst-reports/diverse-exploding-digital-universe.pdf) \[2013-07-29].
 
-- Heinold, E. F. (2009). Virtuelle Fachbibliotheken im System der überregionalen Literatur- und Informationsversorgung. Studie zu Angebot und Nutzung der Virtuellen Fachbibliotheken. URL: [http://www.zbw.eu/ueber](http://www.zbw.eu/ueber)\_uns/projekte/vifasys/gutachten\_vifasys\_2007\_3\_5.pdf \[2013-08-21].
+- Heinold, E. F. (2009). Virtuelle Fachbibliotheken im System der überregionalen Literatur- und Informationsversorgung. Studie zu Angebot und Nutzung der Virtuellen Fachbibliotheken. URL: [http://www.zbw.eu/ueber\_uns/projekte/vifasys/gutachten\_vifasys\_2007\_3\_5.pdf](http://www.zbw.eu/ueber\_uns/projekte/vifasys/gutachten\_vifasys\_2007\_3\_5.pdf) \[2013-08-21].
 
 - Heller, L. (2007). Bibliographie und Sacherschließung in der Hand vernetzter Informationsbenutzer. In: Bibliothek Forschung und Praxis, 31(2): 162–171. URL Preprint: [http://fiz1.fh-potsdam.de/volltext/frei/07378.pdf](http://fiz1.fh-potsdam.de/volltext/frei/07378.pdf) \[2013-08-26]
 
-- Hull, D.; Pettifer, S. R. & Kell, D. B. (2008). Defrosting the Digital Library: Bibliographic Tools for the Next Generation Web. In: PLoS Computional Biolology, 4(10), e1000204, URL: [http://www.ploscompbiol.org/article/info](http://www.ploscompbiol.org/article/info):doi/10.1371/journal.pcbi.1000204 \[2010-07-25].
+- Hull, D.; Pettifer, S. R. & Kell, D. B. (2008). Defrosting the Digital Library: Bibliographic Tools for the Next Generation Web. In: PLoS Computional Biolology, 4(10), e1000204, URL: [http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000204](http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1000204) \[2010-07-25].
 
 - Issing, L. J. & Klimsa, P. (2002). Information und Lernen mit Multimedia und Internet. Weinheim: Beltz Psychologische Verlags Union.
 
 - Kerres, M. (2001). Multimediale und telemediale Lernumgebungen. Konzeption und Entwicklung. München: Oldenbourg.
 
-- Klatt, R.; Gavriilidis, K.; Kleinsimlinghaus, K. & Feldmann, M. (2001). Nutzung elektronischer wissenschaftlicher Information in der Hochschulausbildung. Barrieren und Potenziale der innovativen Mediennutzung im Lernalltag der Hochschulen. Endfassung. URL: [http://www.ibw.uni-hamburg.de/bwpat/papers/zu](http://www.ibw.uni-hamburg.de/bwpat/papers/zu)\_2/kurzfas\_SteFi.pdf \[2013-08-21].
+- Klatt, R.; Gavriilidis, K.; Kleinsimlinghaus, K. & Feldmann, M. (2001). Nutzung elektronischer wissenschaftlicher Information in der Hochschulausbildung. Barrieren und Potenziale der innovativen Mediennutzung im Lernalltag der Hochschulen. Endfassung. URL: [http://www.ibw.uni-hamburg.de/bwpat/papers/zu\_2/kurzfas\_SteFi.pdf](http://www.ibw.uni-hamburg.de/bwpat/papers/zu\_2/kurzfas\_SteFi.pdf) \[2013-08-21].
 
 - Kron, F. W. & Sofos, A. (2003). Mediendidaktik. Neue Medien in Lehr- und Lernprozessen. München: Ernst Reinhardt.
 
@@ -55,7 +55,7 @@
 
 - Mönnich, M. W. & Handreck, F. (2008). Google Scholar als Alternative zu wissenschaftlichen Fachdatenbanken. In: BIT online, 11(4), 401-406.
 
-- Netzwerk Informationskompetenz Baden-Württemberg (2006). Standards der Informationskompetenz für Studierende. URL: [http://www.informationskompetenz.de/fileadmin/user](http://www.informationskompetenz.de/fileadmin/user)\_upload/Standards\_der\_Inform\_88.pdf \[2013-08-25].
+- Netzwerk Informationskompetenz Baden-Württemberg (2006). Standards der Informationskompetenz für Studierende. URL: [http://www.informationskompetenz.de/fileadmin/user\_upload/Standards\_der\_Inform\_88.pdf](http://www.informationskompetenz.de/fileadmin/user\_upload/Standards\_der\_Inform\_88.pdf) \[2013-08-25].
 
 - Niegemann, H. M.; Hessel, S.; Hochscheid-Mauel, D.; Aslanski, K.; Deimann, M. & Kreuzberger, G. (2004). Kompendium E-Learning. Berlin/Heidelberg: Springer.
 

@@ -39,7 +39,7 @@
 
 - Reinmann, G. (2005). Blended Learning in der Lehrerbildung. Grundlagen für die Konzeption innovativer Lernumgebungen. Lengerich: Pabst.
 
-- Reinmann, G. (2013). Studientext Didaktisches Design. München. URL: [http://lernen-unibw.de/sites/default/files/studientext](http://lernen-unibw.de/sites/default/files/studientext)\_dd\_april13.pdf
+- Reinmann, G. (2013). Studientext Didaktisches Design. München. URL: [http://lernen-unibw.de/sites/default/files/studientext\_dd\_april13.pdf](http://lernen-unibw.de/sites/default/files/studientext\_dd\_april13.pdf)
 
 - Reusser, K. (2006). Konstruktivismus – vom epistemologischen Leitbegriff zur Erneuerung der didaktischen Kultur. In M. Baer, M. Fuchs, P. Füglister, K. Reusser & H. Wyss, H. (Hrsg.), Didaktik auf psychologischer Grundlage. Von Hans Aeblis kognitionspsychologischer Didaktik zur modernen Lehr-Lernforschung (S. 151-168). Bern: hep.
 

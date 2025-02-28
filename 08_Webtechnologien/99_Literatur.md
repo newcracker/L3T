@@ -5,7 +5,7 @@
 
 - Cerf, V. G.; Leiner, B. M.; Clark, D. D.; Kahn, R. E.; Kleinrock, L.; Lynch, D. C.; Postel, J.; Roberts, L. G. & Wolff, S. (2012). Brief history of the Internet. In: B. Aboba (Hrsg.), The Online User's Encyclopedia, Amsterdam: Addison-Wesley. URL: [http://www.netvalley.com/archives/mirrors/cerf-how-inet.html](http://www.netvalley.com/archives/mirrors/cerf-how-inet.html) \[2013-08-13].
 
-- Ebner, M.; Schön, S.; Taraghi, B.; Drachsler, H. & Tsang, P. (2011). First steps towards an integration of a Personal Learning Environment at university level. In: R. Kwan et al. (Eds.): ICT 2011, CCIS 177, Berlin/Heidelberg: Springer-Verlag, 22–36. URL/DOI: [http://dx.doi.org/10.1007/978-3-642-22383-9](http://dx.doi.org/10.1007/978-3-642-22383-9)\_3 \[2013-08-09].
+- Ebner, M.; Schön, S.; Taraghi, B.; Drachsler, H. & Tsang, P. (2011). First steps towards an integration of a Personal Learning Environment at university level. In: R. Kwan et al. (Eds.): ICT 2011, CCIS 177, Berlin/Heidelberg: Springer-Verlag, 22–36. URL/DOI: [http://dx.doi.org/10.1007/978-3-642-22383-9\_3](http://dx.doi.org/10.1007/978-3-642-22383-9\_3) \[2013-08-09].
 
 - Safran, C. & Zaka, B. (2008). A Geospatial Wiki for m-Learning. In: Proceedings of the 2008 International Conference on Computer Science and Software Engineering, IEEE Computer Society, Washington, 5, 109-112. URL/DOI: [http://dx.doi.org/10.1109/CSSE.2008.188](http://dx.doi.org/10.1109/CSSE.2008.188) \[2013-08- 09]
 

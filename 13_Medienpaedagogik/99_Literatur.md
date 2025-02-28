@@ -1,7 +1,7 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Aufenanger, S. (1997). Medienpädagogik und Medienkompetenz: Eine Bestandsaufnahme. URL: [http://www.mediaculture-online.de/fileadmin/bibliothek/aufenanger](http://www.mediaculture-online.de/fileadmin/bibliothek/aufenanger)\_medienkompetenz/aufenanger\_medienkompetenz.html \[2013-08-19].
+- Aufenanger, S. (1997). Medienpädagogik und Medienkompetenz: Eine Bestandsaufnahme. URL: [http://www.mediaculture-online.de/fileadmin/bibliothek/aufenanger\_medienkompetenz/aufenanger\_medienkompetenz.html](http://www.mediaculture-online.de/fileadmin/bibliothek/aufenanger\_medienkompetenz/aufenanger\_medienkompetenz.html) \[2013-08-19].
 
 - Aufenanger, S. (1999). Medienkompetenz oder Medienbildung? Wie neue Medien Erziehung und Bildung verändern. Bertelsmann-Briefe, 142, 16-18.
 
@@ -21,7 +21,7 @@
 
 - Hillebrand, A. & Lange, B.P. (1996). Medienkompetenz als gesellschaftliche Aufgabe der Zukunft. In: A. v. Rein (Hrsg.), Medienkompetenz als Schlüsselbegriff, Bad Heilbrunn: Klinkhardt, 24-41.
 
-- Hoffmann, D. (2013). Forschungsüberblick und Forschungsbedarf. In: Medienkompetenzförderung für Kinder und Jugendliche - eine Bestandsaufnahme. URL: [http://www.medienkompetenzbericht.de/pdf/Medienkompetenzfoerderung](http://www.medienkompetenzbericht.de/pdf/Medienkompetenzfoerderung)\_fuer\_Kinder\_und\_Jugendliche.pdf \[2013-08-19].
+- Hoffmann, D. (2013). Forschungsüberblick und Forschungsbedarf. In: Medienkompetenzförderung für Kinder und Jugendliche - eine Bestandsaufnahme. URL: [http://www.medienkompetenzbericht.de/pdf/Medienkompetenzfoerderung\_fuer\_Kinder\_und\_Jugendliche.pdf](http://www.medienkompetenzbericht.de/pdf/Medienkompetenzfoerderung\_fuer\_Kinder\_und\_Jugendliche.pdf) \[2013-08-19].
 
 - Hug, Th. (2002). Medienpädagogik – Begriffe, Konzeptionen, Perspektiven. In: G. Rusch (Hrsg.), Einführung in die Medienwissenschaft, Wiesbaden: Opladen (Westdeutscher Verlag), 189-207.
 
@@ -53,7 +53,7 @@
 
 - Postman, N. (2003). Das Verschwinden der Kindheit. Frankfurt am Main: Fischer Verlag.
 
-- Reinmann, G. & Sesink, W. (2011). Entwicklungsorientierte Bildungsforschung (Diskussionspapier). Online verfügbar unter: [http://gabi-reinmann.de/wp-content/uploads/2011/11/Sesink-Reinmann](http://gabi-reinmann.de/wp-content/uploads/2011/11/Sesink-Reinmann)\_Entwicklungsforschung\_v05\_20\_11\_2011.pdf \[2013-08-19]
+- Reinmann, G. & Sesink, W. (2011). Entwicklungsorientierte Bildungsforschung (Diskussionspapier). Online verfügbar unter: [http://gabi-reinmann.de/wp-content/uploads/2011/11/Sesink-Reinmann\_Entwicklungsforschung\_v05\_20\_11\_2011.pdf](http://gabi-reinmann.de/wp-content/uploads/2011/11/Sesink-Reinmann\_Entwicklungsforschung\_v05\_20\_11\_2011.pdf) \[2013-08-19]
 
 - Rosebrock, C. & Zitzelsberger, O. (2002). Der Begriff Medienkompetenz als Zielperspektive im Diskurs der Pädagogik und Didaktik. In: N. Groeben & B. Hurrelmann (Hrsg.), Medienkompetenz Voraussetzungen, Dimensionen, Funktionen, Weinheim: Juventa Verlag, 148-159.
 

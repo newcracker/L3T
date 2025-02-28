@@ -11,7 +11,7 @@
 
 - Card, S. K.; Moran, T. P. & Newell, A. (1983). The psychology of human-computer interaction, Hillsdale (NJ): Erlbaum.
 
-- Cuhls, K.; Ganz, W. & Warnke, P. (2009). Foresight Prozess. Im Auftrag des BMBF. Zukunftsfelder neuen Zuschnitts \[Online]. Karlsruhe: Fraunhofer. [http://www.bmbf.de/pub/Foresight-Prozess](http://www.bmbf.de/pub/Foresight-Prozess)\_BMBF\_Zukunftsfelder\_neuen\_Zuschnitts.pdf. \[2013-08-24]
+- Cuhls, K.; Ganz, W. & Warnke, P. (2009). Foresight Prozess. Im Auftrag des BMBF. Zukunftsfelder neuen Zuschnitts \[Online]. Karlsruhe: Fraunhofer. [http://www.bmbf.de/pub/Foresight-Prozess\_BMBF\_Zukunftsfelder\_neuen\_Zuschnitts.pdf.](http://www.bmbf.de/pub/Foresight-Prozess\_BMBF\_Zukunftsfelder\_neuen\_Zuschnitts.pdf.) \[2013-08-24]
 
 - Ebner, M.; Kickmeier-Rust, M. & Holzinger, A. (2008). Utilizing Wiki-Systems in higher education classes: a chance for universal access? Springer Universal Access in the Information Society, 7, (4), 199-207.
 

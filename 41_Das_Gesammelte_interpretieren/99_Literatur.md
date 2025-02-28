@@ -11,7 +11,7 @@
 
 - Duval, E. (2012). Learning Analytics and Educational Data Mining. Weblog Artikel [http://erikduval.wordpress.com/2012/01/30/learning-analytics-and-educational-data-mining/](http://erikduval.wordpress.com/2012/01/30/learning-analytics-and-educational-data-mining/) \[25-7-2013]
 
-- Ebner, M. & Schön, M. (2012). Vortrag von Martin Ebner auf OPCO12, Open Course 16.4.-15.7.2003 [http://opco12.de/files/2012/06/Ebner](http://opco12.de/files/2012/06/Ebner)\_OPCO\_2012.pdf \[10.8.2013].
+- Ebner, M. & Schön, M. (2012). Vortrag von Martin Ebner auf OPCO12, Open Course 16.4.-15.7.2003 [http://opco12.de/files/2012/06/Ebner\_OPCO\_2012.pdf](http://opco12.de/files/2012/06/Ebner\_OPCO\_2012.pdf) \[10.8.2013].
 
 - Ebner, M. & Schön, M. (2013). Why Learning Analytics in Primary Education Matters!. In: Bulletin of the Technical Committee on Learning Technology, 15(2), 14-17.
 
@@ -27,7 +27,7 @@
 
 - Mitchell, J. & Costello, S. (2000). A Report On International Market Research For Australian VET Online Products And Services. Sydney 2000. www.jma.com.au/upload/pages/marketing-planning/research\_2000.rtf \[25-7-2013]
 
-- Romero, C. & Ventura, S. (2007). Educational data mining: A survey from 1995 to 2005. In: Expert Systems with Applications, 33, 135-146. [http://140.118.5.28/MIS](http://140.118.5.28/MIS)\_Notes/Lit\_Data.Mining.Applc/2007-Educational %20data%20mining%20A%20survey%20from%201995%20to%202005.pdf \[25-7-2013]
+- Romero, C. & Ventura, S. (2007). Educational data mining: A survey from 1995 to 2005. In: Expert Systems with Applications, 33, 135-146. [http://140.118.5.28/MIS\_Notes/Lit\_Data.Mining.Applc/2007-Educational](http://140.118.5.28/MIS\_Notes/Lit\_Data.Mining.Applc/2007-Educational) %20data%20mining%20A%20survey%20from%201995%20to%202005.pdf \[25-7-2013]
 
 - Schön, M. (1985). Computereinsatz im Bemühen um Innere Differenzierung. In: Sonderpädagogik, 85(1), 34-43.
 

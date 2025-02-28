@@ -31,6 +31,6 @@
 
 - Seufert, S.; Brahm, T. & Hasanbegovic, J. (2007). Fallstudie IBM. In: S. Seufert (Hrsg.), SCIL Benchmarkstudie II: Ergebnisse der Fallstudien zu transferorientiertem Bildungsmanagement, St. Gallen: Swiss Centre for Innovations in Learning, Universität St. Gallen, 73-106.
 
-- Straka, G. A. (2004). Informal learning: genealogy, concepts, antagonisms, questions. URL: [http://unipnet.org/fileadmin/Download/publikationen/forschungsberichte/fb](http://unipnet.org/fileadmin/Download/publikationen/forschungsberichte/fb)\_15\_04.pdf \[2013-08-12].
+- Straka, G. A. (2004). Informal learning: genealogy, concepts, antagonisms, questions. URL: [http://unipnet.org/fileadmin/Download/publikationen/forschungsberichte/fb\_15\_04.pdf](http://unipnet.org/fileadmin/Download/publikationen/forschungsberichte/fb\_15\_04.pdf) \[2013-08-12].
 
 - Trgan, S.-O. (2000). Grundlagen der Evaluation: ein Überblick. In: P. Schenkel; S.-O. Tergan & A. Lottmann (Hrsg.), Qualitätsbeurteilung multimedialer Lern- und Informationssysteme: Evaluationsmethoden auf dem Prüfstand, Nürnberg: BW Bildung und Wissen, 22-51.

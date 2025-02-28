@@ -7,7 +7,7 @@
 
 - Alheit, P.; Rheinländer, K. & Watermann, R. (2008). Zwischen Bildungsaufstieg und Karriere – Studienperspektiven „nicht-traditioneller Studierender“. In: Zeitschrift für Erziehungswissenschaft, 11, 577-606.
 
-- Allen, E. & Seaman, J. (2013). Changing course - ten years of tracking online education in the United States. Retrieved from [http://www.onlinelearningsurvey.com/reports/changingcourse.pdf](http://www.onlinelearningsurvey.com/reports/changingcourse.pdf)\[2013-08-16].
+- Allen, E. & Seaman, J. (2013). Changing course - ten years of tracking online education in the United States. Retrieved from [http://www.onlinelearningsurvey.com/reports/changingcourse.pdf\[2013-08-16](http://www.onlinelearningsurvey.com/reports/changingcourse.pdf\[2013-08-16)].
 
 - Allen, N. H. (2004). The University of Maryland University College: Institutional models and concepts of student support. In: J. E. Brindley; C. Wälti & O. Zawacki-Richter (Hrsg.), Learner support in open, online and distance learning environments, Oldenburg: Bibliotheks- und Informationssystem der Universität Oldenburg, 273-281.
 

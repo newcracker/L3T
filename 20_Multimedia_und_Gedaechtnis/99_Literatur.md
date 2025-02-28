@@ -15,7 +15,7 @@
 
 - Gerjets, P.; Scheiter, K.; Opfermann, M.; Hesse, F.W. & Eysink, T.H.S. (2009). Learning with hypermedia: The influence of representational formats and different levels of learner control on performance and learning behavior. Computers in Human Behavior, 25, 360-370.
 
-- Jadin, T.; Batinic, B. & Gruber, A. (2009). Learning with E-lectures. The Meaning of Learning Strategies. Journal of Educational Technology & Society, 12(3), Special Issue on „Technology Support for Self-Organized Learners”, URL: [http://www.ifets.info/journals/12](http://www.ifets.info/journals/12)\_3/23.pdf \[2010-12-06].
+- Jadin, T.; Batinic, B. & Gruber, A. (2009). Learning with E-lectures. The Meaning of Learning Strategies. Journal of Educational Technology & Society, 12(3), Special Issue on „Technology Support for Self-Organized Learners”, URL: [http://www.ifets.info/journals/12\_3/23.pdf](http://www.ifets.info/journals/12\_3/23.pdf) \[2010-12-06].
 
 - Kalyuga, S.; Ayres, P. Chandler, P. & Sweller, J. (2003). The Expertise Reversal Effect. Educational Psychologist, 38(1), 23-31.
 

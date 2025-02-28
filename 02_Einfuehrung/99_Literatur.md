@@ -7,7 +7,7 @@
 
 - Berners-Lee, T. (1989). Information Management: A Proposal, CERN. URL: [http://www.w3.org/History/1989/proposal.html](http://www.w3.org/History/1989/proposal.html) \[10.1.2011]
 
-- Bernhardt, T. & Kirchner, M. (2007). E-Learning 2.0 im Einsatz – „Du bist der Autor!“ – Vom Nutzer zum WikiBlog-Caster. URL: [http://elearning2null.de/learnmedia/Bernhardt-Kirchner](http://elearning2null.de/learnmedia/Bernhardt-Kirchner)\_E-Learning-2.0-im-Einsatz.pdf \[27.1.2011].
+- Bernhardt, T. & Kirchner, M. (2007). E-Learning 2.0 im Einsatz – „Du bist der Autor!“ – Vom Nutzer zum WikiBlog-Caster. URL: [http://elearning2null.de/learnmedia/Bernhardt-Kirchner\_E-Learning-2.0-im-Einsatz.pdf](http://elearning2null.de/learnmedia/Bernhardt-Kirchner\_E-Learning-2.0-im-Einsatz.pdf) \[27.1.2011].
 
 - Chan, T.; Roschelle, J.; His, S.; Kinshuk; Sharples, M.; Brown, T.; Patton, C.; Cherniavsky, J.; Pea, R.; Norris, C.; Soloway, E.; Balacheff, N.; Scardamalia, M.; Dillenbourg, P.; Looi, C.; Milrad, M. & Hoppe, U. (2006). One-to-one technology-enhanced learning: An opportunity for global research collaboration. In: Research and Practice in Technology Enhanced Learning, 1(1), 3-29.
 
@@ -65,7 +65,7 @@
 
 - Knapper, C. (2001). Lifelong learning in the workplace. In: A. M. Roche & J. McDonald (Hrsg.), Systems, Settings, People: Workforce Development Challenges in the Alcohol and Other Drugs Field, Adelaide: National Centre for Education and Training on Addiction (NCETA), 129-138.
 
-- Knorr, E. (2003). 2004: The Year of Web Services. URL: [http://www.cio.com/article/32050/2004](http://www.cio.com/article/32050/2004)\_The\_Year\_of\_Web\_Services \[2011-01-27].
+- Knorr, E. (2003). 2004: The Year of Web Services. URL: [http://www.cio.com/article/32050/2004\_The\_Year\_of\_Web\_Services](http://www.cio.com/article/32050/2004\_The\_Year\_of\_Web\_Services) \[2011-01-27].
 
 - Kuhlmann, A. & Sauter, W. (2008). Innovative Lernsysteme: Kompetenzentwicklung mit Blended Learning und Social Software. Berlin/Heidelberg: Springer.
 
@@ -73,7 +73,7 @@
 
 - Maurer, H. (2004). E-Learning als Teil von Wissensmanagement. In: Österreichische Zeitschrift für Berufsbildung, 4,?4-6.
 
-- McAuley, A., Stewart, B., Siemens, G. & Dave Cormier, D. (2010). Massive Open Online Courses: Digital ways of knowing and learning. The MOOC model For Digital Practice. URL: [http://www.elearnspace.org/Articles/MOOC](http://www.elearnspace.org/Articles/MOOC)\_Final.pdf. \[25.7.2013].
+- McAuley, A., Stewart, B., Siemens, G. & Dave Cormier, D. (2010). Massive Open Online Courses: Digital ways of knowing and learning. The MOOC model For Digital Practice. URL: [http://www.elearnspace.org/Articles/MOOC\_Final.pdf.](http://www.elearnspace.org/Articles/MOOC\_Final.pdf.) \[25.7.2013].
 
 - Myers, B. A. (1998). A Brief History of Human-Computer Interaction Technology. In: ACM interactions, 5(2), 44-54.
 

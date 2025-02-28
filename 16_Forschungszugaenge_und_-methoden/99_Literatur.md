@@ -23,7 +23,7 @@
 
 - Allert, H. & Richter, C. (2011). Designentwicklung - Anregungen aus Designtheorie und Designforschung. In: Martin Ebner & Sandra Schön (Hrsg.), Lehrbuch für Lernen und Lehrenmit Technologien, URL: [http://l3t.tugraz.at/index.php/LehrbuchEbner10/article/view/50](http://l3t.tugraz.at/index.php/LehrbuchEbner10/article/view/50)
 
-- Amiel, T., & Reeves, T. C. (2008). Design-Based Research and Educational Technology: Rethinking Technology and the Research Agenda. Educational Technology & Society, 11 (4), 29-40. URL: [http://www.ifets.info/journals/11](http://www.ifets.info/journals/11)\_4/3.pdf \[2013-07-18]
+- Amiel, T., & Reeves, T. C. (2008). Design-Based Research and Educational Technology: Rethinking Technology and the Research Agenda. Educational Technology & Society, 11 (4), 29-40. URL: [http://www.ifets.info/journals/11\_4/3.pdf](http://www.ifets.info/journals/11\_4/3.pdf) \[2013-07-18]
 
 - Bortz, J. & Döring, N. (2006). Forschungsmethoden und Evaluation für Human- und Sozialwissenschaftler. Berlin: Springer.
 

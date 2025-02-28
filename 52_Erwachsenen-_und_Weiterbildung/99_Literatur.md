@@ -23,7 +23,7 @@
 
 - Initiative D21 (2013). D21 - Digital - Index. Auf dem Weg in ein digitales Deutschland?!. URL: [http://www.initiatived21.de/wp-content/uploads/2013/04/digitalindex.pdf](http://www.initiatived21.de/wp-content/uploads/2013/04/digitalindex.pdf) \[2013-07-30].
 
-- Kabitz, S. & Vollmar, N. (2012). M-Learning: Einsatzmöglichkeiten für die Personalentwicklung: Grundverständnis der didaktischen Aufbereitung von Lerninhalten. Zürcher Hochschule für Angewandte Wissenschaften: Online-Publikationen. URL: [http://www.zhaw.ch/fileadmin/php](http://www.zhaw.ch/fileadmin/php)\_includes/popup/hop-detail.php?hop\_id=1871399553 \[2013-07-28].
+- Kabitz, S. & Vollmar, N. (2012). M-Learning: Einsatzmöglichkeiten für die Personalentwicklung: Grundverständnis der didaktischen Aufbereitung von Lerninhalten. Zürcher Hochschule für Angewandte Wissenschaften: Online-Publikationen. URL: [http://www.zhaw.ch/fileadmin/php\_includes/popup/hop-detail.php?hop\_id=1871399553](http://www.zhaw.ch/fileadmin/php\_includes/popup/hop-detail.php?hop\_id=1871399553) \[2013-07-28].
 
 - Kennelly et al. (2011). Lost youth in the global city - class, culture and the urban imaginary. New York, NY \[u.a.]: Routledge 2010.
 
@@ -37,7 +37,7 @@
 
 - MMB (2013). Indikatorengestützte Zeitreihe über die Nutzung digitaler Medien in der beruflichen Aus- und Weiterbildung. Bericht für das Bundesinstitut für Berufsbildung. MMB. Institut für Medien- und Kompetenzforschung. Bonn.
 
-- MPFS - Medienpädagogischer Forschungsverbund Südwest (2012). JIM-Studie 20012: Jugend, Information, (Multi-) Media. Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger. URL: [http://www.mpfs.de/fileadmin/JIMpdf12/JIM2012](http://www.mpfs.de/fileadmin/JIMpdf12/JIM2012)\_Endversion.pdf \[2013-01-07].
+- MPFS - Medienpädagogischer Forschungsverbund Südwest (2012). JIM-Studie 20012: Jugend, Information, (Multi-) Media. Basisuntersuchung zum Medienumgang 12- bis 19-Jähriger. URL: [http://www.mpfs.de/fileadmin/JIMpdf12/JIM2012\_Endversion.pdf](http://www.mpfs.de/fileadmin/JIMpdf12/JIM2012\_Endversion.pdf) \[2013-01-07].
 
 - Neubert, S.; Reich, K. & Voß, R. (2001). Lernen als konstruktiver Prozess. In: T. Hug (Hrsg.), Die Wissenschaft und ihr Wissen, Baltmannsweiler/Hohengehren: Schneider Verlag.
 
@@ -51,4 +51,4 @@
 
 - Schmidt, B.; Schnurr, S. & Tippelt, R. (2009). Intergeneratives lernen. In: R. Tippelt, R.; B. Schmidt; S. Schnurr; S. Sinner & Theisen, C. (Hrsg.), Bildung Älterer - Herausforderungen des demografischen Wandels, Bielefeld: W. Bertelsmann, 146-155.
 
-- Schulmeister, R. (2008). Gibt es eine »Net Generation«? Version 2.0. Universität Hamburg, Zentrum für Hochschul- und Weiterbildung. Hamburg. URL: [http://www.zhw.uni-hamburg.de/uploads/schulmeister-net-generation](http://www.zhw.uni-hamburg.de/uploads/schulmeister-net-generation)\_v2.pdf \[2013-01-07].
+- Schulmeister, R. (2008). Gibt es eine »Net Generation«? Version 2.0. Universität Hamburg, Zentrum für Hochschul- und Weiterbildung. Hamburg. URL: [http://www.zhw.uni-hamburg.de/uploads/schulmeister-net-generation\_v2.pdf](http://www.zhw.uni-hamburg.de/uploads/schulmeister-net-generation\_v2.pdf) \[2013-01-07].

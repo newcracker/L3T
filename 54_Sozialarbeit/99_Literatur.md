@@ -1,7 +1,7 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- 14\. Kinder- und Jugendbericht: Bericht über die Lebenssituation junger Menschen und die Leistungen der Kinder- und Jugendhilfe in Deutschland. (2013) (Drucksache-Ausg.). Berlin: Bundesministerium. URL: [http://www.bmfsfj.de/RedaktionBMFSFJ/Broschuerenstelle/Pdf-Anlagen/14-Kinder-und-Jugendbericht](http://www.bmfsfj.de/RedaktionBMFSFJ/Broschuerenstelle/Pdf-Anlagen/14-Kinder-und-Jugendbericht),property=pdf,bereich=bmfsfj,sprache=de,rwb=true.pdf \[2013-08-23].
+- 14\. Kinder- und Jugendbericht: Bericht über die Lebenssituation junger Menschen und die Leistungen der Kinder- und Jugendhilfe in Deutschland. (2013) (Drucksache-Ausg.). Berlin: Bundesministerium. URL: [http://www.bmfsfj.de/RedaktionBMFSFJ/Broschuerenstelle/Pdf-Anlagen/14-Kinder-und-Jugendbericht,property=pdf,bereich=bmfsfj,sprache=de,rwb=true.pdf](http://www.bmfsfj.de/RedaktionBMFSFJ/Broschuerenstelle/Pdf-Anlagen/14-Kinder-und-Jugendbericht,property=pdf,bereich=bmfsfj,sprache=de,rwb=true.pdf) \[2013-08-23].
 
 - Baacke, Dieter (1997): Medienpädagogik. Tübingen: Niemeyer (unveränderte Neuauflage 2007).
 
@@ -9,7 +9,7 @@
 
 - BMJFFG (1990). Achter Jugendbericht. Bericht über Bestrebungen und Leistungen in der Jugendhilfe. (1990). Bundesministerium für Jugend, Familie, Frauen und Gesundheit, Bonn.
 
-- Bundesminister für Jugend, Frauen und Gesunheit  (1990). Achter Jugendbericht. Bonn: Bundesmin. für Jugend, Familie, Frauen u. Gesundheit. URL: [http://www.bmfsfj.de/doku/Publikationen/kjb/data/download/8](http://www.bmfsfj.de/doku/Publikationen/kjb/data/download/8)\_Jugendbericht\_gesamt.pdf \[2013-08-27]
+- Bundesminister für Jugend, Frauen und Gesunheit  (1990). Achter Jugendbericht. Bonn: Bundesmin. für Jugend, Familie, Frauen u. Gesundheit. URL: [http://www.bmfsfj.de/doku/Publikationen/kjb/data/download/8\_Jugendbericht\_gesamt.pdf](http://www.bmfsfj.de/doku/Publikationen/kjb/data/download/8\_Jugendbericht\_gesamt.pdf) \[2013-08-27]
 
 - Bürgermeister, E. (2009). Lebensweltorientierung. In: Schorb, B.; Anfang, G. & Demmler, K. (Hrsg.), Grundbegriffe Medienpädagogik – Praxis. München: Kopaed, 167-169.
 
@@ -25,7 +25,7 @@
 
 - Kutscher, N.; Klein A.; Lojewski, J. & Schäfer, M. (2009). Medienkompetenzförderung für Kinder und Jugendliche in benachteiligten Lebenslagen. Düsseldorf: Landesanst. für Medien Nordrhein-Westfalen (LfM). URL: [http://www.lfm-nrw.de/medienkompetenz/information-beratung-qualifizierung/materialien/expertise-medienkompetenzfoerderung-fuer-kinder-und-jugendliche-in-benachteiligten-lebenslagen.html](http://www.lfm-nrw.de/medienkompetenz/information-beratung-qualifizierung/materialien/expertise-medienkompetenzfoerderung-fuer-kinder-und-jugendliche-in-benachteiligten-lebenslagen.html) \[2013-08-23].
 
-- Lüssi, P. (1995). Systemische Sozialarbeit (3., erg. Aufl.). Bern u.a.: Haupt. Nummer gegen Kummer (Hrsg.) (2012): Statistik 2012 em@il-Beratung der „Nummer gegen Kummer“ für Kinder und Jugendliche URL: [https://www.nummergegenkummer.de/html/img/pool/Statistik](https://www.nummergegenkummer.de/html/img/pool/Statistik)\_em\_il-Beratung\_2012.pdf \[2013-08-23].
+- Lüssi, P. (1995). Systemische Sozialarbeit (3., erg. Aufl.). Bern u.a.: Haupt. Nummer gegen Kummer (Hrsg.) (2012): Statistik 2012 em@il-Beratung der „Nummer gegen Kummer“ für Kinder und Jugendliche URL: [https://www.nummergegenkummer.de/html/img/pool/Statistik\_em\_il-Beratung\_2012.pdf](https://www.nummergegenkummer.de/html/img/pool/Statistik\_em\_il-Beratung\_2012.pdf) \[2013-08-23].
 
 - Pritzens, T. (2011). Webwork als nützliche Ergänzung zur mobilen Jugendarbeit/Streetwork. In: Medien + Erziehung. Zeitschrift für Medienpädagogik, 55 (3), 29–32.
 

@@ -3,13 +3,13 @@
 
 - Back, A.; Bendel, O. & Stoller-Schai, D. (2001). E-Learning im Unternehmen. Grundlagen - Strategien - Methoden – Technologien. Zürich: Orell Fuessli.
 
-- BITKOM (2009). E-Learning spart Zeit und Geld. URL: [http://www.bitkom.org/de/presse/62013](http://www.bitkom.org/de/presse/62013)\_59942.aspx \[09.07.2013].
+- BITKOM (2009). E-Learning spart Zeit und Geld. URL: [http://www.bitkom.org/de/presse/62013\_59942.aspx](http://www.bitkom.org/de/presse/62013\_59942.aspx) \[09.07.2013].
 
 - Dittler, U. (2002). E-Learning: Erfolgsfaktoren und Einsatzkonzepte des Lernens mit interaktiven Medien. München: Oldenbourg.
 
 - Friedrich, R.; Peterson, M. & Koster, A. (2011). The Rise of Generation C. In strategy+business, Issue 62. URL: [http://www.strategy-business.com/article/11110?gko=64e54](http://www.strategy-business.com/article/11110?gko=64e54) \[10.07.2013].
 
-- Goertz, L. (2013). Wann was für wen? In wirtschaft + weiterbildung, 5/2013. URL: [http://www.mmb-institut.de/download/fachbeitraege/wirtschaft+weiterbildung](http://www.mmb-institut.de/download/fachbeitraege/wirtschaft+weiterbildung)\_5-2013\_Lernorganisation\_Skillsoft\_Sonderveroeffentlichung.pdf \[09.07.2013]
+- Goertz, L. (2013). Wann was für wen? In wirtschaft + weiterbildung, 5/2013. URL: [http://www.mmb-institut.de/download/fachbeitraege/wirtschaft+weiterbildung\_5-2013\_Lernorganisation\_Skillsoft\_Sonderveroeffentlichung.pdf](http://www.mmb-institut.de/download/fachbeitraege/wirtschaft+weiterbildung\_5-2013\_Lernorganisation\_Skillsoft\_Sonderveroeffentlichung.pdf) \[09.07.2013]
 
 - Hart, J. (2011). Social Learning Handbook. Centre for Learning & Performance Technologies. Haythornthwite, C.; Bruce, B. C.; Montague, R. & Preston, C. (2007). Theories and models of and for online learning. URL: [http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1976/1851](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/1976/1851) \[09.07.2013].
 
@@ -29,7 +29,7 @@
 
 - Rosenberg, M. (2006). Beyond E-Learning. Approaches and Technologies to Enhance Organizational Knowledge, Learning, and Performance. San Francisco: Pfeiffer. Sauter, S. & Sauter, W. (i.D.). Integrierte Kompetenzentwicklung im Prozess der Arbeit und im Netz, Berlin/Heidelberg
 
-- Scheer, A.W. (2009). E-Learning – ein neuer Markt mit Potential. URL: [http://www.bitkom.org/files/documents/bitkom](http://www.bitkom.org/files/documents/bitkom)\_praesentation\_e-learning\_pk\_04\_03\_2009.pdf \[09.07.2013].
+- Scheer, A.W. (2009). E-Learning – ein neuer Markt mit Potential. URL: [http://www.bitkom.org/files/documents/bitkom\_praesentation\_e-learning\_pk\_04\_03\_2009.pdf](http://www.bitkom.org/files/documents/bitkom\_praesentation\_e-learning\_pk\_04\_03\_2009.pdf) \[09.07.2013].
 
 - Schütt, P. (2013). Der Weg zum Social Business. Mit Social Media Methoden erfolgreicher werden. Berlin/ Heidelberg: Springer Gabler.
 

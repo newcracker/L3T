@@ -37,4 +37,4 @@
 
 - Ritterfeld, U.; Cody, M. & Vorderer, P. (2009). Serious Games: Explication of an Oxymoron. Introduction. In: U. Ritterfeld; M. Cody & P. Vorderer (Hrsg.), Serious Games. Mechanism and Effects, New York: Routledge, Taylor and Francis, 3-10.
 
-- Sommer, S. (2012). Spielen für die Karriere. In: Manager-Magazin Online. URL: [http://www.manager-magazin.de/unternehmen/karriere/0](http://www.manager-magazin.de/unternehmen/karriere/0),2828,844534,00.html \[2013-07-01]
+- Sommer, S. (2012). Spielen für die Karriere. In: Manager-Magazin Online. URL: [http://www.manager-magazin.de/unternehmen/karriere/0,2828,844534,00.html](http://www.manager-magazin.de/unternehmen/karriere/0,2828,844534,00.html) \[2013-07-01]

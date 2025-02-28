@@ -9,11 +9,11 @@
 
 - Baumgartner, P.; Himpsl, K. & Zauchner, S. (2009). Einsatz von E-Portfolios an (österreichischen) Hochschulen: Zusammenfassung - Teil I des BMWF-Abschlussberichts „E-Portfolio an Hochschulen“: GZ 51.700/0064-VII/10/2006. (Forschungsbericht). Krems: Department für Interaktive Medien und Bildungstechnologien, Donau Universität Krems. [http://peter.baumgartner.name/schriften/liste-abstracts/einsatz-von-e-portfolios-an-oesterreichischen-hochschulen-zusammenfassung/](http://peter.baumgartner.name/schriften/liste-abstracts/einsatz-von-e-portfolios-an-oesterreichischen-hochschulen-zusammenfassung/) \[2013-08-21].
 
-- Bonnet, M.; Hansmeier, E. & Kämper, N. (2013). Ran ans Werk! Erfolgreiche Umsetzung eines Inverted-Classroom-Konzeptes im Grundlagenmodul Werkstofftechnik für studierendenzentriertes und kompetenzorientiertes Lernen im Maschinenbau. In: Tekkaya, A. E. et al. (Hrsg.), TeachING-LearnING.EU discussions. Innovationen für die Zukunft der Lehre in den Ingenieurwissenschaften, 25-33. URL: [http://www.teaching-learning.eu/fileadmin/documents/News/TeachING-LearnING-EU](http://www.teaching-learning.eu/fileadmin/documents/News/TeachING-LearnING-EU)\_Publikation2013.pdf \[2013-8-20].
+- Bonnet, M.; Hansmeier, E. & Kämper, N. (2013). Ran ans Werk! Erfolgreiche Umsetzung eines Inverted-Classroom-Konzeptes im Grundlagenmodul Werkstofftechnik für studierendenzentriertes und kompetenzorientiertes Lernen im Maschinenbau. In: Tekkaya, A. E. et al. (Hrsg.), TeachING-LearnING.EU discussions. Innovationen für die Zukunft der Lehre in den Ingenieurwissenschaften, 25-33. URL: [http://www.teaching-learning.eu/fileadmin/documents/News/TeachING-LearnING-EU\_Publikation2013.pdf](http://www.teaching-learning.eu/fileadmin/documents/News/TeachING-LearnING-EU\_Publikation2013.pdf) \[2013-8-20].
 
 - Bremer, C. (2013). Deutschsprachige MOOCs. URL: [http://mooc13.wordpress.com/geschichte-und-beispiele/deutschsprachige-moocs](http://mooc13.wordpress.com/geschichte-und-beispiele/deutschsprachige-moocs) \[2013-08-13]
 
-- Bremer, C. (o. J.). Mehrwerte des eLearning-Einsatzes in der Lehre. URL: [http://www.bremer.cx/material/Bremer](http://www.bremer.cx/material/Bremer)\_Mehrwerte.pdf \[2013-08-20].
+- Bremer, C. (o. J.). Mehrwerte des eLearning-Einsatzes in der Lehre. URL: [http://www.bremer.cx/material/Bremer\_Mehrwerte.pdf](http://www.bremer.cx/material/Bremer\_Mehrwerte.pdf) \[2013-08-20].
 
 - Breuer, F. & Breitner, M. H. (2008). Aufzeichnung und Podcasting akademischer Veranstaltungen in der Region D-A-CH: Ausgewählte Ergebnisse und Benchmark einer Expertenbefragung. IWI Discussion Paper # 26. Leibniz Universität Hannover, Institut für Wirtschaftsinformatik.
 
@@ -37,7 +37,7 @@
 
 - Elbow, P. & Belanoff, P. (1986). SUNY: Portfolio-Based Evaluation Program. In: P. H. Conolly & T. Vilardi (Hrsg.), New Methods in College Writing Programs: Theory into Practice. New York: Modern Language Association of America.
 
-- Europortfolio. (2013). Newsletter July-August 2013. URL: [http://www.eportfolio.eu/sites/default/files/europortfolio](http://www.eportfolio.eu/sites/default/files/europortfolio)\_newsletter\_july\_august\_2013\_0.pdf \[2013-08-21].
+- Europortfolio. (2013). Newsletter July-August 2013. URL: [http://www.eportfolio.eu/sites/default/files/europortfolio\_newsletter\_july\_august\_2013\_0.pdf](http://www.eportfolio.eu/sites/default/files/europortfolio\_newsletter\_july\_august\_2013\_0.pdf) \[2013-08-21].
 
 - Fischer, M. & Spannagel, C. (2012). Lernen mit Vorlesungsvideos in der umgedrehten Mathematikvorlesung. In: J. Desel; J. M.; Haake & C. Spannagel (Hrsg.), DeLFI 2012 –Die 10. e-Learning Fachtagung Informatik der Gesellschaft für Informatik e.V. Bonn, 225–236.
 
@@ -49,7 +49,7 @@
 
 - Himpsl-Gutermann, K. (2012). E-Portfolios in der universitären Weiterbildung. Studierende im Spannungsfeld von Reflexivem Lernen und Digital Career Identity. Boizenburg: VWH-Verlag.
 
-- Hornung-Prähauser, V.; Geser, G.; Hilzensauer, W. & Schaffert, S. (2007). Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg: Salzburg Research Forschungsgesellschaft. URL: [http://www.fnm-austria.at/fileadmin/user](http://www.fnm-austria.at/fileadmin/user)\_upload/documents/Abgeschlossene\_Projekte/fnm-austria\_ePortfolio\_Studie\_SRFG.pdf \[2013-08-21].
+- Hornung-Prähauser, V.; Geser, G.; Hilzensauer, W. & Schaffert, S. (2007). Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg: Salzburg Research Forschungsgesellschaft. URL: [http://www.fnm-austria.at/fileadmin/user\_upload/documents/Abgeschlossene\_Projekte/fnm-austria\_ePortfolio\_Studie\_SRFG.pdf](http://www.fnm-austria.at/fileadmin/user\_upload/documents/Abgeschlossene\_Projekte/fnm-austria\_ePortfolio\_Studie\_SRFG.pdf) \[2013-08-21].
 
 - Häcker, T. (2007). Portfolio: ein Entwicklungsinstrument für selbstbestimmtes Lernen: Eine explorative Studie zur Arbeit mit Portfolios in der Sekundarstufe I. Hohengehren: Schneider.
 
@@ -59,7 +59,7 @@
 
 - Kerres, M. (2006). Potenziale von Web 2.0 nutzen. In: A. Hohenstein & K. Wilbers (Hrsg.), Handbuch E-Learning, Köln: Fachverlag Deutscher Wirtschaftsdienst, Kapitel 4.26.
 
-- Krüger, M. (2010). Selbstgesteuertes und kooperatives Lernen mit E-Lectures im Lernszenario VideoLern. Vortragsaufzeichnung bei e-teaching.org. URL: [http://www.e-teaching.org/community/communityevents/ringvorlesung/selbstgesteuertes](http://www.e-teaching.org/community/communityevents/ringvorlesung/selbstgesteuertes)\_und\_kooperatives\_lernen \[2013-08-20]
+- Krüger, M. (2010). Selbstgesteuertes und kooperatives Lernen mit E-Lectures im Lernszenario VideoLern. Vortragsaufzeichnung bei e-teaching.org. URL: [http://www.e-teaching.org/community/communityevents/ringvorlesung/selbstgesteuertes\_und\_kooperatives\_lernen](http://www.e-teaching.org/community/communityevents/ringvorlesung/selbstgesteuertes\_und\_kooperatives\_lernen) \[2013-08-20]
 
 - Leonhardt, A. (2002). Einführung in die Hörgeschädigtenpädagogik. München, Basel: Reinhardt UTB.
 
@@ -71,7 +71,7 @@
 
 - Münte-Goussar, S.; Mayrberger, K.; Meyer, T. & Schwalbe, C. (2011). Einleitung. In: T. Meyer, K.; Mayrberger, S.; Münte-Goussar & C. Schwalbe (Hrsg.), Kontrolle und Selbstkontrolle: Zur Ambivalenz von E-Portfolios in Bildungsprozessen. Wiesbaden: VS Verlag, 15–30.
 
-- Perry, W. (2009). E-portfolios for RPL assessment: key findings on current engagement in the VET sector: final report. Brisbane: Australian Flexible Learning Framework (AFLF). URL: [http://learnerpathways.flexiblelearning.net.au/documents/research](http://learnerpathways.flexiblelearning.net.au/documents/research)\_reports/E-portfolios\_for\_RPL\_Assessment\_Final.pdf \[2013-08-21].
+- Perry, W. (2009). E-portfolios for RPL assessment: key findings on current engagement in the VET sector: final report. Brisbane: Australian Flexible Learning Framework (AFLF). URL: [http://learnerpathways.flexiblelearning.net.au/documents/research\_reports/E-portfolios\_for\_RPL\_Assessment\_Final.pdf](http://learnerpathways.flexiblelearning.net.au/documents/research\_reports/E-portfolios\_for\_RPL\_Assessment\_Final.pdf) \[2013-08-21].
 
 - Prenzel, M. (1996). Bedingungen für selbstbestimmtes motiviertes und interessiertes Lernen im Studium. In: J. Lompscher & H. Mandl (Hrsg.), Lehr- und Lernprobleme im Studium. Bedingungen und Veränderungsmöglichkeiten. Bern: Huber, 11–22.
 
@@ -79,7 +79,7 @@
 
 - Reinmann, G. & Jenert, T. (2011). Studierendenorientierung: Wege und Irrwege eines Begriffs mit vielen Facetten. In: Zeitschrift für Hochschulentwicklung, 6. Jahrgang (Heft 2/2011), 106–122, URL: [http://www.zfhe.at/index.php/zfhe/article/view/254](http://www.zfhe.at/index.php/zfhe/article/view/254) \[2013-08-20].
 
-- Robes, J. (2012). Massive Open Online Courses: Das Potenzial des offenen und vernetzten Lernens. In: A. Hohenstein & K. Wilbers (Hrsg.), Handbuch E-Learning. Grundwerk, Köln: Fachverlag Deutscher Wirtschaftsdienst, 42. Erg.-Lfg. URL: [http://www.weiterbildungsblog.de/wp-content/uploads/2012/06/massive](http://www.weiterbildungsblog.de/wp-content/uploads/2012/06/massive)\_open\_online\_courses\_robes.pdf \[2013-07-14].
+- Robes, J. (2012). Massive Open Online Courses: Das Potenzial des offenen und vernetzten Lernens. In: A. Hohenstein & K. Wilbers (Hrsg.), Handbuch E-Learning. Grundwerk, Köln: Fachverlag Deutscher Wirtschaftsdienst, 42. Erg.-Lfg. URL: [http://www.weiterbildungsblog.de/wp-content/uploads/2012/06/massive\_open\_online\_courses\_robes.pdf](http://www.weiterbildungsblog.de/wp-content/uploads/2012/06/massive\_open\_online\_courses\_robes.pdf) \[2013-07-14].
 
 - Sams, A. (2012). Der „Flipped“ Classroom. In: J. Handke & A. Sperl (Hrsg.), Das Inverted Classroom Model. Begleitband zur ersten deutschen ICM-Konferenz. München: Oldenbourg Wissenschaftsverlag, 13–22.
 
@@ -95,12 +95,12 @@
 
 - van Treeck, T. & Hannemann, K. (2012). Lehre und Praxisphasen sichtbar machen – webbasierte Lehrportfolios. In: B. Szczyrba & S. Gotzen (Hrsg.), Das Lehrportfolio. Entwicklung, Dokumentation und Nachweis von Lehrkompetenz an Hochschulen, Münster: Lit Verlag, 217–236.
 
-- van Treeck, T. (2012). Do it Yourself – Lernende gestalten ihre Online-Lernumgebung. In: M. Ockenfeld; I. Peters & K. Weller (Hrsg.), Social Media und Web Science. Das Web als Lebensraum. Frankfurt, 449–452. URL: [http://www.dgi-info.de/images/Konferenz2012/Konferenz2012](http://www.dgi-info.de/images/Konferenz2012/Konferenz2012)\_Tagungsband\_komplett.pdf \[2013-08-26].
+- van Treeck, T. (2012). Do it Yourself – Lernende gestalten ihre Online-Lernumgebung. In: M. Ockenfeld; I. Peters & K. Weller (Hrsg.), Social Media und Web Science. Das Web als Lebensraum. Frankfurt, 449–452. URL: [http://www.dgi-info.de/images/Konferenz2012/Konferenz2012\_Tagungsband\_komplett.pdf](http://www.dgi-info.de/images/Konferenz2012/Konferenz2012\_Tagungsband\_komplett.pdf) \[2013-08-26].
 
-- van Treeck, T.; Kampmann, B. & Ahlrichs, D. (2013). Offline – Online. Erhöhung von Bildungsvielfalt durch Transformationen. In: L. Ludwig; K. Narr; S. Frank & D. Staemmler (Hrsg.), Lernen in der digitalen Gesellschaft – offen, vernetzt, integrativ. Abschlussbericht der Expertengruppe der 7. Initiative, 68-74. URL: [http://www.collaboratory.de/w/Abschlussbericht](http://www.collaboratory.de/w/Abschlussbericht)\_Initiative\_Lernen\_in\_der\_digitalen\_Gesellschaft \[2013-08-20].
+- van Treeck, T.; Kampmann, B. & Ahlrichs, D. (2013). Offline – Online. Erhöhung von Bildungsvielfalt durch Transformationen. In: L. Ludwig; K. Narr; S. Frank & D. Staemmler (Hrsg.), Lernen in der digitalen Gesellschaft – offen, vernetzt, integrativ. Abschlussbericht der Expertengruppe der 7. Initiative, 68-74. URL: [http://www.collaboratory.de/w/Abschlussbericht\_Initiative\_Lernen\_in\_der\_digitalen\_Gesellschaft](http://www.collaboratory.de/w/Abschlussbericht\_Initiative\_Lernen\_in\_der\_digitalen\_Gesellschaft) \[2013-08-20].
 
 - Wedekind, J. (2013). MOOCs – eine Herausforderung für die Hochschulen? In: G. Reinmann; M. Ebner & S. Schön (Hrsg.), Hochschuldidaktik im Zeichen von Heterogenität und Vielfalt, Norderstedt: Books on Demand, 45–62.
 
-- Witt, H.; Nilsson, K.; Gajdus, C.; Gräve, J.F.; Wagner, W. & Philip, W. (2010). Durchkreuzen wir mit eLectures unsere didaktischen Ziele? URL: [http://www.e-teaching.org/etresources/media/pdf/langtext](http://www.e-teaching.org/etresources/media/pdf/langtext)\_2010\_witt-heiko-u.a.\_durchkreuzen-e-lectures-didaktische-ziele.pdf \[2013-08-21].
+- Witt, H.; Nilsson, K.; Gajdus, C.; Gräve, J.F.; Wagner, W. & Philip, W. (2010). Durchkreuzen wir mit eLectures unsere didaktischen Ziele? URL: [http://www.e-teaching.org/etresources/media/pdf/langtext\_2010\_witt-heiko-u.a.\_durchkreuzen-e-lectures-didaktische-ziele.pdf](http://www.e-teaching.org/etresources/media/pdf/langtext\_2010\_witt-heiko-u.a.\_durchkreuzen-e-lectures-didaktische-ziele.pdf) \[2013-08-21].
 
 - Zauchner, S.; Baumgartner, P.; Blaschitz, E. & Weissenbäck, A. (2008). Offener Bildungsraum Hochschule: Freiheiten und Notwendigkeiten. In: S. Zauchner,; P. Baumgartner; E. Blaschitz & A. Weissenbäck (Hrsg.), Offener Bildungsraum Hochschule: Freiheiten und Notwendigkeiten, Münster: Waxmann, 11–13.

@@ -7,7 +7,7 @@
 
 - Carson, S., & Schmidt, J. (2012). The Massive Open Online Professor Academic Matter. In: Journal of higher education . [http://www.academicmatters.ca/2012/05/the-massive-open-online-](http://www.academicmatters.ca/2012/05/the-massive-open-online-) professor/ \[2013-08-18]
 
-- Daalsgard, C. (2006). Social software: E-learning beyond learning management systems. In: European Journal of Open, distance and e-learning, URL: [http://www.eurodl.org/materials/contrib/2006/Christian](http://www.eurodl.org/materials/contrib/2006/Christian)\_Dalsgaard.htm \[2013-08-17]
+- Daalsgard, C. (2006). Social software: E-learning beyond learning management systems. In: European Journal of Open, distance and e-learning, URL: [http://www.eurodl.org/materials/contrib/2006/Christian\_Dalsgaard.htm](http://www.eurodl.org/materials/contrib/2006/Christian\_Dalsgaard.htm) \[2013-08-17]
 
 - Ebner, M .& Maurer, H. (2008) Can Microblogs and Weblogs change traditional scientific writing ? . In: Proceedings of E-Learn 2008, Las Vegas, , Chesapeake, VA: AACE , 768-776.
 

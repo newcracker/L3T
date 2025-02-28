@@ -13,7 +13,7 @@
 
 - David, D. M.; Euteneier, A.; Fischer, M. R.; Hahn, E. G.; Johannink, J.; Kulike, K.; Lauch, R.; Lindhorst, E.; Noll-Hussong, M.; Pinilla, S.; Weih, M. & Wennekes, V. (2013). The future of graduate medical education in Germany - position paper of the Committee on Graduate Medical Education of the Society for Medical Education (GMA). In: GMS Z Med Ausbild: 15;30(2). URL: [http://www.ncbi.nlm.nih.gov/pubmed/23737923](http://www.ncbi.nlm.nih.gov/pubmed/23737923) \[2013-08-27].
 
-- EAEVE - European Association of Establishments for Veterinary Education (2009): Annex IV: List of Recommended Essential Competencies at Graduation: "Day-one-Skills". EAEVE Standard Operating Procedures. URL: [http://www.eaeve.org/fileadmin/downloads/sop/SOP](http://www.eaeve.org/fileadmin/downloads/sop/SOP)\_Annex4to8\_Hanover09.pdf ?\[2013-08-26]
+- EAEVE - European Association of Establishments for Veterinary Education (2009): Annex IV: List of Recommended Essential Competencies at Graduation: "Day-one-Skills". EAEVE Standard Operating Procedures. URL: [http://www.eaeve.org/fileadmin/downloads/sop/SOP\_Annex4to8\_Hanover09.pdf](http://www.eaeve.org/fileadmin/downloads/sop/SOP\_Annex4to8\_Hanover09.pdf) ?\[2013-08-26]
 
 - Eber, M.: Konzeption und Implementierung einer policy-basierten Privacy Management Architektur für föderierte Identitätsmanagementsysteme am Beispiel Shibboleth. München: LMU München, Diplomarbeit.? URL: [http://www.mnm-team.org/pub/Diplomarbeiten/eber06/PDF-Version/eber06.pdf](http://www.mnm-team.org/pub/Diplomarbeiten/eber06/PDF-Version/eber06.pdf) \[2013-08-27].
 
@@ -45,7 +45,7 @@
 
 - Koch, M.; Fischer, M. R.; Vandefelde, M.; Tipold, A. & Ehlers, J. P. (2010). Erfahrungen aus Entwicklung und Einsatz einesinterdisziplinären Blended-Learning-Wahlpflichtfaches an zwei tiermedizinischen Hochschulen. In Zeitschrift für Hochschulentwicklung, (Heft 1/ 2010 – 5. Jahrgang), 88-107. URL: [http://www.zfhe.at/index.php/zfhe/article/view/39/275](http://www.zfhe.at/index.php/zfhe/article/view/39/275) \[2013-08-27].
 
-- Mikuszeit, B. & IB&M Berlin. (2008): Qualitätsanforderungen und Qualitätsprüfung des Institutes für Bildung und Medien der Gesellschaft für Pädagogik und Information zur Beurteilung von didaktischen Multimediaprodukten. URL: [http://www.gpi-online.de/upload/PDFs/EU-Media/](http://www.gpi-online.de/upload/PDFs/EU-Media/)\_Mikuszeit-Bewertung-Texte.pdf \[2013-08-27].
+- Mikuszeit, B. & IB&M Berlin. (2008): Qualitätsanforderungen und Qualitätsprüfung des Institutes für Bildung und Medien der Gesellschaft für Pädagogik und Information zur Beurteilung von didaktischen Multimediaprodukten. URL: [http://www.gpi-online.de/upload/PDFs/EU-Media/\_Mikuszeit-Bewertung-Texte.pdf](http://www.gpi-online.de/upload/PDFs/EU-Media/\_Mikuszeit-Bewertung-Texte.pdf) \[2013-08-27].
 
 - NOVICE: Network of Veterinary ICT in Education. [http://www.noviceproject.eu](http://www.noviceproject.eu) ?\[2013-08-27].
 
@@ -59,12 +59,12 @@
 
 - Sostmann, K.; Tolks D.; Buron, S. & Fischer M R. (2011). Serious Games for Health: Learning and healing with video games? In: MIBE-Sonderheft 2011.
 
-- Wang, M.(2008) Java, Settlers. Intelligente agentenbasierte Spielsysteme für intuitive Multi-Touch-Umgebungen. Berlin: Freie Universität Berlin, Diplomarbeit, URL: [http://page.mi.fu-berlin.de/block/Wang](http://page.mi.fu-berlin.de/block/Wang)\_Diplom.pdf \[2013-08-27].
+- Wang, M.(2008) Java, Settlers. Intelligente agentenbasierte Spielsysteme für intuitive Multi-Touch-Umgebungen. Berlin: Freie Universität Berlin, Diplomarbeit, URL: [http://page.mi.fu-berlin.de/block/Wang\_Diplom.pdf](http://page.mi.fu-berlin.de/block/Wang\_Diplom.pdf) \[2013-08-27].
 
 - Woltering, V.; Herrler, A.; Spitzer, K. & Spreckelsen, C. (2009) .Blended learning positively affects students' satisfaction and the role of the tutor in the problem-based learning process: results of a mixed-method evaluation. In: Adv Health Sci Educ Theory Pract. 2009 Dec;14(5):725-38.
 
-- Zaucher, S.; Zobel, A.; Bauer, R.; Hupfer, M.; Herber, E. & Baugartner, P.: Technologien für lebenslanges Lernen. Wie eine Ära nach Learning-Management-Systemen aussehen könnte. In: Nino Tomaschek, Elke Gornik (Hrsg.) The Lifelong Learning University - Perspektiven für die Universität der Zukunft. URL: [http://www.donau-uni.ac.at/imperia/md/images/department/imb/forschung/publikationen/lll](http://www.donau-uni.ac.at/imperia/md/images/department/imb/forschung/publikationen/lll)\_university\_technologien.pdf \[2013-08-27].
+- Zaucher, S.; Zobel, A.; Bauer, R.; Hupfer, M.; Herber, E. & Baugartner, P.: Technologien für lebenslanges Lernen. Wie eine Ära nach Learning-Management-Systemen aussehen könnte. In: Nino Tomaschek, Elke Gornik (Hrsg.) The Lifelong Learning University - Perspektiven für die Universität der Zukunft. URL: [http://www.donau-uni.ac.at/imperia/md/images/department/imb/forschung/publikationen/lll\_university\_technologien.pdf](http://www.donau-uni.ac.at/imperia/md/images/department/imb/forschung/publikationen/lll\_university\_technologien.pdf) \[2013-08-27].
 
-- Zimmer, G.; Elz, W.; Esser, F. H.; Gaiser, B.; Grotlüschen, A.; Härtel, M.; Littig, P.; Michel, L.P.; Payone, T. & Petersheim, A. K. (2005). Förderprogramm Neue Medien in der Bildung Auditempfehlungen zum Förderbereich: Neue Medien in der beruflichen Bildung. Bonn: Bundesministerium für Bildung und Forschung (BMBF) Referat Publikationen; Internetredaktion. URL: [http://www.bmbf.de/pub/neue](http://www.bmbf.de/pub/neue)\_medien\_in\_beruflichen\_bildung.pdf \[2013-08-27].
+- Zimmer, G.; Elz, W.; Esser, F. H.; Gaiser, B.; Grotlüschen, A.; Härtel, M.; Littig, P.; Michel, L.P.; Payone, T. & Petersheim, A. K. (2005). Förderprogramm Neue Medien in der Bildung Auditempfehlungen zum Förderbereich: Neue Medien in der beruflichen Bildung. Bonn: Bundesministerium für Bildung und Forschung (BMBF) Referat Publikationen; Internetredaktion. URL: [http://www.bmbf.de/pub/neue\_medien\_in\_beruflichen\_bildung.pdf](http://www.bmbf.de/pub/neue\_medien\_in\_beruflichen\_bildung.pdf) \[2013-08-27].
 
 - Öchsner,W. & Forster, J. (2005). Approbierte Ärzte - kompetente Ärzte?: Die neue Approbationsordnung für Ärzte als Grundlage für kompetenzbasierte Curricula. In: ,GMS Zeitschrift für Medizinische Ausbildung, 2005;22(1):Doc04.

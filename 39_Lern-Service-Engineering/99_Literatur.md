@@ -1,7 +1,7 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Brauchle, B. (2007). Der Rolle beraubt: Lehrende als Vermittler von Selbstlernkompetenz. Berufs- und Wirtschaftspädagogik – online 13 (Dezember 2007), [http://www.bwpat.de/ausgabe13/brauchle](http://www.bwpat.de/ausgabe13/brauchle)\_bwpat13.pdf \[2013-08-16]
+- Brauchle, B. (2007). Der Rolle beraubt: Lehrende als Vermittler von Selbstlernkompetenz. Berufs- und Wirtschaftspädagogik – online 13 (Dezember 2007), [http://www.bwpat.de/ausgabe13/brauchle\_bwpat13.pdf](http://www.bwpat.de/ausgabe13/brauchle\_bwpat13.pdf) \[2013-08-16]
 
 - Bukvova, H.; Lehr, C.; Lieske, C.; Weber, P. & Schoop, E. (2010). Gestaltung virtueller kollaborativer Lernprozesse in internationalen Settings. Multikonferenz Wirtschaftsinformatik , 287
 

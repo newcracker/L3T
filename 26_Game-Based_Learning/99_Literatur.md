@@ -1,7 +1,7 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Bopp, M. (2005). Immersive Didaktik: Verdeckte Lernhilfen und Framingprozesse in Computerspielen. In: kommunikation@gesellschaft, 6, Beitrag 2. URL: [http://www.soz.uni-frankfurt.de/K.G/B2](http://www.soz.uni-frankfurt.de/K.G/B2)\_2005\_Bopp.pdf \[2010-09-23].
+- Bopp, M. (2005). Immersive Didaktik: Verdeckte Lernhilfen und Framingprozesse in Computerspielen. In: kommunikation@gesellschaft, 6, Beitrag 2. URL: [http://www.soz.uni-frankfurt.de/K.G/B2\_2005\_Bopp.pdf](http://www.soz.uni-frankfurt.de/K.G/B2\_2005\_Bopp.pdf) \[2010-09-23].
 
 - Caillois, R. (2001). Man, play, and games. Urbana: Univ. of Illinois Press.
 
@@ -13,7 +13,7 @@
 
 - Fritz, J. & Fehr, W. (1993). Videospiele und ihre Typisierung. Bonn: Bundeszentrale für politische Bildung, URL: [http://snp.bpb.de/referate/fritztyp.htm](http://snp.bpb.de/referate/fritztyp.htm) \[2010-09-23].
 
-- Fritz, J. (2005). Computerspiele: Was ist das?: Was unter Computerspielen verstanden und wie mit ihnen umgegangen wird. Bonn: Bundeszentrale für politische Bildung, URL: [http://www.bpb.de/themen/NGYBQY](http://www.bpb.de/themen/NGYBQY),0,Computerspiele%3A\_Was\_ist\_das.html \[2010-09-23].
+- Fritz, J. (2005). Computerspiele: Was ist das?: Was unter Computerspielen verstanden und wie mit ihnen umgegangen wird. Bonn: Bundeszentrale für politische Bildung, URL: [http://www.bpb.de/themen/NGYBQY,0,Computerspiele%3A\_Was\_ist\_das.html](http://www.bpb.de/themen/NGYBQY,0,Computerspiele%3A\_Was\_ist\_das.html) \[2010-09-23].
 
 - Fromme, J.; Biermann, R. & Unger, A. (2010). „Serious Games” oder „taking games seriously”?. In: K.-U. Hugger & M. Walber (Hrsg.), Digitale Lernwelten. Konzepte, Beispiele und Perspektiven. Wiesbaden: VS Verlag für Sozialwissenschaften, 40-57.
 
@@ -35,7 +35,7 @@
 
 - Huizinga, J. (1961) Homo ludens: Vom Ursprung der Kultur im Spiel. In: rororo Rowohlts Enzyklopädie, Bd. 55435, Reinbek bei Hamburg: Rowohlt Taschenbuch-Verlag.
 
-- Jantke, K. P. (2007). Serious Games – eine kritische Analyse. Illmenau: TU Ilmenau. URL: [http://www.bildungsportal-thueringen.de/portals/bpt2005/Multimediaworkshop/2007/02](http://www.bildungsportal-thueringen.de/portals/bpt2005/Multimediaworkshop/2007/02)\_jantke.pdf \[2010-09-23].
+- Jantke, K. P. (2007). Serious Games – eine kritische Analyse. Illmenau: TU Ilmenau. URL: [http://www.bildungsportal-thueringen.de/portals/bpt2005/Multimediaworkshop/2007/02\_jantke.pdf](http://www.bildungsportal-thueringen.de/portals/bpt2005/Multimediaworkshop/2007/02\_jantke.pdf) \[2010-09-23].
 
 - Jenkins, H.; Camper, B.; Chisholm, A.; Grigsby, N.; Klopfer, E.; Osterweil, S.; Perry, J.; Tan, P; Weise, M. & Chor Guan, T. (2009). From Serious Games to Serious Gaming. In: U. Ritterfeld; M. Cody & P. Vorderer (Hrsg.), Serious games. Mechanisms and effects., New York: Routledge, 448-468.
 
@@ -63,9 +63,9 @@
 
 - Ritterfeld, U. & Weber, R. (2006). Video Games for Entertainment and Education. In: P. Vorderer & J. Bryant (Hrsg.), Playing video games. Motives, responses, and consequences., LEA's communication series, Mahwah: Lawrence Erlbaum Ass., 399-413.
 
-- Sawyer, B. (2008). Taxonomy of Serious Games. URL: [http://richardcarey.net/wp-content/uploads/2007/05/sg](http://richardcarey.net/wp-content/uploads/2007/05/sg)\_taxonomy.xls \[2010-08-10].
+- Sawyer, B. (2008). Taxonomy of Serious Games. URL: [http://richardcarey.net/wp-content/uploads/2007/05/sg\_taxonomy.xls](http://richardcarey.net/wp-content/uploads/2007/05/sg\_taxonomy.xls) \[2010-08-10].
 
-- Sawyer, B. (2008). Taxonomy of Serious Games. URL: [http://richardcarey.net/wp-content/uploads/2007/05/sg](http://richardcarey.net/wp-content/uploads/2007/05/sg)\_taxonomy.xls \[2010-08-10].
+- Sawyer, B. (2008). Taxonomy of Serious Games. URL: [http://richardcarey.net/wp-content/uploads/2007/05/sg\_taxonomy.xls](http://richardcarey.net/wp-content/uploads/2007/05/sg\_taxonomy.xls) \[2010-08-10].
 
 - Shen, C.; Wang, H. & Ritterfeld, U. (2009). Serious Games and Seriously Fun Games. In: U. Ritterfeld, M. Cody & P. Vorderer (Hrsg.), Serious games. Mechanisms and effects., New York: Routledge, 48-61.
 

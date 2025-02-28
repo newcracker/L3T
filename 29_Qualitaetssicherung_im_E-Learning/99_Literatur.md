@@ -5,7 +5,7 @@
 
 - Arter, J. A.; Spandel, V.; Culham, R. & Pollard, J. (1994). The impact of training students to be self- assessors of writing. Paper presented at the annual meeting of the American Educational Research Association. New Orleans
 
-- Common Knowledge (2007). URL: [http://www.commonknowledge.org/userimages/resources](http://www.commonknowledge.org/userimages/resources)\_peer\_assist\_guidellines+.pdf \[2010-12-17]
+- Common Knowledge (2007). URL: [http://www.commonknowledge.org/userimages/resources\_peer\_assist\_guidellines+.pdf](http://www.commonknowledge.org/userimages/resources\_peer\_assist\_guidellines+.pdf) \[2010-12-17]
 
 - Ditton, H. (2000). Qualitätskontrolle und -sicherung in Schule und Unterricht. Ein Überblick zum Stand der empirischen Forschung. In: A. Helmke, W.; Hornstein, E. Terhart, E. (Hrsg.), Qualität und Qualitätssicherung im Bildungsbereich, Weinheim: Beltz
 
@@ -21,7 +21,7 @@
 
 - Holzkamp, K. (1993). Lernen. Subjektwissenschaftliche Grundlegung. Frankfurt am Main: Campus
 
-- Hornung-Prähauser, V.; Geser, G.; Hilzensauer, W.; Schaffert, S. (2007). Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg. URL: [http://edumedia.salzburgresearch.at/images/stories/e-portfolio](http://edumedia.salzburgresearch.at/images/stories/e-portfolio)\_studie\_srfg\_fnma.pdf \[2011-01-10]
+- Hornung-Prähauser, V.; Geser, G.; Hilzensauer, W.; Schaffert, S. (2007). Didaktische, organisatorische und technologische Grundlagen von E-Portfolios und Analyse internationaler Beispiele und Erfahrungen mit E-Portfolio-Implementierungen an Hochschulen. Salzburg. URL: [http://edumedia.salzburgresearch.at/images/stories/e-portfolio\_studie\_srfg\_fnma.pdf](http://edumedia.salzburgresearch.at/images/stories/e-portfolio\_studie\_srfg\_fnma.pdf) \[2011-01-10]
 
 - Hughes M.; Ribbins P.; Hughes T. (1985). Managing Education: the system and the institution. London: Holt, Rinehart and Winston
 

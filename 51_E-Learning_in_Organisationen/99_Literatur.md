@@ -13,7 +13,7 @@
 
 - Capaul, R. (2005). Innovationen in schulischen Kontexten: Ansatzpunkte für berufsbegleitende Lernprozesse bei Lehrkräften. Reform der kaufmännischen Grundbildung in der Schweiz – Erste Erfahrungen aus der Begleitung. bwp@ (Berufs- und Wirtschaftspädagogik - online) , (spezial 2), 1–27.
 
-- Deiser, R. & Newton, S. (2013). Six social-media skills every leader needs. McKinsey Quarterly, 2013(February). [https://www.mckinseyquarterly.com/Six](https://www.mckinseyquarterly.com/Six)\_social- media\_skills\_every\_leader\_needs\_3056 \[2013-08-20].
+- Deiser, R. & Newton, S. (2013). Six social-media skills every leader needs. McKinsey Quarterly, 2013(February). [https://www.mckinseyquarterly.com/Six\_social-](https://www.mckinseyquarterly.com/Six\_social-) media\_skills\_every\_leader\_needs\_3056 \[2013-08-20].
 
 - Detecon International GmbH. (2006). Mit wertorientierten Lernarchitekturen zum Erfolg. Bausteine für das zukünftige Lernen in Unternehmen (White Paper). Eschborn. [http://www.checkpoint-](http://www.checkpoint-) elearning.de/downloads/Detecon\_White\_Paper\_Lernarchitektur.pdf \[2013-08-20].
 
@@ -53,4 +53,4 @@
 
 - Seufert, S.; Fandel-Meyer, T.; Meier, C.; Diesner, I.; Fäckeler, S. & Raatz, S. (2013). Informelles Lernen als Führungsaufgabe. Herleitung, explorative Fallstudien und Rahmenkonzept (Bd. 24). St. Gallen: IWP-HSG.
 
-- Zürcher, R. (2007). Informelles Lernen und der Erwerb von Kompetenzen. Theoretische, didaktische und politische Aspekte (Materialien zur Erwachsenenbildung No. 2/2007). Wien: Bundesministerium für Unterricht, Kunst und Kultur. [http://www.erwachsenenbildung.at/services/publikationen/materialien](http://www.erwachsenenbildung.at/services/publikationen/materialien)\_zur\_eb/nr2_ 2007\_informelles\_lernen.pdf \[2013-08-20].
+- Zürcher, R. (2007). Informelles Lernen und der Erwerb von Kompetenzen. Theoretische, didaktische und politische Aspekte (Materialien zur Erwachsenenbildung No. 2/2007). Wien: Bundesministerium für Unterricht, Kunst und Kultur. [http://www.erwachsenenbildung.at/services/publikationen/materialien\_zur\_eb/nr2_](http://www.erwachsenenbildung.at/services/publikationen/materialien\_zur\_eb/nr2_) 2007\_informelles\_lernen.pdf \[2013-08-20].

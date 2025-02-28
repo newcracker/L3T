@@ -1,25 +1,25 @@
 <!-- filename: 99_Literatur.md -->
 <!-- title: Literatur -->
 
-- Antidiskriminierungsrichtlinie 2000/43/EG (2000). URL: [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX):32000L0043:DE:NOT \[2013-08-19].
+- Antidiskriminierungsrichtlinie 2000/43/EG (2000). URL: [http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0043:DE:NOT](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0043:DE:NOT) \[2013-08-19].
 
-- Antidiskriminierungsrichtlinie 2000/78/EG (2000). URL: [http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX](http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX):32000L0078:DE:HTML \[2013-08-19].
+- Antidiskriminierungsrichtlinie 2000/78/EG (2000). URL: [http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0078:DE:HTML](http://eurlex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0078:DE:HTML) \[2013-08-19].
 
 - Arrigo, M. (2005). E-Learning Accessibility for blind students. In: Proceeding of the 3rd International Conference on ICT’s in Education- ICTE2005 Cáceres, Extremadura (Spanien). URL: [http://medialt.no/pub/utin/Blind%20students.pdf](http://medialt.no/pub/utin/Blind%20students.pdf) \[2013-08-19].
 
 - Biene Wettbewerb (2010). Kriterien der BIENE 2010. URL: [http://www.biene-wettbewerb.de/kriterien/BIENE-Kriterien-2010.pdf](http://www.biene-wettbewerb.de/kriterien/BIENE-Kriterien-2010.pdf) \[2013-08-19].
 
-- Bundesministerium für Arbeit, Soziales Und Konsumentenschutz (2009). Behindertenbericht 2008. Bericht der Bundesregierung über die Lage von Menschen mit Behinderungen in Österreich 2008. URL: [http://www.bmask.gv.at/cms/site/attachments/7/4/9/CH2092/CMS1359980335644/behindertenbericht](http://www.bmask.gv.at/cms/site/attachments/7/4/9/CH2092/CMS1359980335644/behindertenbericht)\_09-03-17.pdf \[2013-08-19].
+- Bundesministerium für Arbeit, Soziales Und Konsumentenschutz (2009). Behindertenbericht 2008. Bericht der Bundesregierung über die Lage von Menschen mit Behinderungen in Österreich 2008. URL: [http://www.bmask.gv.at/cms/site/attachments/7/4/9/CH2092/CMS1359980335644/behindertenbericht\_09-03-17.pdf](http://www.bmask.gv.at/cms/site/attachments/7/4/9/CH2092/CMS1359980335644/behindertenbericht\_09-03-17.pdf) \[2013-08-19].
 
 - CANnect (2010). Accessible Video and Audio. URL: [http://projectone.cannect.org/advice/video-audio.php](http://projectone.cannect.org/advice/video-audio.php) \[2013-08-19].
 
-- European Commission (2009). Study on Web accessibility in European countries: level of compliance with latest international accessibility specifications, notably WCAG 2.0, and approaches or plans to implement those specifications. URL: [http://ec.europa.eu/information](http://ec.europa.eu/information)\_society/activities/einclusion/library/studies/docs/access\_comply\_main.pdf \[2013-08-19].
+- European Commission (2009). Study on Web accessibility in European countries: level of compliance with latest international accessibility specifications, notably WCAG 2.0, and approaches or plans to implement those specifications. URL: [http://ec.europa.eu/information\_society/activities/einclusion/library/studies/docs/access\_comply\_main.pdf](http://ec.europa.eu/information\_society/activities/einclusion/library/studies/docs/access\_comply\_main.pdf) \[2013-08-19].
 
 - Freyhoff, G.; Hess, G.; Kerr, L.; Menzel, E.; Tronback, B. & Van Der Veken, K. (1998). Make it Simple. European Guidelines for the Production of Easy-to-Read Information for People with Learning Disability for authors, editors, information providers, translators and other interested persons. URL: [http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1271&context=gladnetcollect](http://digitalcommons.ilr.cornell.edu/cgi/viewcontent.cgi?article=1271&context=gladnetcollect) \[2013-08-19].
 
 - Grill, I. (2005). Inklusive Bildung. Erste Schritte zu einer gemeinsamen Erwachsenenbildung für behinderte und nichtbehinderte Menschen. URL: [http://bidok.uibk.ac.at/library/handbuch-inklusiv.html](http://bidok.uibk.ac.at/library/handbuch-inklusiv.html) \[2013-08-19].
 
-- Gröblinger, O. (2007). Barrierefreies E-Learning?!: Impulse zur Integration Web Accessibility Standards im Hochschul-E-Learning-Kontext. In: Forum Neue Medien in der Lehre Austria (Hrsg.), fnma-Austria Strategie 2010, 15. fnm-austria Tagung, URL: [http://www.fnm-austria.at/tagung/FileStorage/view/tagungsbaende%5C/fnma-tagungband](http://www.fnm-austria.at/tagung/FileStorage/view/tagungsbaende%5C/fnma-tagungband)\_final\_print.pdf \[2010-07-13].
+- Gröblinger, O. (2007). Barrierefreies E-Learning?!: Impulse zur Integration Web Accessibility Standards im Hochschul-E-Learning-Kontext. In: Forum Neue Medien in der Lehre Austria (Hrsg.), fnma-Austria Strategie 2010, 15. fnm-austria Tagung, URL: [http://www.fnm-austria.at/tagung/FileStorage/view/tagungsbaende%5C/fnma-tagungband\_final\_print.pdf](http://www.fnm-austria.at/tagung/FileStorage/view/tagungsbaende%5C/fnma-tagungband\_final\_print.pdf) \[2010-07-13].
 
 - Jeschke, S.; Pfeiffer, O. & Vieritz, H. (2008). Accessibility and Model-Based Web Application Development for eLearning-Environments. In: Proceedings of the International Conference on Technology Communication and Education, 218-222.
 

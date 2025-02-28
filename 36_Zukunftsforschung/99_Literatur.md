@@ -15,7 +15,7 @@
 
 - Dürnberger, H.; Hofhues, S. & Sporer, T. (2011). Offene Bildungsinitiativen. Münster: Waxmann.
 
-- Geser, G. (2007). Open Educational Practices and Resources -OLCOS Roadmap 2012. Salzburg: Salzburg Research, URL: [http://edumedia.salzburgresearch.at/images/stories/EduMedia/Inhalte/Publications/olcos](http://edumedia.salzburgresearch.at/images/stories/EduMedia/Inhalte/Publications/olcos)\_roadmap.pdf \[2008-12-30].
+- Geser, G. (2007). Open Educational Practices and Resources -OLCOS Roadmap 2012. Salzburg: Salzburg Research, URL: [http://edumedia.salzburgresearch.at/images/stories/EduMedia/Inhalte/Publications/olcos\_roadmap.pdf](http://edumedia.salzburgresearch.at/images/stories/EduMedia/Inhalte/Publications/olcos\_roadmap.pdf) \[2008-12-30].
 
 - Giesecke, M. (1994). Der Buchdruck in der frühen Neuzeit. Eine historische Fallstudie über die Durchsetzung neuer Informations- und Kommunikationstechnologien. Frankfurt am Main: Suhrkamp.
 
@@ -39,7 +39,7 @@
 
 - Klebl, M. (2007). Die Verflechtung von Technik und Bildung -Technikforschung in der Bildungsforschung. In: Bildungsforschung, Jahrgang 4, Ausgabe 2, URL: [http://bildungsforschung.org/index.php/bildungsforschung/article/view/67](http://bildungsforschung.org/index.php/bildungsforschung/article/view/67) \[2010-12-29].
 
-- Kosow, H. & Gaßner, R. (2008). Methoden der Zukunfts-und Szenarioanalyse Überblick, Bewertung und Auswahlkriterien. In: WerkstattBericht Nr. 103, Berlin: Institute for Futures Studies and Technology Assessment, URL: [http://www.izt.de/fileadmin/downloads/pdf/IZT](http://www.izt.de/fileadmin/downloads/pdf/IZT)\_WB103.pdf \[2010-12-29].
+- Kosow, H. & Gaßner, R. (2008). Methoden der Zukunfts-und Szenarioanalyse Überblick, Bewertung und Auswahlkriterien. In: WerkstattBericht Nr. 103, Berlin: Institute for Futures Studies and Technology Assessment, URL: [http://www.izt.de/fileadmin/downloads/pdf/IZT\_WB103.pdf](http://www.izt.de/fileadmin/downloads/pdf/IZT\_WB103.pdf) \[2010-12-29].
 
 - Lilien, G.L.; Morrison, P.D.; Searls, K.; Sonnack, M. & von Hippel, E. (2002). Performance Assessment of the Lead User Idea-Generation Process for New Product Development. URL: [http://userinnovation.mit.edu/papers/5.pdf](http://userinnovation.mit.edu/papers/5.pdf) \[2010-12-29].
 
@@ -61,7 +61,7 @@
 
 - Schaffert, S. & Schwalbe, C. (2010). Future Media Adoption in Learning and Teaching: Current Study Design from the Perspective of Cultural Studies. In: M. Ebner & M. Schiefner (Hrsg.), Looking Toward the Future of Technology Enhanced Education: Ubiquitous Learning and the Digital Native, Hershey: IGI Global, 1-11.
 
-- Schaffert, S. (2004). Einsatz von Online-Prüfungen in der beruflichen Weiterbildung: Gegenwart und Zukunft. Bonn: Deutsches Institut für Erwachsenenbildung, URL: [http://www.die-bonn.de/esprid/dokumente/doc-2000/schaffert00](http://www.die-bonn.de/esprid/dokumente/doc-2000/schaffert00)\_01.pdf \[2010-12-29].
+- Schaffert, S. (2004). Einsatz von Online-Prüfungen in der beruflichen Weiterbildung: Gegenwart und Zukunft. Bonn: Deutsches Institut für Erwachsenenbildung, URL: [http://www.die-bonn.de/esprid/dokumente/doc-2000/schaffert00\_01.pdf](http://www.die-bonn.de/esprid/dokumente/doc-2000/schaffert00\_01.pdf) \[2010-12-29].
 
 - Schroll, A. (2007). Community Based Innovation. Einsatz von Innovation Communities im Projekt „Opensourcing University“. Wien: Diplomarbeit an der Universität Wien.
 

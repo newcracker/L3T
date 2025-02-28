@@ -9,9 +9,9 @@
 
 - Hillesund, T. (2001). Will E-books Change the World? In: First Monday 6(10). URL: [http://firstmonday.org/ojs/index.php/fm/article/view/891](http://firstmonday.org/ojs/index.php/fm/article/view/891) \[2013-08-12].
 
-- Huber, T.; Nagler, W.; Ebner, M. (2008). The ABC-eBook System: From Content Management Application to Mash-up Landscape. In: Proceedings of the 20th World Conference on Educational Multimedia, Hypermedia and Telecommunications (ED-Media), 6015-6022. URL: [http://www.slideshare.net/mebner/the-abc-ebook-system?from=ss](http://www.slideshare.net/mebner/the-abc-ebook-system?from=ss)\_embed \[2013-08-12].
+- Huber, T.; Nagler, W.; Ebner, M. (2008). The ABC-eBook System: From Content Management Application to Mash-up Landscape. In: Proceedings of the 20th World Conference on Educational Multimedia, Hypermedia and Telecommunications (ED-Media), 6015-6022. URL: [http://www.slideshare.net/mebner/the-abc-ebook-system?from=ss\_embed](http://www.slideshare.net/mebner/the-abc-ebook-system?from=ss\_embed) \[2013-08-12].
 
-- Kirchner + Robrecht Management Consultants (2009). eBooks und eReader–Marktpotenziale in Deutschland. Marktstudie. URL: [http://typo3.p179536.webspaceconfig.de/index.php?id=download](http://typo3.p179536.webspaceconfig.de/index.php?id=download)\_studien \[2013-08-16].
+- Kirchner + Robrecht Management Consultants (2009). eBooks und eReader–Marktpotenziale in Deutschland. Marktstudie. URL: [http://typo3.p179536.webspaceconfig.de/index.php?id=download\_studien](http://typo3.p179536.webspaceconfig.de/index.php?id=download\_studien) \[2013-08-16].
 
 - Nagler, W.; Ebner, M. & Scerbakov, N. (2007). Flexible teaching with structured micro-content: How to structure content for sustainable multiple usage with recombinable character. In: ePortfolio and Quality in e-Learning. ICL 2007, 1-8. URL: [http://lamp.tu-graz.ac.at/](http://lamp.tu-graz.ac.at/)~i203/ebner/publication/07\_ICL.pdf \[2013-08-12].
 

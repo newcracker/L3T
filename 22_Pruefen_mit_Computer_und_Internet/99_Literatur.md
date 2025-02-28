@@ -33,7 +33,7 @@
 
 - Kopp, V.; Möltner, A.; Fischer, M. R. (2006): Key-Feature-Probleme zum Prüfen von prozeduralem Wissen; Ein Praxisleitfaden. GMS Z Med Ausbild 23(3): Doc50.
 
-- Krebs, R. (2008): Multiple Choice Fragen? Ja, aber richtig. Institut für Medizinische Lehre, Bern URL: [http://blog.ilub.unibe.ch/wp-content/uploads/2008/04/mc](http://blog.ilub.unibe.ch/wp-content/uploads/2008/04/mc)\_kolloquium\_krebs\_22\_04\_08.pdf \[2013-08-22].
+- Krebs, R. (2008): Multiple Choice Fragen? Ja, aber richtig. Institut für Medizinische Lehre, Bern URL: [http://blog.ilub.unibe.ch/wp-content/uploads/2008/04/mc\_kolloquium\_krebs\_22\_04\_08.pdf](http://blog.ilub.unibe.ch/wp-content/uploads/2008/04/mc\_kolloquium\_krebs\_22\_04\_08.pdf) \[2013-08-22].
 
 - Mader, J.; Gütl, C.; Al-Smadi, M. (2013): Formative Assessment in Immersive Environments: A Semantic Approach to Automated Evaluation of User Behavior in Open Wonderland. Boston, USA: iED Summit.
 

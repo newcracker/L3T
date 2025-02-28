@@ -7,9 +7,9 @@
 
 - Bremer, C. & Thillosen, A. (im Druck). Der deutschsprachige Open Online Course OPCO12.
 
-- Downes, S. (2012). Connectivism and Connective Knowledge. Essays on meaning and learning networks. URL: [http://www.downes.ca/files/Connective](http://www.downes.ca/files/Connective)\_Knowledge-19May2012.pdf \[2013-08-22].
+- Downes, S. (2012). Connectivism and Connective Knowledge. Essays on meaning and learning networks. URL: [http://www.downes.ca/files/Connective\_Knowledge-19May2012.pdf](http://www.downes.ca/files/Connective\_Knowledge-19May2012.pdf) \[2013-08-22].
 
-- e-teaching.org (2012). Badges. Zuletzt geändert am 26.10.2012. Leibniz Institut für Wissensmedien. URL: [http://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/badges](http://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/badges)\_pattern \[2013-08-22].
+- e-teaching.org (2012). Badges. Zuletzt geändert am 26.10.2012. Leibniz Institut für Wissensmedien. URL: [http://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/badges\_pattern](http://www.e-teaching.org/lehrszenarien/pruefung/pruefungsform/badges\_pattern) \[2013-08-22].
 
 - e-teaching.org (2012). Social Networking: Facebook, MySpace, StudiVZ und Co.Zuletzt geändert am 25.08.2012. Leibniz Institut für Wissensmedien. URL: [http://www.e-teaching.org/didaktik/kommunikation/socialnetworking](http://www.e-teaching.org/didaktik/kommunikation/socialnetworking) \[2013-08-22].
 
@@ -23,7 +23,7 @@
 
 - Kerres, M. (2012). Mediendidaktik. Konzeption und Entwicklung mediengestützter Lernangebote, 3., vollständig überarbeitete Aufl., München: Oldenbourg.
 
-- Pappano, L. (2012). The year of the MOOC. The New York Times 02.11.2012. URL: [http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html?pagewanted=all&](http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html?pagewanted=all&)\_r=1& \[2013-08-22].
+- Pappano, L. (2012). The year of the MOOC. The New York Times 02.11.2012. URL: [http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html?pagewanted=all&\_r=1&](http://www.nytimes.com/2012/11/04/education/edlife/massive-open-online-courses-are-multiplying-at-a-rapid-pace.html?pagewanted=all&\_r=1&) \[2013-08-22].
 
 - Tonks, D.; Weston, S.; Wiley, D. &Barbour, M.K. (2013). „Opening“ a New Kind of High School : The Story of the Open High School of Utah. In: The International Review of Research in Open and Distance Learning (IRR ODL), Vol. 14 1/2013, 255-271.URL: [http://www.irrodl.org/index.php/irrodl/article/view/1492/2477](http://www.irrodl.org/index.php/irrodl/article/view/1492/2477)
 

@@ -19,15 +19,15 @@
 
 - Commission of the European Communities (2000). Communication from the Commission: e-Learning – Designing tomorrow’s education. COM(2000). Brüssel: Commission of the European Communities, 318.
 
-- Conole, G.; de Laat, M.; Dillon, T. & Darby, J. (2006). JISC LXP: Student experiences of technologies. Draft Final Report. JISC. URL: [http://www.jisc.ac.uk/media/documents/programmes/elearningpedagogy/lxp](http://www.jisc.ac.uk/media/documents/programmes/elearningpedagogy/lxp)\_project\_final\_report\_nov\_06.pdf \[30-7-2010]
+- Conole, G.; de Laat, M.; Dillon, T. & Darby, J. (2006). JISC LXP: Student experiences of technologies. Draft Final Report. JISC. URL: [http://www.jisc.ac.uk/media/documents/programmes/elearningpedagogy/lxp\_project\_final\_report\_nov\_06.pdf](http://www.jisc.ac.uk/media/documents/programmes/elearningpedagogy/lxp\_project\_final\_report\_nov\_06.pdf) \[30-7-2010]
 
 - Dittler, U.; Kahler, H.; Kindt, M. & Schwarz, C. (Hrsg.) (2005). E-Learning in Europe – Learning Europe: How Have New Media Contributed to the Development of Higher Education? Medien in der Wissenschaft, Band 35. Münster: Waxmann Verlag.
 
-- EADTU. (2003). Communication of Madrid about virtual higher education and the Bologna process. Document prepared at the EADTU Conference „e-Bologna”, Madrid. URL: [http://www.eadtu.nl/e-bologna/files/CommunicationMadrid](http://www.eadtu.nl/e-bologna/files/CommunicationMadrid)\_def.pdf \[30-7-2010]
+- EADTU. (2003). Communication of Madrid about virtual higher education and the Bologna process. Document prepared at the EADTU Conference „e-Bologna”, Madrid. URL: [http://www.eadtu.nl/e-bologna/files/CommunicationMadrid\_def.pdf](http://www.eadtu.nl/e-bologna/files/CommunicationMadrid\_def.pdf) \[30-7-2010]
 
 - Ebner, M. & Nagler, W. (2010). Has Web2.0 Reached the Educated Top?. In: Proceedings of World Conference on Educational Multimedia, Hypermedia and Telecommunications 2010. Chesapeake, VA: AACE, 4001-4010.
 
-- Ebner, M. & Schiefner, M. (2009). Digital natives students? Web 2.0-Nutzung von Studierenden, Praxisbeispiele Medienkompetenz. In: e-teaching.org, 2009, URL: [http://www.e-teaching.org/praxis/erfahrungsberichte/ebner](http://www.e-teaching.org/praxis/erfahrungsberichte/ebner)\_schiefner\_web20 \[11-10-2010]
+- Ebner, M. & Schiefner, M. (2009). Digital natives students? Web 2.0-Nutzung von Studierenden, Praxisbeispiele Medienkompetenz. In: e-teaching.org, 2009, URL: [http://www.e-teaching.org/praxis/erfahrungsberichte/ebner\_schiefner\_web20](http://www.e-teaching.org/praxis/erfahrungsberichte/ebner\_schiefner\_web20) \[11-10-2010]
 
 - Ebner, M. (2009). Interactive Lecturing by Integrating Mobile Devices and Micro-blogging in Higher Education. In: Journal of Computing and Information Technology (eCIT), 17(4), 371-381.
 
@@ -47,11 +47,11 @@
 
 - Gleason, M. (1986). Better communication in large courses. In: College Teaching, 34(1), 20-24.
 
-- Hall, R. H.; Collier, H. L.; Thomas, M. L. & Hilgers, M. G. (2005). A Student Response System for Increasing Engagement, Motivation, and Learning in High Enrollment Lectures. URL: [http://lite.mst.edu/media/research/ctel/documents/hall](http://lite.mst.edu/media/research/ctel/documents/hall)\_et\_al\_srs\_amcis\_proceedings.pdf \[2013-07-25]
+- Hall, R. H.; Collier, H. L.; Thomas, M. L. & Hilgers, M. G. (2005). A Student Response System for Increasing Engagement, Motivation, and Learning in High Enrollment Lectures. URL: [http://lite.mst.edu/media/research/ctel/documents/hall\_et\_al\_srs\_amcis\_proceedings.pdf](http://lite.mst.edu/media/research/ctel/documents/hall\_et\_al\_srs\_amcis\_proceedings.pdf) \[2013-07-25]
 
 - Handke, J. & Schäfer, A. M. (2012). E-Learning, E-Teaching und E-Assessment in der Hochschullehre. Eine Anleitung. München: Oldenbourg Wissenschaftsverlag GmbH.
 
-- Kopp, M. & Mittermeir, R. (2006). eLearning und Karriere. URL: [http://fnma.km.co.at/projekte/fnmstrategieprojekt/karriere/Dateiablage/view/EB](http://fnma.km.co.at/projekte/fnmstrategieprojekt/karriere/Dateiablage/view/EB)\_WP3\_final.pdf \[29.7.2013]
+- Kopp, M. & Mittermeir, R. (2006). eLearning und Karriere. URL: [http://fnma.km.co.at/projekte/fnmstrategieprojekt/karriere/Dateiablage/view/EB\_WP3\_final.pdf](http://fnma.km.co.at/projekte/fnmstrategieprojekt/karriere/Dateiablage/view/EB\_WP3\_final.pdf) \[29.7.2013]
 
 - Lackner, E. (2012). Am Anfang steht der leere Kurs. Ein Moodle-Praxisbuch als E-Book. Graz. URL: [http://goo.gl/7BK9G](http://goo.gl/7BK9G) \[25-7-2013]
 
@@ -73,10 +73,10 @@
 
 - Stührenberg, M. & Seitz, S. (2013). Free and Open Source, Open Access, Creative Commons und E-Learning – Remix Culture für das Lernen mit digitalen Medien. URL: [http://www.collaboratory.de/images/8/8f/Oa-final-lang.pdf](http://www.collaboratory.de/images/8/8f/Oa-final-lang.pdf) \[2013-07-29]
 
-- Universität Graz (2013a). Lehrveranstaltungsevaluierung. URL: [http://static.uni-graz.at/fileadmin/lehr-studienservices/Qualit%C3%A4tssicherung/fragebogenzuordnung](http://static.uni-graz.at/fileadmin/lehr-studienservices/Qualit%C3%A4tssicherung/fragebogenzuordnung)\_nach\_lv-typen.pdf \[2013-07-25].
+- Universität Graz (2013a). Lehrveranstaltungsevaluierung. URL: [http://static.uni-graz.at/fileadmin/lehr-studienservices/Qualit%C3%A4tssicherung/fragebogenzuordnung\_nach\_lv-typen.pdf](http://static.uni-graz.at/fileadmin/lehr-studienservices/Qualit%C3%A4tssicherung/fragebogenzuordnung\_nach\_lv-typen.pdf) \[2013-07-25].
 
 - Universität Graz (2013b). Mediendidaktische Modellsammlung. URL: [http://mdm.uni-graz.at](http://mdm.uni-graz.at) \[25-7-2013]
 
-- Van den Branden, J. (2004). Bologna and the challenges of e-learning and distance education: the contribution of non-classical learning and teaching forms to the emerging European Higher Education Area. Background Paper. Ghent: Bologna Follow-Up Seminar, URL: [http://www.bologna-bergen2005.no/EN/Bol](http://www.bologna-bergen2005.no/EN/Bol)\_sem/Seminars/040604Ghent/04060405-backgoundpaper.pdf \[11-10-2010]
+- Van den Branden, J. (2004). Bologna and the challenges of e-learning and distance education: the contribution of non-classical learning and teaching forms to the emerging European Higher Education Area. Background Paper. Ghent: Bologna Follow-Up Seminar, URL: [http://www.bologna-bergen2005.no/EN/Bol\_sem/Seminars/040604Ghent/04060405-backgoundpaper.pdf](http://www.bologna-bergen2005.no/EN/Bol\_sem/Seminars/040604Ghent/04060405-backgoundpaper.pdf) \[11-10-2010]
 
 - Werner, B. (2006). Status des E-Learning an deutschen Hochschulen. Hrsg. v. www.e-teaching.org. URL: [http://www.e-teaching.org/projekt/fallstudien/](http://www.e-teaching.org/projekt/fallstudien/) Status\_des\_ELearning.pdf \[30-7-2013]

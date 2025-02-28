@@ -5,15 +5,15 @@
 
 - Benjamin. W. (1939). Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit. URL: [http://walterbenjamin.ominiverdi.org/wp-content/kunstwerkbenjamin.pdf](http://walterbenjamin.ominiverdi.org/wp-content/kunstwerkbenjamin.pdf) \[2013-06-14].
 
-- Bertelsmann Stiftung & Heinz Nixdorf Stiftung (2001). Studium online. Hochschulentwicklung durch neue Medien. Gütersloh: Verlag Bertelsmann Stiftung, URL: [http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-86B05F6C-70CAA8CC/bst/hs.xsl/publikationen](http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-86B05F6C-70CAA8CC/bst/hs.xsl/publikationen)\_29336.htm \[14.6.2013].
+- Bertelsmann Stiftung & Heinz Nixdorf Stiftung (2001). Studium online. Hochschulentwicklung durch neue Medien. Gütersloh: Verlag Bertelsmann Stiftung, URL: [http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-86B05F6C-70CAA8CC/bst/hs.xsl/publikationen\_29336.htm](http://www.bertelsmann-stiftung.de/cps/rde/xchg/SID-86B05F6C-70CAA8CC/bst/hs.xsl/publikationen\_29336.htm) \[14.6.2013].
 
 - Blumler J. G. & E. Katz (1974). The Uses of Mass Communication. Newbury Park, CA: Sage.
 
-- Bundesregierung Deutschland (2012). Drogen- und Suchtbericht 2012. Berlin: Bundesministerium für Gesundheit, UR: [http://www.drogenbeauftragte.de/fileadmin/dateien-dba/Presse/Downloads/12-05-22](http://www.drogenbeauftragte.de/fileadmin/dateien-dba/Presse/Downloads/12-05-22)\_DrogensuchtBericht\_2012.pdf \[14.6.2013].
+- Bundesregierung Deutschland (2012). Drogen- und Suchtbericht 2012. Berlin: Bundesministerium für Gesundheit, UR: [http://www.drogenbeauftragte.de/fileadmin/dateien-dba/Presse/Downloads/12-05-22\_DrogensuchtBericht\_2012.pdf](http://www.drogenbeauftragte.de/fileadmin/dateien-dba/Presse/Downloads/12-05-22\_DrogensuchtBericht\_2012.pdf) \[14.6.2013].
 
 - Burkhardt, J. & Werkstetter, C. (2005). Kommunikation und Medien in der Frühen Neuzeit. München: Oldenbourg.
 
-- Cervantes, S. M. (1615). Der sinnreiche Junker Don Quijote von der Mancha. URL: [http://books.google.de/books?id=y](http://books.google.de/books?id=y)\_P\_b-UVZ20C&printsec=frontcover&source=gbs\_atb#v=onepage&q&f=false \[14.6.2013], 47-48.
+- Cervantes, S. M. (1615). Der sinnreiche Junker Don Quijote von der Mancha. URL: [http://books.google.de/books?id=y\_P\_b-UVZ20C&printsec=frontcover&source=gbs\_atb#v=onepage&q&f=false](http://books.google.de/books?id=y\_P\_b-UVZ20C&printsec=frontcover&source=gbs\_atb#v=onepage&q&f=false) \[14.6.2013], 47-48.
 
 - Chartier, R. & Cavallo, G.. (1999). Die Welt des Lesens. Von der Schriftrolle zum Bildschirm. Frankfurt am Main: Campus.
 

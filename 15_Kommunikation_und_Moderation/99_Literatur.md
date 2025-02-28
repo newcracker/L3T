@@ -27,7 +27,7 @@
 
 - Hesse, F. W. & Schwan, S. (2005). Einführung in die Medien- und Kommunikationspsychologie. URL: [http://www.e-teaching.org/didaktik/theorie/medienpsychologie/hesse-schwan.pdf.pdf](http://www.e-teaching.org/didaktik/theorie/medienpsychologie/hesse-schwan.pdf.pdf) \[2010-11-08].
 
-- Johnson, J.; Dyer, J.; Chapman, C.; Hebenton, R.; Lockyer, B. & Luck, K. (2008). Literature Review on Online Communities, Deliverable D 3.1, Projekt „ComeIn“. URL: [http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDgQFjAA&url=http%3A%2F%2Fwww.inclusiontrust.org.uk%2Fwp-content%2Fuploads%2F2013%2F01%2FOnlineMobileLearning1.pdf&ei=-QMdUp6gKYKctAaGnIGICQ&usg=AFQjCNHy7QeNibSUEqyvS1-y-Z-JbMz2mw&sig2=m](http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDgQFjAA&url=http%3A%2F%2Fwww.inclusiontrust.org.uk%2Fwp-content%2Fuploads%2F2013%2F01%2FOnlineMobileLearning1.pdf&ei=-QMdUp6gKYKctAaGnIGICQ&usg=AFQjCNHy7QeNibSUEqyvS1-y-Z-JbMz2mw&sig2=m)\_YYCvZRcwwXstOJ79Kcww&bvm=bv.51156542,d.Yms \[2010-05-06].
+- Johnson, J.; Dyer, J.; Chapman, C.; Hebenton, R.; Lockyer, B. & Luck, K. (2008). Literature Review on Online Communities, Deliverable D 3.1, Projekt „ComeIn“. URL: [http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDgQFjAA&url=http%3A%2F%2Fwww.inclusiontrust.org.uk%2Fwp-content%2Fuploads%2F2013%2F01%2FOnlineMobileLearning1.pdf&ei=-QMdUp6gKYKctAaGnIGICQ&usg=AFQjCNHy7QeNibSUEqyvS1-y-Z-JbMz2mw&sig2=m\_YYCvZRcwwXstOJ79Kcww&bvm=bv.51156542,d.Yms](http://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDgQFjAA&url=http%3A%2F%2Fwww.inclusiontrust.org.uk%2Fwp-content%2Fuploads%2F2013%2F01%2FOnlineMobileLearning1.pdf&ei=-QMdUp6gKYKctAaGnIGICQ&usg=AFQjCNHy7QeNibSUEqyvS1-y-Z-JbMz2mw&sig2=m\_YYCvZRcwwXstOJ79Kcww&bvm=bv.51156542,d.Yms) \[2010-05-06].
 
 - Karau, S. J. & Wiliams, K. D. (2001). Understanding individual motivation in groups: The Collective Effort Model. In: M. E. Turner (Hrsg.), Groups at work: Theory and Research. New York: Lawrence Erlbaum, 113-141.
 
@@ -57,7 +57,7 @@
 
 - Schaffert, S. & Wieden-Bischof, D. (2009). Erfolgreicher Aufbau von Online-Communitys. Konzepte, Szenarien und Handlungsempfehlungen. In: G. Güntner & S. Schaffert (Hrsg.), Social Media, Band 1, Salzburg: Salzburg Research.
 
-- Schulmeister, R. (2006). Editorial – Virtuelle Kommunikation. In: Zeitschrift für e-Learning. 1/2006, URL: [http://www.e-learning-zeitschrift.org/01](http://www.e-learning-zeitschrift.org/01)\_2006/editorial.php \[2010-10-01].
+- Schulmeister, R. (2006). Editorial – Virtuelle Kommunikation. In: Zeitschrift für e-Learning. 1/2006, URL: [http://www.e-learning-zeitschrift.org/01\_2006/editorial.php](http://www.e-learning-zeitschrift.org/01\_2006/editorial.php) \[2010-10-01].
 
 - Stahl, G.; Koschmann, T. & Suthers, D. (2006). Computer-supported collaborative learning: An historical perspective. In: R. K. Sawyer (Hrsg.), The Cambridge handbook of the learning sciences, Cambridge: Cambridge University Press, 409-426.
 

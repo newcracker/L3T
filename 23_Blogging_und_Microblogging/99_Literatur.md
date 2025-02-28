@@ -63,6 +63,6 @@
 
 - Thonhauser, P.; Softic, S. & Ebner, M. (2012). Thought Bubbles: a conceptual prototype for a Twitter based recommender system for research 2.0. In:S. Lindstaedt & M. Granitzer (Hrsg.), Proceedings of the 12th International Conference on Knowledge Management and Knowledge Technologies (i-KNOW '12). ACM, New York, NY, USA, Article 32.
 
-- Walker, J. (2003). final version of weblog definition. URL: [http://jilltxt.net/archives/blog](http://jilltxt.net/archives/blog)\_theorising/final\_version\_of\_weblog\_definition.html \[2008-03-30].
+- Walker, J. (2003). final version of weblog definition. URL: [http://jilltxt.net/archives/blog\_theorising/final\_version\_of\_weblog\_definition.html](http://jilltxt.net/archives/blog\_theorising/final\_version\_of\_weblog\_definition.html) \[2008-03-30].
 
 - Weinberger, D. (2002). Small pieces loosely joined. A unified theory of the web. Cambridge, MA: Perseus Publishing.

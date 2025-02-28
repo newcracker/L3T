@@ -17,20 +17,20 @@
 
 - Oblinger, D. & Oblinger, J. (2005). Is It Age or IT: First Steps Toward Understanding the Net Generation. In: Oblinger, D. & Oblinger, J. (Hrsg.). Educating the Net Generation, 2.1-2.20. URL: [http://www.educause.edu/educatingthenetgen/](http://www.educause.edu/educatingthenetgen/) \[2013-08-26].
 
-- Oehmichen, E. & Schröter, C. (2009). Zur Differenzierung des Medienhandelns der jungen Generation. Eine Analyse auf Basis der ARD/ZDF-Onlinestudie 2009. MEDIA PERSPEKTIVEN, 8, 2009, [http://www.ard-zdf-onlinestudie.de/fileadmin/Onlinestudie](http://www.ard-zdf-onlinestudie.de/fileadmin/Onlinestudie)\_2009/Schroeter\_Oehmichen.pdf \[2013-08-26].
+- Oehmichen, E. & Schröter, C. (2009). Zur Differenzierung des Medienhandelns der jungen Generation. Eine Analyse auf Basis der ARD/ZDF-Onlinestudie 2009. MEDIA PERSPEKTIVEN, 8, 2009, [http://www.ard-zdf-onlinestudie.de/fileadmin/Onlinestudie\_2009/Schroeter\_Oehmichen.pdf](http://www.ard-zdf-onlinestudie.de/fileadmin/Onlinestudie\_2009/Schroeter\_Oehmichen.pdf) \[2013-08-26].
 
 - Palfrey, J. & Gasser, U. (2008). Generation Internet. Die Digital Natives: Wie sie leben – Was sie denken – m Wie sie arbeiten. München: Hanser Verlag.
 
 - Palloff, R. & Pratt, K. (2003). Virtual Student. A Profile and Guide to Working with Online Learners. San Francisco: Jossey-Bass.
 
-- Prensky, M. (2001). Digital Natives, Digital Immigrants. In: On the Horizon NCB University Press, 9(5), 1-6. URL: [http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives](http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives),%20Digital%20Immigrants%20-%20Part1.pdf \[210-11-15].
+- Prensky, M. (2001). Digital Natives, Digital Immigrants. In: On the Horizon NCB University Press, 9(5), 1-6. URL: [http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf](http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf) \[210-11-15].
 
 - Saferinternet (2013). Studie zum Thema „Internetnutzung und digitale Kompetenz im Vorschulalter“. URL:[http://www.saferinternet.at/news/news-detail/article/aktuelle-studie-41-prozent-der-3-bis-6-jaehrigen-regelmaessig-im-internet-338/](http://www.saferinternet.at/news/news-detail/article/aktuelle-studie-41-prozent-der-3-bis-6-jaehrigen-regelmaessig-im-internet-338/) \[2013-08-.22]. (Archived by WebCite® at [http://www.webcitation.org/6HGszb1NU](http://www.webcitation.org/6HGszb1NU))
 
-- Schulmeister, R. (2009). Gibt es eine Net Generation? Erweiterte Version 3.0. Hamburg, URL: [http://www.zhw.uni-hamburg.de/uploads/schulmeister](http://www.zhw.uni-hamburg.de/uploads/schulmeister)\_net-generation\_v3.pdf \[2010-11-15].
+- Schulmeister, R. (2009). Gibt es eine Net Generation? Erweiterte Version 3.0. Hamburg, URL: [http://www.zhw.uni-hamburg.de/uploads/schulmeister\_net-generation\_v3.pdf](http://www.zhw.uni-hamburg.de/uploads/schulmeister\_net-generation\_v3.pdf) \[2010-11-15].
 
 - Tapscott, D. (1997). Growing Up Digital: The Rise of the Net Generation. New York: McGraw-Hill.
 
 - Treumann, K.; Meister, D. M.; Sander, U.; Hagedorn, J. & Kämmerer, M. (2007). Medienhandeln Jugendlicher. Mediennutzung und Medienkompetenz. Wiesbaden: VS Verlag für Sozialwissenschaften.
 
-- Zimic, S. (2009). Not so ‚techno-savvy‘: Challenging the stereotypical images of the ‚Net generation‘. In: Digital Culture & Education, 1(2), 129-144. URL: [http://www.digitalcultureandeducation.com/cms/wp-content/uploads/2010/01/dce1020](http://www.digitalcultureandeducation.com/cms/wp-content/uploads/2010/01/dce1020)\_zimic\_2009.pdf \[210-11-15].
+- Zimic, S. (2009). Not so ‚techno-savvy‘: Challenging the stereotypical images of the ‚Net generation‘. In: Digital Culture & Education, 1(2), 129-144. URL: [http://www.digitalcultureandeducation.com/cms/wp-content/uploads/2010/01/dce1020\_zimic\_2009.pdf](http://www.digitalcultureandeducation.com/cms/wp-content/uploads/2010/01/dce1020\_zimic\_2009.pdf) \[210-11-15].

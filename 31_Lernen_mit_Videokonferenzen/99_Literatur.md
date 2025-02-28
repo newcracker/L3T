@@ -21,7 +21,7 @@
 
 - Paechter, M.; Maier, B. & Macher, D. (2010). Students’ expectations of, and experiences in e-learning: Their relation to learning achievements and course satisfaction. Computers and Education, 54(1), 222-229.
 
-- publicare. Weltweit einzigartig: Herstellerunabhängiger Vergleich von Software für Webkonferenzen. URL: [http://www.webconferencing-test.com/de/webkonferenz](http://www.webconferencing-test.com/de/webkonferenz)\_home.html \[2010-07-06].
+- publicare. Weltweit einzigartig: Herstellerunabhängiger Vergleich von Software für Webkonferenzen. URL: [http://www.webconferencing-test.com/de/webkonferenz\_home.html](http://www.webconferencing-test.com/de/webkonferenz\_home.html) \[2010-07-06].
 
 - Rakoczi, G.; Herbst, I. & Reichl, F. (2010). Nine recommendations for enhancing e-moderation skills by utilisation of videoconferencing within an e-tutoring curriculum. In: Proceedings of ED-Media World Conference on Educational Multimedia, Hypermedia & Telecommunication, Chesapeake, VA: AACE, 2258-2266.
 
