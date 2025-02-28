@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Delors, Jacques (1998): Report der internationalen Kommission für die Erziehung im 21. Jhd. an die UNESCO, Learning: The treasure within. ‚http://www.see-educoop.net/education\_in/pdf/15\_62.pdf \[2013-07-09]
 

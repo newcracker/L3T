@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Anderson, R. J.; Anderson, R.; Vandegrift, T.; Wolfman, S. &amp; Yasuhara, K. (2003). Promoting Interaction in Large Classes with Computer-Mediated Feedback. In: Wasson, B.; Ludvigsen, S. &amp; Hoppe, U. (Hrsg.), Designing for Change in Networked Learning Environments, Proceedings of CSCL 2003, New York: Springer, 119-123.
 

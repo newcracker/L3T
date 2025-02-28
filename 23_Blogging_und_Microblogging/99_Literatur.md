@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Beck, R. (2007). The iPhone in the Classroom: One Teacher’s Story. Beitrag bei htiThinkEd. http://www.rcdllp.com/archives/2007/11/the-iphone-in-the-classroom-one-teachers-story-dr-richard-beck \[2010-07-15].
 

@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Beißwenger, M. &amp; Storrer, A. (2005). Chat-Szenarien für Beruf, Bildung und Medien. In: Beißwenger, M. &amp; Storrer, A. (Hrsg.), Chat-Kommunikation in Beruf, Bildung und Medien: Konzepte - Werkzeuge - Anwendungsfelder. Stuttgart: Ibidem, 9-25.
 

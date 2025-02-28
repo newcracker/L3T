@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Bitkom (Hrsg.) (2011). Schule 2.0. Eine repräsentative Untersuchung zum Einsatz elektronischer Medien an Schulen aus Lehrersicht, URL: http://www.bitkom.org/files/documents/bitkom\_publikation\_schule\_2.0.pdf. \[2013-07-19].
 

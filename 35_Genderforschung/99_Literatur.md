@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Abbot, G.; Bievenue, L.; Damarin, S.; Kramarae, C.; Jepkemboi, G. &amp; Strawn, C. (2007). Gender Equity in the Use of Educational Technology. In: S. S. Klein; B. Richardson; D A. Grayson, L. H. Fox; C. Kramarae, D. S. Pollard &amp; C. A. Dwyer (Hrsg.), Handbook of Achieving Gender Equity through Education., London: Lawrence Erlbaum Ass., 191-215.
 

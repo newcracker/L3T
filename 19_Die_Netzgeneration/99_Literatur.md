@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Baacke, D. (1999). Medienkompetenz als zentrales Operationsfeld von Projekten. In: D. Baacke (Hrsg.), Handbuch Medien, Bonn: Bundeszentrale für politische Bildung, 31-35.
 

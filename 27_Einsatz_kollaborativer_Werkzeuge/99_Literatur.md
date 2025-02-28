@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Haake, J.; Schwabe, G. &amp; Wessner, M. (2004). CSCL-Kompendium: Lehr- und Handbuch zum computerunterstützten kooperativen Lernen. München: Oldenburg, 1-5.
 

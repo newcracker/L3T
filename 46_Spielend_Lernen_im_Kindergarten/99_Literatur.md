@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Alper, M. (2011). Developmentally appropriate New Media Literacy: Supporting cultural competencies and social skills in early childhood education. In: Journal of Early Childhood Literacy 13(2), 175-196 URL: http://ecl.sagepub.com/content/13/2/175.full.pdf \[2013-08-26].
 

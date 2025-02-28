@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Aboling, S.; Windt, K.-H.; Pohl, D.; Ehlers, J. P.: Lehr-und Prüfungsmethoden im Fach veterinärmedizinische Botanik mit besonderer Berücksichtigung des Konzepts o-test. ZFHE 6/1, 19-33.
 

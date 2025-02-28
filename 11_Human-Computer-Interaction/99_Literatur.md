@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Anderson, J. R.; Reder, L. M. &amp; Lebiere, C. (1996). Working Memory: Activation Limitations on Retrieval. Cognitive Psychology, 30, (3), 221-256.
 

@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Brahm, T. (2009). Didaktisches Design von formeller und informeller Kompetenzentwicklung mit Web 2.0-Technologien: Synthese der Fallstudien. In: T. Brahm &amp; S. Seufert (Hrsg.), Kompetenzentwicklung mit Web 2.0. Good Practices aus Unternehmen, St. Gallen: Universität St. Gallen, 89-106. URL: http://www.scil.unisg.ch/de/scil+Vortraege+Publikationen/Bestellformular \[2013-08-12].
 

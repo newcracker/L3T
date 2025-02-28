@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Armstrong, C. (2008). Books in a virtual world: The evolution of the e-book and its lexicon. In: Journal of Librarianship and Information Science, 40(3), 193-206. URL: http://eprints.rclis.org/12277/ \[2013-08-12].
 

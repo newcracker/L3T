@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - acatech (2011). Monitoring von Motivationskonzepten für den Techniknachwuchs (MoMoTech). Berlin: acatech - Deutsche Akademie der Technikwissenschaften. (Open Access) http://www.acatech.de/fileadmin/user\_upload/Baumstruktur\_nach\_Website/Acatech/root/de/Publikationen/Sonstige/acatech\_Berichtet-und-Empfiehlt\_MoMoTech\_WEB.pdf \[2013-08-20].
 

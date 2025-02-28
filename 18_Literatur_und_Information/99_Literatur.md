@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Anderson, T. (Ed.). (2008). Theory and Practice of Online Learning (2nd ed.). Athabasca: AU Press, Athabasca University. URL: http://www.aupress.ca/books/120146/ebook/99Z\_Anderson\_2008-Theory\_and\_Practice\_of\_Online\_Learning.pdf \[2013-08-27].
 

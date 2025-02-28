@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Arnold, R. &amp; Gómez Tutor, C. (2007). Grundlinien einer Ermöglichungsdidaktik. Bildung ermöglichen - Vielfalt gestalten. Augsburg: ZIEL Verlag.
 

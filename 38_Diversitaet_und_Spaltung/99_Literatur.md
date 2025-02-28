@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Baacke, D. (1999). Die neue Medien-Generation im New Age of Visual Thinking. In: Gogolin, I.; Lenzen, D. (Hrsg.): Medien-Generation. Beiträge zum 16. Kongress der Deutschen Gesellschaft für Erziehungswissenschaft. Opladen 1999, 137-148.
 

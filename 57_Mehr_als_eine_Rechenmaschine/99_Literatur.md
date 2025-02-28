@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Ainsworth, S. (1999). The functions of multiple representations. Computers &amp; Education, 33, 131–152.
 

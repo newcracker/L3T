@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Arnold, P. (2011). Editorial. In: Zeitschrift für Elearning, Lernkultur und Bildungstechnologie, 6. Jahrgang (Heft 3/2011), 4–7.
 

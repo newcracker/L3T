@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Amtsblatt der europäischen Union C398/1 vom 22.12.2012, Empfehlung des Rates vom 20. Dezember 2012 zur Validierung nichtformalen und informellen Lernens. Anhang: Begriffsbestimmungen
 

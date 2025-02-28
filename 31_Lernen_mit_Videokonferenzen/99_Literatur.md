@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Clark, H. H. &amp; Brennan, S. E. (1996). Grounding in communication. In: L. B. Resnick; J. M. Levine &amp; S. D. Teasley (Hrsg.), Perspectives on socially shared cognition. Washington DC: American Psychological Association, 127-149.
 

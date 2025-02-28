@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Antidiskriminierungsrichtlinie 2000/43/EG (2000). URL: http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32000L0043:DE:NOT \[2013-08-19].
 

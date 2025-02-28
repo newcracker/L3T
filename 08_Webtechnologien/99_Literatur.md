@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Cailliau, R. (1995). A Little History of the World Wide Web. URL: http://www.w3.org/History.html \[2013-07-31]
 

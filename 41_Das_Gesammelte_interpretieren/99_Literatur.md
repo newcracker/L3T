@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - ALMazroui, Y. A. (2013). A survey of Data mining in the context of E-learning. In: International Journal of Information Technology &amp; Computer Science (IJITCS), 7(3), 8-18. URL: http://www.ijitcs.com/volume %207\_No\_3/Yousef+Almazroui.pdf \[25-7-2013]
 

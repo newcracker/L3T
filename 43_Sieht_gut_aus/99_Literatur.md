@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Duchowski, A. T. (2007). Eye Tracking Methodology: Theory and Practice. London: Springer-Verlag.
 

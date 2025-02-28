@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Ambient Insight (2012). The 2011-2016 Worldwide Game-Based Learning Market: All Roads Lead to Mobile. Key Findings from Recent Ambient Insight Research. 2012. URL: http://www.ambientinsight.com/Resources/Documents/AmbientInsight-Worldwide-GameBased-Learning-Market.pdf \[2013-07-01]
 

@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Bechtel, W.; Abrahamsen, A. &amp; Graham, G. (1998). The life of cognitive science. In: Bechtel W. &amp; Graham G. (Hrsg.), A companion to cognitive science, Oxford: Blackwell, 1-104.
 

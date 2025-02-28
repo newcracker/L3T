@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Baacke, D. (1996). Medienkompetenz - Begrifflichkeit und sozialer Wandel. In A. von Rein (Hrsg.), Medienkompetenz als Schlüsselbegriff, Bad Heilbrunn: Klinkhardt, 112-124.
 

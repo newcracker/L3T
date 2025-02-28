@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Belliger, A. &amp; Krieger, D. (2006). ANThology Ein einführendes Handbuch zur Akteur-Netzwerk-Theorie. Bielefeld: Transcript Verlag.
 

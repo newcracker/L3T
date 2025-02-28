@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Mills, R. &amp; Tait, A. (1999). The convergence of distance and conventional education: Patterns of flexibility for the individual learner. London: Routledge.
 

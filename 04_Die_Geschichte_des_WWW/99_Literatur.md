@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Fedida, S. &amp; Malik, R. (1979). The Viewadata Revolution. London: Associated Business Press.
 

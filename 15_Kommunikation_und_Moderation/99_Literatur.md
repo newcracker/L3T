@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Beck, K. (2006). Computervermittelte Kommunikation im Internet. München: Oldenbourg.
 

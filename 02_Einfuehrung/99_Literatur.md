@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Arnold, P.; Kilian, L.; Thillosen, A. &amp; Zimmer, G (2011). Handbuch E-Learning – Lehren und Lernen mit digitalen Medien. Bielefeld: Bertelsmann.
 

@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Alavi, H.; Dillenbourg, S. &amp; Kaplan, F. (2009). Distributed Awareness for Class Orchestration. EC-TEL 2009, 211-225.
 

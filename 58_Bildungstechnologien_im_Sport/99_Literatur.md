@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Fiorentino, L. H. &amp; Castelli, D. (2005). Creating a Virtual Gymnasium. In: Journal of Physical Education Recreation and Dance, 76 (4), 16.
 

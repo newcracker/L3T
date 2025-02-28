@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Aarseth, E.J. (1997). Cybertext: Perspectives on Ergodic Literature. Baltimore/London: John Hopkins University Press. URL: http://www.hf.uib.no/cybertext/Ergodic.html \[14.6.2013].
 

@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Atkins, D. E.; Brown, J. S. &amp; Hammond, A. L. (2007). A Review of the Open Educational Resources (OER) Movement: Achievements, Challenges and New Opportunities. Report to The William and Flora Hewlett Foundation. URL: http://cohesion.rice.edu/Conferences/Hewlett/emplibrary/A%20Review%20of%20the%20Open%20Educational%20Resources%20%28OER%29%20Movement\_BlogLink.pdf \[2010-12-06].
 

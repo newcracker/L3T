@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Aufenanger, S. (1997). Medienpädagogik und Medienkompetenz: Eine Bestandsaufnahme. URL: http://www.mediaculture-online.de/fileadmin/bibliothek/aufenanger\_medienkompetenz/aufenanger\_medienkompetenz.html \[2013-08-19].
 

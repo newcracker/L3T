@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Baillie, S.; Mellor, D. J.; Brewster, S. A. &amp; Reid, S. W. (2005). Integrating a bovine rectal palpation simulator into an undergraduate veterinary curriculum. In: Journal of Veterinary Medical Education, 32/1 2005: 79-85.
 

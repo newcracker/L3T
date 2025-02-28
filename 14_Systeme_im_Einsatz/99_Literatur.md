@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Baumgartner, P.; Häfele, H. &amp; Maier-Häfele, K. (2002). Evaluierung von Lernmanagement-Systemen (LMS): Theorie – Durchführung – Ergebnisse. In: A. Hohenstein, &amp; K. Wilbers, Handbuch E-Learning. Köln: Deutscher Wirtschaftsdienst. URL: http://www.medidaprix.org/medida-prix/hintergrundartikel-medida- prix/evaluierung-von-lernmanagement-systemen/ \[2013-08-09].
 

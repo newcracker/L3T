@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Back, A.; Bendel, O. &amp; Stoller-Schai, D. (2001). E-Learning im Unternehmen. Grundlagen - Strategien - Methoden – Technologien. Zürich: Orell Fuessli.
 

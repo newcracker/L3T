@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Alexander, B. (2009). Apprehending the Future: Emerging Technologies, from Science Fiction to Campus Reality. In: EDUCAUSE Review, 44 (3), 12–29. URL: http://www.educause.edu/ero/article/apprehending-future-emerging-technologies-science-fiction-campus-reality \[2013-07-17].
 

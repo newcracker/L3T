@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - educa.ch (2009). Das Urheberrecht im Bildungsbereich. http://guides.educa.ch/sites/default/files/urheberrecht\_d.pdf \[2013-08-26].
 

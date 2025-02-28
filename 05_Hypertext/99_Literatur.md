@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Ambron, S. &amp; Hooper, K. (1998). Interactive Multimedia: Visions of Multimedia for Developers, Educators and Information Providers, Redmond: Microsoft Press.
 

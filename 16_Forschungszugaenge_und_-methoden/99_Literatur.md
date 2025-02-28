@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Broy, M. &amp; Schmidt, J. W. (1999). Informatik: Grundlagenwissenschaft oder Ingenieurdisziplin? In: Informatik-Spektrum, 22(3), S. 206-209.
 

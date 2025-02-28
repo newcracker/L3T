@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Azad, A. K. M.; Auer, M. E. &amp; Howard, J. (2012). Internet Accessible Remote Laboratories: Scalable E-Learning Tools for Engineering and Science Disciplines, HersheyHershey, PA : Engineering Science Reference: IGI Global.
 

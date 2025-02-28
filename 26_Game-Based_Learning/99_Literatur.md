@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Bopp, M. (2005). Immersive Didaktik: Verdeckte Lernhilfen und Framingprozesse in Computerspielen. In: kommunikation@gesellschaft, 6, Beitrag 2. URL: http://www.soz.uni-frankfurt.de/K.G/B2\_2005\_Bopp.pdf \[2010-09-23].
 

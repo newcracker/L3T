@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - ADL (2002). SCORM 1.2 Specification, URL: http://www.adlnet.gov/wp-content/uploads/2011/07/SCORM\_1\_2\_pdf.zip \[2013-08-21].
 

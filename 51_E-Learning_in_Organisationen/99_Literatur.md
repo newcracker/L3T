@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Arneson, J.; Rothwell, W. J. &amp; Naughton, J. (2013). ASTD Competency Study: The Training &amp; Development Profession Redefined. Alexandria, VA: ASTD.
 

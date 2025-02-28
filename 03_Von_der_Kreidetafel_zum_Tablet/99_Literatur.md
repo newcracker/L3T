@@ -1,4 +1,5 @@
-# Literatur
+<!-- filename: 99_Literatur.md -->
+<!-- title: Literatur -->
 
 - Blömeke, S. (2005). Medienpädagogische Kompetenz. Theoretische Grundlagen und erste empirische Befunde. In: A. Frey; R. S. Jäger &amp; U. Renold (Hrsg.), Kompetenzdiagnostik. Theorien und Methoden zur Erfassung und Bewertung von beruflichen Kompetenzen. Landau: Empirische Pädagogik, 5, 76-97, URL: http://zope.ewi.huberlin. de/institut/abteilungen/didaktik/data/aufsaetze/2005/medienpaedagogische\_Kompetenz.pdf \[2010-07-01].
 
