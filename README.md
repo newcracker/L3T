@@ -117,7 +117,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
             
 - **Tabellen:**
     - Werden im **Markdown-Format** geschrieben.
-    - Mögliche Konvertierungfehler könnten vorhanden sein.
+    - Mögliche (Darstellungs-)Fehler könnten durch die Datenübernahme entstanden sein und sollten manuell korrigiert werden.
 
 ### 🔹 Zitierweise
 
@@ -142,7 +142,7 @@ Die korrekte **APA-Zitierweise** ist einzuhalten:
 ## ⚠️ Wichtige Hinweise
 
 - **Veraltete Inhalte:** Das Buch enthält überholte Informationen. Offene [**Issues auf GitHub**](https://github.com/ed-tech-at/L3T/issues) zeigen die zu überabeitenden Stellen (Vollständige Liste in Arbeit).
-- **Konvertierungsfehler:** Fehlerhafte Tabellen, Links, Blockquotes, Bilder, etc. könnten vorhanden sein und sollten mit der **[PDF-Version des Buches](https://l3t.tugraz.at/index.php/LehrbuchEbner10/index)** abgeglichen werden.
+- **Fehler durch die Datenübernahme:** Fehlerhafte Tabellen, Links, Blockquotes, Bilder, etc. könnten vorhanden sein. Die Dateien sollten daher mit der **[PDF-Version des Buches](https://l3t.tugraz.at/index.php/LehrbuchEbner10/index)** abgeglichen und ggf. manuell korrigiert werden werden.
 - **Manuelle Verarbeitung:** PRs werden **nicht automatisch** in BookStack hochgeladen, sodass eine Aktualisierung Zeit braucht.
 
 ## 📩 **Fragen oder Probleme?** 
