@@ -2,10 +2,10 @@
 
 ## 📌 Überblick
 
-**Zugang zum Lehrbuch im Frontend: [L3T-Bookstack](https://l3t.ed-tech.app/books/l3t)**
+**Zugang zum Lehrbuch im Frontend: [L3T-Bookstack](https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien)**
 
 
-Dieses Repository dient als Backend für das Buch **„L3T – Lehrbuch für Lernen und Lehren mit Technologien“**. Änderungen werden kollaborativ über dieses Repo verwaltet und nach einer manuellen Prüfung ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t) synchronisiert.
+Dieses Repository dient als Backend für das Buch **„L3T – Lehrbuch für Lernen und Lehren mit Technologien“**. Änderungen werden kollaborativ über dieses Repo verwaltet und nach einer manuellen Prüfung ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien) synchronisiert.
 
 Aktuell ist das Lehrbuch sehr veraltet und muss dringend aktualisiert werden. Änderungen von jeder Person sind jederzeit willkommen. Unter Einhaltung der geforderten Konventionen (siehe weiter unten) werden Änderungen gerne in das Lehrbuch aufgenommen.
 
@@ -40,7 +40,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
     - Beschreibe im Pull-Request in Kürze, welche Änderungen du vorgenommen hast.
     - Gib ggf. auch an, welche Issues diese Änderung behebt. 
 4. Die Inhalte werden manuell geprüft. 
-    - Falls in Ordnung: PR wird akzeptiert und ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t) übertragen. 
+    - Falls in Ordnung: PR wird akzeptiert und ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t-lehrbuch-fur-lernen-und-lehren-mit-technologien) übertragen. 
     - Falls weitere Anpassungen nötig: Wird mit Kommentar zurückgewiesen.
 
 ### 🔹 Formatierung & Inhalt
