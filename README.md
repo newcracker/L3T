@@ -9,7 +9,7 @@ Dieses Repository dient als Backend für das Buch **„L3T – Lehrbuch für Ler
 
 Aktuell ist das Lehrbuch sehr veraltet und muss dringend aktualisiert werden. Änderungen von jeder Person sind jederzeit willkommen. Unter Einhaltung der geforderten Konventionen (siehe weiter unten) werden Änderungen gerne in das Lehrbuch aufgenommen.
 
-## 🛠 Struktur des Repositories
+## 🛠 Struktur im Repository
 
 Das Repo folgt einer gewissen Struktur und sieht wie folgt aus:
 
@@ -18,8 +18,9 @@ Das Repo folgt einer gewissen Struktur und sieht wie folgt aus:
 	- Einem File `00_*.md`, welches die Inhalte des Kapitels inkl. Beschreibung beinhaltet.
 	- Diverse fortlaufend nummerierte Markdown-Files (`*.md`), welche die einzelnen Seiten eines Kapitels bilden.
 	- Einem Literaturverzeichnis (`99_Literatur.md`) mit Quellenangaben.
-    - Einem `img/`-Ordner für Bilder.
+    - Einem `img`-Ordner für Bilder.
 - Der Ordner `00_L3T` enthält Buch-Administrationsdateien und darf nicht geändert werden.
+
 ## 📝 Richtlinien zur Bearbeitung
 
 Du möchtest aktiv am **L3T**-Lehrbuch mitwirken? Sehr gerne! Das Lehrbuch als öffentliche Bildungsressource (OER) lebt von der kollaborativen Zusammenarbeit und freut sich über regelmäßige Unterstützung von freiwilligen Personen, die das Lehrbuch aktuell halten.
@@ -28,9 +29,9 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
 
 ### 🔹 GitHub Workflow
 
-> 💡 **Tipp**: Falls du mit der Verwendung von Git bzw. Github nicht vertraut bist, sehe dir z.B. [diese Einführung](https://www.datacamp.com/de/tutorial/github-and-git-tutorial-for-beginners) an!
+> 💡 **Tipp**: Falls du mit der Verwendung von Git bzw. Github nicht vertraut bist, sieh dir z.B. [diese Einführung](https://www.datacamp.com/de/tutorial/github-and-git-tutorial-for-beginners) an!
 
-1. **Forke das Repository** [hier](https://github.com/ed-tech-at/L3T/fork) *(Eigener GitHub-Account erforderlich!).*
+1. **Forke das Repository** [hier](https://github.com/ed-tech-at/L3T/fork) *(eigener GitHub-Account erforderlich!).*
 2. Nimm Änderungen an den Markdown-Dateien im eigenen Fork vor.
 3. Erstelle einen **Pull-Request (PR)**, um deine Änderungen zur Überprüfung einzureichen.
     > 💡 **Tipp**: Falls du unsicher bist, wie man einen PR erstellt, sieh dir [diese Anleitung](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) an!
@@ -40,7 +41,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
     - Gib ggf. auch an, welche Issues diese Änderung behebt. 
 4. Die Inhalte werden manuell geprüft. 
     - Falls in Ordnung: PR wird akzeptiert und ins [L3T-BookStack](https://l3t.ed-tech.app/books/l3t) übertragen. 
-    - Falls weitere Anpassungen nötig: Mit Kommentar zurückgewiesen.
+    - Falls weitere Anpassungen nötig: Wird mit Kommentar zurückgewiesen.
 
 ### 🔹 Formatierung & Inhalt
 
@@ -51,7 +52,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
 - **Metadaten:** 
     - Jede Markdown-Datei enthält **Header-Kommentare** (`<!-- [...] -->`):
     
-        - `filename`: Muss  **genau**  dem realen Dateinamen entsprechen und sollte nur wenn unbedingt notwendig geändert werden. Der Dateiname darf bei Änderung **keine Lehrzeichen**, **Umlaute**, **Sonderzeichen**, o.ä. beinhalten!
+        - `filename`: Muss  **genau**  dem realen Dateinamen entsprechen und sollte nur - wenn unbedingt notwendig - geändert werden. Der Dateiname darf bei Änderung **keine Lehrzeichen**, **Umlaute**, **Sonderzeichen**, o.ä. beinhalten!
         - `title`: Titel des Kapitel bzw. der Unterseite. Darf ohne Einschränkungen angepasst werden.
         - Beispiel:
             ```
@@ -60,7 +61,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
             ```
     -  Kapitel-Files (``00_*.md``) enthalten zusätzliche Infos:
     
-        - `tags`: Tags für das Kapitel, scheinen in Bookstack in der Seitenleiste auf. Darf ohne Einschränkungen angepasst werden.
+        - `tags`: Tags für das Kapitel, scheinen in Bookstack in der Seitenleiste auf. Dürfen ohne Einschränkungen angepasst werden.
         - `authors`: Autoren des jeweiligen Kapitels (Aktuell noch nicht im Frontend nicht implementiert). 
         - Beispiel: 
             ```
@@ -74,7 +75,7 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
 - **Bilder:** 
     - Gehören vorab in den `img`-Ordner des Kapitels hochgeladen.
     - Werden im **HTML-Format** eingebunden (für Bildunterschriften).
-    - Sind zentriert innerhalb einer Figure (`<center> <figure> [...] </figure></center>`) mit `alt`-Tag und Bildunterschrift `figcaption`.
+    - Sind zentriert innerhalb einer Figure (`<center><figure> [...] </figure></center>`) mit `alt`-Tag und Bildunterschrift `figcaption`.
         - **Pfad** - RAW-GitHub-URL: `https://raw.githubusercontent.com/ed-tech-at/L3T/refs/heads/main/<Kapitel>/img/<Bilddatei>`
         - `alt`-Tag und  `figcaption` sollen gleich sein und eine fortlaufende Nummer beinhalten.
     - Zum Beispiel:
@@ -90,7 +91,10 @@ Beachte bitte folgende Richtlinien, um die Qualität der Inhalte im Lehrbuch auf
 - **Blockquotes:** 
     - Um Wichtiges hervorzuheben, zusätzliche Informationen zu geben, Übungen anzubieten oder praxisnahe Beispiele zu zeigen. 
     - Werden im **HTML-Format** angegeben.
-    - Folgen dem selben Format mit unterschiedlichen Farben (`<blockquote style="background: <HEX-Farbcode>; border-left: 10px solid <HEX-Farbcode>"> [...] </blockquote>`).
+    - Folgen demselben Format mit unterschiedlichen Farben 
+         ```
+        <blockquote style="background: <HEX-Farbcode>; border-left: 10px solid <HEX-Farbcode>"> [...] </blockquote>`
+        ```
     - Es gibt 3 Arten:
     
         |               | `!`                                           | `?`                 | `In der Praxis`     |
@@ -125,7 +129,7 @@ Die korrekte **APA-Zitierweise** ist einzuhalten:
     - (In)Direktes Zitat: `(<Autor:innen>, <Jahr>)`, z.B. 
         > (Ebner & Schön, 2013)
     - Im Fließtext: `<Autor:innen> (<Jahr>)`, z.B.
-        > Ebner & Schön. (2013)
+        > Ebner & Schön (2013)
 - **Im Literaturverzeichnis:**
 
     - Bücher: `<Autor:innen> (<Jahr>). <Titel> (<Auflage>). <Verlagsort>: <Verlag>.`, z.B. 
