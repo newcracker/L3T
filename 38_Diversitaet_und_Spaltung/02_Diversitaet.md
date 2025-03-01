@@ -1,7 +1,6 @@
 <!-- filename: 02_Diversitaet.md -->
 <!-- title: Diversität -->
 
-
 Diversität bedeutet Vielfalt und Unterschiedlichkeit zugleich. Der englische Begriff ‚Diversity‘ hat seinen Ursprung in der amerikanischen Bürgerrechtsbewegung und wird heutzutage mit den Forderungen nach Gleichstellung, Chancengerechtigkeit, Antidiskriminierung, Partizipation und Inklusion in einen Zusammenhang gebracht. Diversity beziehungsweise Diversität beschreibt demnach ein Konzept zur Förderung von Chancengerechtigkeit und Vielfalt, unter anderem kultureller, sozialer, alters- oder geschlechtsbezogener Vielfalt. Diversity als gleichstellungsorientierter Umgang mit Unterschieden und Gemeinsamkeiten betont die Bedeutung einer wertschätzenden Haltung und gleichstellungsorientierter Handlung (Klappenbach, 2009).
 
 ## Theorie: Diversität und Inklusion

@@ -13,7 +13,7 @@ Das E-Portfolio stellt das elektronische Pendant zur papierbasierten Portfolioma
 
 ## **Arten, Zweck und Funktionen von E-Portfolios**
 
-Die Vielfältigkeit des Konzepts kann gleichzeitig zum Problem werden, wenn es darum geht, mit der E-Portfolio-Arbeit zu beginnen – so unterscheidet beispielsweise Häcker (2007, 132) etwa 30 Portfoliobegriffe allein für die papierbasierten Varianten. Im Entwurf zu einer Taxonomie von E-Portfolios schlagen Baumgartner, Himpsl und Zauchner (2009) deshalb vor, nach dem Hauptzweck des Portfolioeinsatzes zunächst drei Grundtypen zu unterscheiden:  
+Die Vielfältigkeit des Konzepts kann gleichzeitig zum Problem werden, wenn es darum geht, mit der E-Portfolio-Arbeit zu beginnen – so unterscheidet beispielsweise Häcker (2007, 132) etwa 30 Portfoliobegriffe allein für die papierbasierten Varianten. Im Entwurf zu einer Taxonomie von E-Portfolios schlagen Baumgartner, Himpsl und Zauchner (2009) deshalb vor, nach dem Hauptzweck des Portfolioeinsatzes zunächst drei Grundtypen zu unterscheiden:
 
 - Reflexionsportfolio: Es dokumentiert die wesentlichen Ergebnisse des eigenen Lernfortschritts und fördert durch Reflexion Bewusstsein und Verantwortung für den eigenen Lernprozess. Es nimmt vorwiegend eine retrospektive Perspektive ein und zielt auf die innere Entwicklung der Lernenden ab. In Bildungsinstitutionen dient es häufig gleichzeitig dem Assessment der Lernleistungen.
 

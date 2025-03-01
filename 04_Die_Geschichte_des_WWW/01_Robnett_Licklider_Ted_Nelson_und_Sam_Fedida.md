@@ -42,6 +42,6 @@ Während 1969, als das große Jahr des (langsamen) Starts des Internets überall
 
 ### !
 
-Prestel kann heute als Vormodell des WWW angesehen werden und wurde in den 1970er -Jahren bereits im Vereinigten Königreich als kommerzieller Dienst angeboten.  
+Prestel kann heute als Vormodell des WWW angesehen werden und wurde in den 1970er -Jahren bereits im Vereinigten Königreich als kommerzieller Dienst angeboten.
 
 </blockquote>

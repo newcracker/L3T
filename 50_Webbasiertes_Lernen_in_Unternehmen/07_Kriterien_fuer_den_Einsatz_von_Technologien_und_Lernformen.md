@@ -1,7 +1,7 @@
 <!-- filename: 07_Kriterien_fuer_den_Einsatz_von_Technologien_und_Lernformen.md -->
 <!-- title: Kriterien für den Einsatz von Technologien und Lernformen -->
 
-Die Entscheidung für den Einsatz einer bestimmten Lerntechnologie bzw. -form und damit für ein bestimmtes didaktisches Szenario (Reinmann, 2010) hängt von verschiedenen Kriterien ab:  
+Die Entscheidung für den Einsatz einer bestimmten Lerntechnologie bzw. -form und damit für ein bestimmtes didaktisches Szenario (Reinmann, 2010) hängt von verschiedenen Kriterien ab:
 
 - **von der Lernstrategie** des Unternehmens, zum Beispiel: Welche langfristigen Ziele sollen mit dem Einsatz webbasierter Bildungstechnologien unterstützt werden? Soll eher das strukturierte, geführte Lernen oder mehr das selbstorganisierte, informelle Lernen gestärkt werden?
 

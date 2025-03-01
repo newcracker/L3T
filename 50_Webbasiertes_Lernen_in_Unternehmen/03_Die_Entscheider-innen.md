@@ -1,7 +1,7 @@
 <!-- filename: 03_Die_Entscheider-innen.md -->
 <!-- title: Die Entscheider/innen -->
 
-Das technologiegestützte Lernen ist ein Thema, das in der Regel verschiedene Kompetenzen und Verantwortlichkeiten in Unternehmen adressiert und – im günstigen Fall – zusammenführt:  
+Das technologiegestützte Lernen ist ein Thema, das in der Regel verschiedene Kompetenzen und Verantwortlichkeiten in Unternehmen adressiert und – im günstigen Fall – zusammenführt:
 
 - Die **Geschäftsführung** entscheidet über die langfristige Ausrichtung der Weiterbildung und die Einbettung des technologiegestützten Lernens in die Unternehmens-, Personal- und Bildungsstrategie. Hinweise für die strategische Ausrichtung des technologiegestützten Lernens liegen vor, wenn es in ein systematisches Kompetenzmanagement eingebettet ist. Kompetenzmanagement basiert dabei auf Kompetenzmodellen und –profilen und umfasst die Bereiche der Kompetenzerfassung und Kompetenzentwicklung.
 
@@ -13,7 +13,7 @@ Das technologiegestützte Lernen ist ein Thema, das in der Regel verschiedene Ko
 
 - Die **Mitarbeitenden** planen und steuern ihre individuellen Lernprozesse, idealerweise in Eigenverantwortung auf Basis von Kompetenzmessungen und in der Kommunikation mit Führungskräften, Coaches und Lernpartner/innen.
 
-Im Einzelfall können weitere Unternehmensbereiche, wie Interne Kommunikation oder Marketing, an der Entwicklung des technologiegestützten Lernens beteiligt sein. Dabei ist zu beachten, dass in Deutschland das technologiegestützte Lernen als Berufsbildung im Sinne des Betriebsverfassungsgesetzes der Mitbestimmung unterliegt. Deshalb gibt es in vielen Unternehmen Betriebsvereinbarungen, die zum Beispiel den Einsatz von E-Learning regeln (Heidemann, 2009).  
+Im Einzelfall können weitere Unternehmensbereiche, wie Interne Kommunikation oder Marketing, an der Entwicklung des technologiegestützten Lernens beteiligt sein. Dabei ist zu beachten, dass in Deutschland das technologiegestützte Lernen als Berufsbildung im Sinne des Betriebsverfassungsgesetzes der Mitbestimmung unterliegt. Deshalb gibt es in vielen Unternehmen Betriebsvereinbarungen, die zum Beispiel den Einsatz von E-Learning regeln (Heidemann, 2009).
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 

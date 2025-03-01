@@ -7,7 +7,7 @@ Als ein Ziel medienpädagogischer Tätigkeit und Praxis kann der Erwerb von Medi
 
 Baacke entwickelte Medienkompetenz aus dem Konzept der **Kommunikativen Kompetenz** von Habermas heraus; hierunter ist „die umfassende Fähigkeit des Menschen zu verstehen, sich zu verständigen, mittels des Austausches von Symbolen sprachlicher und nicht-sprachlicher Art“ (Schorb, 2009, 258). Kommunikationskompetenz, unabhängig von einer direkten oder einer medialen Kommunikation, ist dabei kein Wert an sich, sondern hat als Ziel die Gestaltung und Veränderung des Zusammenlebens der Menschen. Somit ist Kommunikation auf soziale Realität gerichtet (Schorb, 2009, 258). Diese Herleitung ist für das Verständnis von Medienkompetenz zentral: Es geht vor allem in den frühen Formen um gesellschaftliche Kommunikation und um die Herausbildung kritischer und mündiger Bürger. Somit verfügt Medienkompetenz schon aus der Frühform heraus über unterschiedliche Dimensionen, von der reinen Handhabbarkeit von Medien bis hin zur Analyse der Mediensprache und der Reflexion über Medien. Baacke definiert demnach Medienpädagogik als **Überbegriff für die pädagogische Beschäftigung mit Medien** in Theorie und Praxis, der aus den Bereichen Medienerziehung, Mediendidaktik, Medienkunde, Medienforschung besteht (Baacke, 2007, 4).
 
-Ausgehend vom Ursprungskonzept nach Baacke haben sich **unterschiedliche Facetten von Medienkompetenz** aufgegliedert (z.B. Rosebrock & Zitzelsberger, 2002). Erschwerend kommt hinzu, dass die Diskussion um Medienkompetenz nicht auf eine Disziplin beschränkt ist. Ausgehend von den verschiedenen Referenzdisziplinen widmen sich beispielsweise die (Medien-)Pädagogik (Tulodziecki, 2005; Spanhel, 2002; Aufenanger, 1999; u.a.), die Psychologie (z.B. Groeben, 2004; Winterhoff-Spurk, 2000) und die Kommunikationswissenschaft (z. B. Jarren & Wassmer, 2009) dieser Aufgabe. Folgende Tabelle gibt einen ersten Überblick über die Hauptkonzepte von Medienkompetenz aus medienpädagogischer Perspektive:  
+Ausgehend vom Ursprungskonzept nach Baacke haben sich **unterschiedliche Facetten von Medienkompetenz** aufgegliedert (z.B. Rosebrock & Zitzelsberger, 2002). Erschwerend kommt hinzu, dass die Diskussion um Medienkompetenz nicht auf eine Disziplin beschränkt ist. Ausgehend von den verschiedenen Referenzdisziplinen widmen sich beispielsweise die (Medien-)Pädagogik (Tulodziecki, 2005; Spanhel, 2002; Aufenanger, 1999; u.a.), die Psychologie (z.B. Groeben, 2004; Winterhoff-Spurk, 2000) und die Kommunikationswissenschaft (z. B. Jarren & Wassmer, 2009) dieser Aufgabe. Folgende Tabelle gibt einen ersten Überblick über die Hauptkonzepte von Medienkompetenz aus medienpädagogischer Perspektive:
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 
@@ -19,7 +19,7 @@ Die Aufgabe von Medienpädagogik ist die Vermittlung und der Aufbau von Medienko
 
 | Aufenanger (1997) | Baacke (1998) | Tulodziecki (1997) | Kübler (1999) |
 | --- | --- | --- | --- |
-| Kognitive Dimension | Medienkunde | Mediengestaltung verstehen und bewerten  
+| Kognitive Dimension | Medienkunde | Mediengestaltung verstehen und bewerten
 Bedingungen der Medienproduktion und -verbreitung analysierend erfassen | Kognitive Fähigkeiten |
 | Handlungsdimension | Mediennutzung | Medienangebote sinnvoll auswählen und nutzen | Handlungsorientierte Fähigkeiten |
 | Moralische Dimension | Medienkritik | Medieneinflüsse erkennen und aufarbeiten | Analytische und evaluative Fähigkeiten |

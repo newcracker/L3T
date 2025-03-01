@@ -7,7 +7,7 @@ In der ersten Phase (ab 1990) wurden Trainingsinhalte in großer Zahl für das *
 
 In der zweiten Phase (ab 2002) werden Präsenzlernen und das Lernen am Computer verknüpft: **Blended-Learning-Konzepte** (engl. „blended learning“, dt. „vermischtes Lernen“) werden entwickelt, um in integrierten Lernkonzepten die Vorteile beider Lehr-/Lernformen zu nutzen. Im Idealfall werden Selbst-Lernphasen am Computer bzw. im Netz auf der Grundlage von in einem Kickoff getroffenen Vereinbarungen weitgehend selbstorganisiert durchgeführt, und die Lerner dabei durch E-Tutorinnen und –tutoren oder E-Coaches begleitet.
 
-In der dritten Phase (ab 2006) gewinnt der Einsatz von Social Media (**Web-2.0-Instrumenten**) zur Unterstützung des informellen Lernens an Bedeutung. Die neuen Netztechnologien eröffnen Möglichkeiten des Wissensaustausches, die Arbeits- und Lernprozesse enger verbinden (Hart, 2011). Damit wird kollaboratives Arbeiten und Lernen im Netz möglich. Arbeiten und Lernen rücken näher zusammen.  
+In der dritten Phase (ab 2006) gewinnt der Einsatz von Social Media (**Web-2.0-Instrumenten**) zur Unterstützung des informellen Lernens an Bedeutung. Die neuen Netztechnologien eröffnen Möglichkeiten des Wissensaustausches, die Arbeits- und Lernprozesse enger verbinden (Hart, 2011). Damit wird kollaboratives Arbeiten und Lernen im Netz möglich. Arbeiten und Lernen rücken näher zusammen.
 
 <blockquote style="background: #B3E5FC; border-left: 10px solid #039BE5">
 

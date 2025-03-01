@@ -7,7 +7,7 @@ Was bedeuten Begriffe wie „technologiegestütztes Lernen“, „E-Learning“ 
 
 Erstes, nachstehendes, Element wird ans Ende der vorherigen Seite gestellt
 
-Der Begriff des „Technology-Enhanced Learning“ beziehungsweise des „technologiegestützten Lernens“ (oder „technologisch gestützten Lernens“) ist der weitest gespannte Begriff, welcher jene Technologien umfasst, mit deren Hilfe Aktivitäten des Lernens unterstützt werden. Immer, wenn in einer Lern- oder Lehrsituation Technologien zum Einsatz kommen, kann vom technologiegestützten oder technologisch gestützten Lernen gesprochen werden (Dror, 2008). Dies ist beispielsweise also auch dann der Fall, wenn im Unterricht ein Film gezeigt wird oder ein Schulkind eine Klassenkameradin bzw. einen Klassenkameraden anruft, um Unterstützung bei der Hausaufgabe zu erhalten.  
+Der Begriff des „Technology-Enhanced Learning“ beziehungsweise des „technologiegestützten Lernens“ (oder „technologisch gestützten Lernens“) ist der weitest gespannte Begriff, welcher jene Technologien umfasst, mit deren Hilfe Aktivitäten des Lernens unterstützt werden. Immer, wenn in einer Lern- oder Lehrsituation Technologien zum Einsatz kommen, kann vom technologiegestützten oder technologisch gestützten Lernen gesprochen werden (Dror, 2008). Dies ist beispielsweise also auch dann der Fall, wenn im Unterricht ein Film gezeigt wird oder ein Schulkind eine Klassenkameradin bzw. einen Klassenkameraden anruft, um Unterstützung bei der Hausaufgabe zu erhalten.
 
 ## Der Begriff „E-Learning“
 

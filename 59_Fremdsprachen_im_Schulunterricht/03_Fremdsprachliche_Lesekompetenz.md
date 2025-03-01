@@ -1,7 +1,6 @@
 <!-- filename: 03_Fremdsprachliche_Lesekompetenz.md -->
 <!-- title: Fremdsprachliche Lesekompetenz -->
 
-
 Die Entwicklung des Lese- ebenso wie die des Hörverstehens ist als notwendiger rezeptiver Ausgangspunkt, als Basiskompetenz für das Lernen und als Input und Impulsgebung für andere, produktive sprachliche Äußerungen, wie Diskussionseinstiege, zu betrachten.
 
 Auch hier können neue Medien, Social Software und Internetressourcen sowohl in informellen als auch formellen, institutionellen Kontexten von großem Nutzen sein und besitzen, wie bereits einleitend erwähnt, einen hohen Mehrwert gegenüber herkömmlichen Methoden und Ressourcen.

@@ -1,7 +1,7 @@
 <!-- filename: 05_Open_Educational_Resources_Frei_verwendbare_Lern-_und_Lehrmaterialien.md -->
 <!-- title: Open Educational Resources: Frei verwendbare Lern- und Lehrmaterialien -->
 
-Auch wenn viele Materialien kostenfrei verfügbar sind, bedeutet es also nicht, dass sie ohne Weiteres auch für den Unterricht verwendet werden können. Sogenannte ‚offene‘ Bildungsressourcen, die eben auch ausdrücklich zur Nutzung freigeben wurden, werden auch in der deutschsprachigen Diskussion häufig als ‚Open Educational Resources‘ oder kurz ‚OER‘ bezeichnet.  
+Auch wenn viele Materialien kostenfrei verfügbar sind, bedeutet es also nicht, dass sie ohne Weiteres auch für den Unterricht verwendet werden können. Sogenannte ‚offene‘ Bildungsressourcen, die eben auch ausdrücklich zur Nutzung freigeben wurden, werden auch in der deutschsprachigen Diskussion häufig als ‚Open Educational Resources‘ oder kurz ‚OER‘ bezeichnet.
 
 ## ‚Offen‘ heißt vor allem ‚offen lizenziert‘
 
@@ -21,7 +21,7 @@ Die Angebote von offenen Bildungsressourcen sind zahlreich und vielfältig, und 
 
 ## Meilensteine der OER-Bewegung
 
-Die OER-Bewegung formierte sich Anfang des 21. Jahrhunderts unabhängig von der Open-Access-Bewegung und Open-Source-Entwicklung, wurde aber wohl von deren Erfolgen beeinflusst. Zunächst stand dabei vor allem die Verfügbarmachung von Materialien im Internet im Vordergrund, so entstand 1996 die Zentrale für Unterrichtsmedien im Internet (ZUM.de). Auch gab es zunächst mehrere Bezeichnungen für frei verwendbare Bildungsmaterialien, beispielsweise auch ‚open educationalcontent‘ oder auch ‚freeeducationalcontent‘. Während wir OER in diesem Beitrag einführend als Lösung von urheberrechtlichen Herausforderungen dargestellt haben, dreht sich das Hauptmotiv dabei vor allem um die Erreichbarmachung und den freien Zugang zu Bildung. Ausgewählte Meilensteine der Open-Educational-Resources-Bewegung sind:  
+Die OER-Bewegung formierte sich Anfang des 21. Jahrhunderts unabhängig von der Open-Access-Bewegung und Open-Source-Entwicklung, wurde aber wohl von deren Erfolgen beeinflusst. Zunächst stand dabei vor allem die Verfügbarmachung von Materialien im Internet im Vordergrund, so entstand 1996 die Zentrale für Unterrichtsmedien im Internet (ZUM.de). Auch gab es zunächst mehrere Bezeichnungen für frei verwendbare Bildungsmaterialien, beispielsweise auch ‚open educationalcontent‘ oder auch ‚freeeducationalcontent‘. Während wir OER in diesem Beitrag einführend als Lösung von urheberrechtlichen Herausforderungen dargestellt haben, dreht sich das Hauptmotiv dabei vor allem um die Erreichbarmachung und den freien Zugang zu Bildung. Ausgewählte Meilensteine der Open-Educational-Resources-Bewegung sind:
 
 - 2002: Die UNESCO-Initiative ‚Free Educational Resources‘ weckt erstmal breites Interesse für das Thema.
 

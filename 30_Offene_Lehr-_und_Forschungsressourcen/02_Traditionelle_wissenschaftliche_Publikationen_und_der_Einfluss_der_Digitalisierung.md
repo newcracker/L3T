@@ -1,7 +1,7 @@
 <!-- filename: 02_Traditionelle_wissenschaftliche_Publikationen_und_der_Einfluss_der_Digitalisierung.md -->
 <!-- title: Traditionelle wissenschaftliche Publikationen und der Einfluss der Digitalisierung -->
 
-Damit Forschungsarbeiten diskutiert und zitiert werden können, müssen Wissenschaftler/innen diese veröffentlichen und bestmöglich verbreiten. Veröffentlichungsformen unterscheiden sich je nach Disziplin. So werden in den Geisteswissenschaften häufiger als in anderen Bereichen Sammelbände und Monografien genutzt, im Bauwesen und in der Architektur spielen zum Beispiel Tagungsbände eine zentrale Rolle. Über alle Wissenschaftsfelder hinweg sind jedoch Artikel in Fachzeitschriften die am häufigsten genutzte Veröffentlichungsform (Deutsche Forschungsgemeinschaft, 2005).  
+Damit Forschungsarbeiten diskutiert und zitiert werden können, müssen Wissenschaftler/innen diese veröffentlichen und bestmöglich verbreiten. Veröffentlichungsformen unterscheiden sich je nach Disziplin. So werden in den Geisteswissenschaften häufiger als in anderen Bereichen Sammelbände und Monografien genutzt, im Bauwesen und in der Architektur spielen zum Beispiel Tagungsbände eine zentrale Rolle. Über alle Wissenschaftsfelder hinweg sind jedoch Artikel in Fachzeitschriften die am häufigsten genutzte Veröffentlichungsform (Deutsche Forschungsgemeinschaft, 2005).
 
 ## Der Grundsatz ‚publish or perish‘
 

@@ -12,16 +12,16 @@ Abschließend sollen noch einmal die zentralen Erkenntnisse dargestellt werden:
 
 **Winterfest**  
 </blockquote> Das Adventure Winterfest soll Erwachsene, die Probleme mit dem Lesen, Schreiben und Rechnen haben, spielerisch zum Lernen motivieren. Der Spieler oder die Spielerin wird in eine prätechnologische Welt versetzt und muss durch die Bewältigung von Rätseln und Aufgaben versuchen, wieder nach Hause zu kommen. In vielen Aufgaben werden die Lese-, Schreib- und Rechenkompetenz im Kontext lebensweltnaher Alltags- und Arbeitsszenarien gefördert.  
-http://www.lernspiel-winterfest.de  
-  
+http://www.lernspiel-winterfest.de
+
 **Energetika 2010**  
 Das Online-Strategiespiel Energetika 2010 stellt Spielende vor die Herausforderung, die Stromversorgung im fiktiven Land Energetika bis 2050 sicherzustellen. Dazu müssen sie unter anderem Kraftwerke bauen, Speicheranlagen planen und neue Technologien entwickeln. Neben strategischem Geschick müssen Spielende auch nachhaltig handeln, um die Umwelt zu schonen und die Wirtschaftskraft des Landes zu erhalten. Das Spiel soll seinen Nutzern und Nutzerinnen die technischen, wirtschaftlichen und gesellschaftliche Zusammenhänge der Energieversorgung nahe bringen.  
-http://www.energiespiel.de  
-  
+http://www.energiespiel.de
+
 **Frontiers – You’ve reached the fortress Europe**  
 In dem Spiel Frontiers erleben Spielende den Alltag an den EU-Außengrenzen aus zwei Perspektiven: Aus der Sicht eines Flüchtlings oder eines Grenzpolizisten. Als Flüchtling müssen die Spieler sich verstecken, untertauchen oder Wachen bestechen, als Grenzpolizist hingegen können sich die Spieler entscheiden, ob sie Warnschüsse abgeben oder gar den Grenzgänger erschießen, wobei unethisches Verhalten bestraft wird. Zweck des Spiels ist es, Spielende die schwierige Situation von Flüchtlingen und Grenzbeamten nachempfinden zu lassen und damit Denkanstöße zu geben.  
-http://frontiers-game.com/  
-  
+http://frontiers-game.com/
+
 **Re-Mission**  
 In dem Action-Spiel Re-Mission steuern Spielende einen Nano-Roboter und spüren damit Tumorzellen im menschlichen Körper auf oder sie bekämpfen bakterielle Infektionen. Dabei kann als „Waffe“ zum Beispiel die Chemotherapie eingesetzt werden. Die Zielgruppe des Spiels sind in erster Linie junge an Krebs erkrankte Patienten, die damit ihre Krankheit bzw. Therapie besser verstehen und daraus Mut schöpfen sollen.  
 http://www.re-mission.net/

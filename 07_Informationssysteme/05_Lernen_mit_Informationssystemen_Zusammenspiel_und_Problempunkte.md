@@ -13,7 +13,7 @@ Bei der Auswahl von Informationssystemen zum Lernen und Lehren müssen diese nic
 
 An der TU Graz (Ebner, 2008) wird die Open-Source-Software WBT-Master unter dem Namen TeachCenter eingesetzt (siehe Abbildung 8). Es handelt sich hier um eine Client-Server-Architektur, basierend auf einer AJAX-Lösung, als Programmiersprache kommt Java/JavaScript zum Einsatz. AJAX (Akronym für die WorteAsynchronousJavaScriptand XML) wird verwendet, wenn es darum geht, selektiv („nach und nach“, „je nach Bedarf“) Daten an den Browser zu senden, was mit klassischen Technologien immer ein Neuladen der gesamten Webseite und den damit verbundenen Zeitaufwand erfordern würde. DerVorteil dieser Architektur ist die Reduzierung der Datenmenge der Serverantworten (durch die Vorselektion) und damit zwangsläufig von Ladezeiten sowie die verstärkte Nutzung der Clients (Internetbrowser der jeweiligen Nutzer/innen). Besonders bei einem großen System mit hohen Nutzer/innen-Zahlen und deren parallele Aktivitäten ist dies von entscheidender Bedeutung. </blockquote>
 
-An der TU Graz werden in etwa 20.000 Nutzerinnen und Nutzer verwaltet, die einen Datenverkehr von weit über 50GB pro Tag verursachen. Im Durchschnitt sind in den Kernzeiten 400 bis 500 Nutzer/innen parallel am System aktiv. Bei diesen Zahlen wird ersichtlich, dass die Performance ein wesentlicher Faktor eines LMS-Systems ist, da die Voraussetzung von zufriedenen Nutzer/innen von E-Learning-Inhalten akzeptable Reaktionszeiten des LMS sind (&lt;1 Sekunde nach einem Klick).  
+An der TU Graz werden in etwa 20.000 Nutzerinnen und Nutzer verwaltet, die einen Datenverkehr von weit über 50GB pro Tag verursachen. Im Durchschnitt sind in den Kernzeiten 400 bis 500 Nutzer/innen parallel am System aktiv. Bei diesen Zahlen wird ersichtlich, dass die Performance ein wesentlicher Faktor eines LMS-Systems ist, da die Voraussetzung von zufriedenen Nutzer/innen von E-Learning-Inhalten akzeptable Reaktionszeiten des LMS sind (&lt;1 Sekunde nach einem Klick).
 
 Das TeachCenter der TU Graz verwendet, wie die Mehrzahl der anderen Lernmanagementsysteme auch, eine Client-Server Architektur.
 
@@ -46,8 +46,8 @@ Das LMS wird kommerziell angeboten und laufend weiterentwickelt. Es beinhaltet e
 **3. LernenMitStrategie– Die Profi-Lösung**  
 Das LMS wird kommerziell angeboten und laufend weiterentwickelt. Im Zentrum steht ein komplexes Kompetenzmanagement, dass die Planung der Weiterbildungsangebote für alle Mitarbeiter/innen an vorher definierten Personalentwicklungsplänen ausrichtet. Über Schnittstellen kann es an Personaldatenbanken und Dokumentenmanagementsysteme angebunden werden. Das LMS-Unternehmen übernimmt die Installation und Pflege des LMS auf einem seiner eigenen Server sowie besprochene Anpassungen, die Abbildung Ihrer Unternehmensstruktur auf die Nutzer/innen-Verwaltung und den Import der bereits bei Ihnen verfügbaren Personalentwicklungspläne und Lerninhalte. Der Mietpreis des LMS inkl. Installation, Einrichtung, Support und 1.000 Nutzer/innen-Accounts für den webbasierten Zugriff beträgt 40.000 Euro im Jahr. Weitere Nutzer/innen-Accounts, Anpassungen und Schulungen für Mitarbeiter/innen können bei Bedarf hinzugekauft werden.
 
-**Vorteile**: Vollbetrieb durch kompetentes Unternehmen, individuell angepasster Funktionsumfang, skalierbar, hochkomplexe Nutzer/innen- und Lernprozessverwaltung  
+**Vorteile**: Vollbetrieb durch kompetentes Unternehmen, individuell angepasster Funktionsumfang, skalierbar, hochkomplexe Nutzer/innen- und Lernprozessverwaltung
 
-**Nachteile**: Jahresmiete, Daten auf fremden Server, eventuell für das Unternehmen zu komplex  
+**Nachteile**: Jahresmiete, Daten auf fremden Server, eventuell für das Unternehmen zu komplex
 
 Wie Sie gesehen haben, ist die Entscheidung zwischen Open-Source und kommerziellen Produkten immer eine individuelle Antwort auf eine offene Fragestellung und muss auf die einzelne Situation angepasst werden.
