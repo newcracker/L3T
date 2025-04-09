@@ -36,6 +36,5 @@ Educasts sind auch Bildungsgegenstand bei der Förderung von Medienkompetenz.
 
 ### ?
 
-Diskutieren Sie in Kleingruppen, wie an Ihrer pädagogischen Einrichtung Educasts eingesetzt werden könnten.
-
+Erstellen Sie in Kleingruppen einen etwa fünfminütigen Podcast zu einem frei gewählten Bildungsthema. Entwickeln Sie eine klare Struktur (z. B. Einleitung, Hauptteil, Fazit).
 </blockquote>
